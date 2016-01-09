@@ -1,0 +1,191 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+<head>
+<title>
+Department of Computer Science and Engineering, IIT Kanpur
+</title>
+<link rel="stylesheet" type="text/css" href="/css/menu.css" /> <link rel="stylesheet" type="text/css" href="/css/main.css" /> <link rel="icon" type="image/bmp" href="/images/favicon.ico.bmp"> <!--[if IE]>
+    <link rel="stylesheet" type="text/css" href="/css/ie-only.css" />
+<![endif]--> <!--[if !IE]><!--> <link rel="stylesheet" type="text/css" href="not-ie.css" /> <!--<![endif]-->
+</head>
+<body>
+<div class="page-container">
+<div class="header">
+<div id="banner">   
+<div class="iitklogo">
+<a href="http://www.iitk.ac.in"><img src="/images/iitk-logo.png" alt="IITK Logo" /></a>
+</div>
+<div class="bannertext">
+<h1>
+<a href="http://www.cse.iitk.ac.in">Department of Computer Science and Engineering</a>
+</h1><!--Don't use markdown for headings in banner they cause distortion in layout-->
+<h2>
+<a href="http://www.iitk.ac.in">Indian Institute of Technology Kanpur</a>
+</h2>
+</div>
+<div class="cse">
+<img src="/images/cse-iitk.gif" alt="CSE Department" />
+</div>
+</div>
+<div class="dropnav">
+<ul>
+<li><a href="/">Home</a></li>
+<li><a href="#">People<!--[if IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]-->
+<ul>
+<li><a href="/people/faculty.html">Faculty</a></li>
+<li><a href="/people/engineers.html">Engineers</a></li>
+<li><a href="/people/staff.html">Staff</a></li>
+<li><a href="/people/students.html">Students</a></li>
+</ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]--></li>
+<li><a href="#">Research<!--[if IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]-->
+<ul>
+<li><a href="/research/areas.html">Areas</a></li>
+<li><a href="/research/publications.html">Publication</a></li>
+<li><a href="http://www2.cse.iitk.ac.in/~sigtacs/">SIGTACS</a></li>
+<li><a href="/users/sesres/">SESRes</a></li>
+<li><a href="/users/sigdata/">SIGDATA</a></li>
+<li><a href="http://www.iitk.ac.in/surge/">SURGE</a></li>
+</ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]--></li>
+<li><a href="#">Teaching<!--[if IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]-->
+<ul>
+<li><a href="/teaching/courses.html">Courses</a></li>
+<li><a href="/users/ssax/course_tt.html">Course Timetable</a></li>
+<li><a href="http://172.26.142.68/examscheduler">Mid-Sem Exam Scheduler (Internal)</a></li>
+<li><a href="http://172.26.142.68/examscheduler2">End-Sem Exam Scheduler (Internal)</a></li>
+</ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]--></li>
+<li><a href="#">Programs<!--[if IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]-->
+<ul>
+<li><a href="/acad/phd.html">PhD</a></li>
+<li><a href="/acad/mtech.html">MTech</a></li>
+<li><a href="/acad/dualdegree.html">Dual Degree</a></li>
+<li><a href="/acad/btech.html">BTech</a></li>
+<li><a href="/acad/minor.html">Minor Programs</a></li>
+</ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]--></li>
+<li><a href="#">Admission<!--[if IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]-->
+<ul>
+<li><a href="/users/admissions/">Admissions Website</a></li>
+<li><a href="/acad/joinphd.html">PhD</a></li>
+<li><a href="/acad/adm_mt.html">MTech</a></li>
+<li><a href="/acad/adm_bt.html">BTech</a></li>
+</ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]--></li>
+<li><a href="#">About Us<!--[if IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]-->
+<ul>
+<li><a href="/dept/index.html">Department</a></li>
+<li><a href="/dept/committees.html">Committees</a></li>
+<li><a href="/dept/facilities.html">CSE Lab Facilities</a></li>
+<li><a href="/dept/contact.html">Contact Us</a></li>
+<li><a href="/links/howtoreach.html">Reaching Us</a></li>
+</ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]--></li>
+<li><a href="#">Internal<!--[if IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]-->
+<ul>
+<li><a href="https://gautam5.cse.iitk.ac.in/meeting/">Room Booking</a></li>
+<li><a href="/users/ca/">Our Certificates</a></li>
+</ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]--></li>
+<li><a href="#">Archive<!--[if IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]-->
+<ul>
+<li><a href="/chair/index.html">N Rama Rao Chair</a></li>
+<li><a href="/goelchair/index.html">Prabhu Goel Chair</a></li>
+</ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->    </li>
+<li><a href="https://webmail.cse.iitk.ac.in">WebMail</a></li>
+</ul>
+</div><!--dropnav-->
+</div><!--header-->
+<div class="content">     
+
+
+
+<h1 id="kanpur-weather-from-bbc">Kanpur Weather (from BBC)</h1>
+<p>See this <a href="http://www.bbc.co.uk/weather/5day.shtml?world=2299&amp;links">link</a>.</p>
+<hr />
+<h1 id="how-to-reach-kanpur-from-various-parts-of-the-country">How to reach Kanpur from various parts of the country</h1>
+<h2 id="travelling-to-and-from-kanpur">Travelling to and from Kanpur</h2>
+<h3 id="travelling-by-air">Travelling by air</h3>
+<p><a href="#INTLTRAVEL">International Travel and Transit Assistance in Delhi</a> <a href="#DOMESTICTRAVEL">Domestic Travel</a></p>
+<ul>
+<li><a href="#FLIGHTSDELHI">Air Travel from Delhi</a></li>
+<li><a href="#FLIGHTSMUMBAI">Air Travel from Mumbai</a></li>
+<li><a href="#FLIGHTSOTHER">Air Travel from other major Indian cities</a></li>
+</ul>
+<h3 id="travelling-by-train">Travelling by train</h3>
+<ul>
+<li><a href="#TRAINDELHI">From Delhi</a></li>
+<li><a href="#TRAINKOLKATA">From Kolkata and Kharagpur</a></li>
+</ul>
+<a name="INTLTRAVEL"></a>
+<h2 id="international-travel">International Travel</h2>
+<p>The Indira Gandhi International Airport at Delhi is a convenient point of entry for arriving at Kanpur. The IGI airport at Delhi is served by most major airlines. The international terminal at the IGI airport is called Terminal 2.</p>
+<a name="DOMESTICTRAVEL"></a>
+<h2 id="domestic-air-travel">Domestic air travel</h2>
+<p>Kanpur is mostly served by the airport of the city of Lucknow that is about 1 hour and 45 minutes drive from IIT Kanpur. There are currently four airlines that serve the Lucknow airport with several direct flights to Delhi and Mumbai everyday. There is also a local airport in Kanpur that is about an hour's driving distance from IIT Kanpur. There is currently only one <a href="http://www.indianairlines.in/home.asp">Indian Airlines</a> flight to and from Delhi that arrives at and departs from the Kanpur airport.</p>
+<p><a href="http://www.indianairlines.in/index.aspx">Indian Airlines</a><br /><a href="http://www.jetairways.com/">Jet Airways</a><br /><a href="http://www.jetlite.com/">Jetlite Airlines</a></p>
+<a name="FLIGHTSDELHI"></a>
+<h3 id="air-travel-from-delhi">Air Travel from Delhi</h3>
+<p>Note that domestic flights mostly operate out of Terminal 1 of the Indira Gandhi International Airport in Delhi. Terminals 1 and 2 are at a distance of about 5 miles from each other. There are courtesy shuttle buses that run between the two terminals at a frequency of approximately one per hour. Please contact the airline help desk across from the baggage claim area to avail of this facility. Terminal 1 is divided into several buildings, named Terminals 1A through 1D. Please refer to the <a href="http://www.newdelhiairport.in/">IGI airport website</a> to find out which airlines operate out of which terminals.</p>
+<a name="FLIGHTSMUMBAI"></a>
+<h3 id="air-travel-from-mumbai">Air Travel from Mumbai</h3>
+<p>There are a few direct flights from Mumbai to Lucknow. Another possibility is to take one of the many flights between Mumbai and Delhi and then connect to a Delhi-Lucknow or Delhi-Kanpur flight.</p>
+<a name="FLIGHTSOTHER"></a>
+<h3 id="coming-to-kanpur-from-chennai-bangalore-kolkata-hyderabad">Coming to Kanpur from Chennai, Bangalore, Kolkata, Hyderabad</h3>
+<p>If you are planning to come from one of the Indian metros or state capitals, you can take a flight from that city to either Delhi or Mumbai and then connect to one of the flights to Lucknow.</p>
+<h2 id="domestic-train-travel">Domestic Train Travel</h2>
+<p>Train service in India is provided by the <a href="http://www.indianrail.gov.in/">Indian Railways</a> and is the most popular form of public transportation. Passenger service in the Indian Railways is divided into several classes, namely, Air Conditioned I (First) class, Air Conditioned II (Two Tier) class, Air Conditioned III (3-tier) class, Air Conditioned Chair Car and Sleeper Class. The Rajdhani and the Shatabdi family of trains are widely regarded as the best trains in India. Train reservations can be made at one of the many Railway reservation counters all over India or over the internet using the <a href="http://www.irctc.co.in/">Indian Railways e-ticket</a> facility. See the Indian Railways <a href="http://www.indianrail.gov.in/">website</a> for further details. For those inexperienced in travelling by the Indian Railways, it is recommended that they travel by one of Air Conditioned I, Air Conditioned II or the Air Conditioned Chair Car (for Shatabdi trains) classes. <a name="TRAINDELHI"></a></p>
+<h3 id="travelling-to-and-from-new-delhi">Travelling to and from New Delhi</h3>
+<p>There are over twenty trains connecting New Delhi with Kanpur. A few of the convenient trains are listed below. The city of Delhi has several railway stations. The trains listed below originate from the New Delhi Railway Station (code NDLS). The New Delhi railway station is about 10-12 miles from either of the airports. Depending upon the traffic, it may take from 45 minutes to an hour and a half to get from the airports to the railway station. It is suggested that passengers connecting from a flight to a train take this into consideration. The main train station at Kanpur is called the Kanpur Central railway station (code CNB).</p>
+<a name="TRAINKOLKATA"></a>
+<h3 id="direct-trains-from-kolkata">Direct Trains from Kolkata</h3>
+<p>Air travel from Kolkata (formerly called Calcutta) to Kanpur requires a changeover at Delhi. Overnight train journey by the Rajdhani expresses can provide a comfortable alternative, besides being less expensive. Below is a list of the timings of the Rajdhani expresses that connect Kanpur to Kolkata . Note that Kolkata has two stations, namely, Howrah and Sealdah. The Calcutta Rajdhani departs from the Howrah station, whereas, the Sealdah Rajdhani departs from the Sealdah station. (In the following table (+1) indicates that the timings specified are for the day after the day of boarding the train.)</p>
+</center>
+
+
+<h3 id="how-to-reach-iit">How to Reach IIT</h3>
+<p>Taxis are easily available from the Cantt side of the Kanpur Central Railway Station (from Platform number 1 side). There is a pre-paid auto and taxi booth.</p>
+<p>Lucknow Airport also has taxis available, but they can ask for any arbitrary amount. The best thing is to ask your host in IIT Kanpur in advance to book a taxi for you.</p>
+<p><em>Rates (as of Feb 2015)</em></p>
+<table>
+<col width="13%" />
+<col width="30%" />
+<col width="18%" />
+<thead>
+<tr class="header">
+<th align="center">Mode</th>
+<th align="left">From Kanpur Station</th>
+<th align="left">From Lucknow</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="center">Auto</td>
+<td align="left">200</td>
+<td align="left">-</td>
+</tr>
+<tr class="even">
+<td align="center">Taxi</td>
+<td align="left">350</td>
+<td align="left">1550</td>
+</tr>
+<tr class="odd">
+<td align="center">Innova</td>
+<td align="left">550</td>
+<td align="left">1800</td>
+</tr>
+</tbody>
+</table>
+</div><!--content End-->
+<div class="footer">
+<div class="footerlinks" style="padding:2px;">
+<a href="/dept/newfac.html">Faculty Positions</a> | <a href="/users/rif">Research-I Foundation</a>
+</div>
+</div>   
+</div><!--Page Container End--> 
+</body>
+</html>
+
+

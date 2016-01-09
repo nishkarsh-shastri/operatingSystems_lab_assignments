@@ -1,0 +1,44 @@
+set terminal png font 'Helvetica,20' size 1024,768 linewidth 3
+set output 'fifo_plot.png'
+set key font ",20"
+set xlabel 'Page Table Size(m)'
+set ylabel 'Page Faults'
+set autoscale
+set title 'Page Faults of FIFO Algorithm'
+plot "fifo.dat" every ::2 u 1:2 with lines title 'FIFO Algorithm Page Fault Plot'
+
+set terminal png font 'Helvetica,20' size 1024,768 linewidth 3
+set output 'lru_plot.png'
+set key font ",20"
+set xlabel 'Page Table Size(m)'
+set ylabel 'Page Faults'
+set autoscale
+set title 'Page Faults of LRU Algorithm'
+plot "lru.dat" every ::2 u 1:2 with lines title 'LRU Algorithm Page Fault Plot'
+
+set terminal png font 'Helvetica,20' size 1024,768 linewidth 3
+set output 'lfu_plot.png'
+set key font ",20"
+set xlabel 'Page Table Size(m)'
+set ylabel 'Page Faults'
+set autoscale
+set title 'Page Faults of LFU Algorithm'
+plot "lfu.dat" every ::2 u 1:2 with lines title 'LFU Algorithm Page Fault Plot'
+
+set terminal png font 'Helvetica,20' size 1024,768 linewidth 3
+set output 'sca_plot.png'
+set key font ",20"
+set xlabel 'Page Table Size(m)'
+set ylabel 'Page Faults'
+set autoscale
+set title 'Page Faults of SCA Algorithm'
+plot "sca.dat" every ::2 u 1:2 with lines title 'SCA Algorithm Page Fault Plot'
+
+set terminal png font 'Helvetica,20' size 1024,768 linewidth 3
+set output 'all_in_one.png'
+set key font ",20"
+set xlabel 'Page Table Size(m)'
+set ylabel 'Page Faults'
+set autoscale
+set title 'Page Faults Comparison Plot'
+plot "sca.dat" every ::2 u 1:2 with lines,"lru.dat" every ::2 u 1:2 with lines,"fifo.dat" every ::2 u 1:2 with lines,"lfu.dat" every ::2 u 1:2 with lines

@@ -1,0 +1,3081 @@
+Finding files hellp
+filename is urlnumber1
+Curling http://cse.iitkgp.ac.in
+Curling
+Finding files
+MAIN URL :: http://cse.iitkgp.ac.in/index.php
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=d2RkOUgybWlNZzJwQXdLc28wNzh6UT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=N2xYSGRub2lDaGdGSjZpVDB4K1U5dz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=WnNYU2lEOW5qZEhQYWZwV0hBNE1yQT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=K3hkZStwcjd0RFFKSEJ4dzlFd2w1Zz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=elJDeHRoRjN1Vkx6WWVaQ3I4TW5Ydz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=eHJXMnFJTzBUeFA4MHNmRHRwbHNmdz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=L3VUeUw0WVNmNkZHZG5BbmNFSVhVUT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=MjRUVWJmNkZHSHpzNDhTWXFhRUNmUT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=RVJFT0VhNlk2S1JLeWUycUZiNSthdz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=bmJJTkZuOHlYN0NPVG00YXFWbHFZQT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=WVRoQXdHQVhtbGRZVGxoZTc0OHdNZz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=TlFKclRJSXJLR2dTcDlWc01WbWRHdz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=WGdzVnBmVmVHR1p4bjJGU2tNSW5lQT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=czFYS0xSN2lreXV5QS8rUWU2VTdsZz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=WWYzY094Yy9oYjFTU2FNNm1Gekx2QT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/~rs/
+Base URL :: http://cse.iitkgp.ac.in/~rs/
+Flag  :: 0
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=NEpBdHBuZGxWS011UXFHTnBhWmFYdz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=cmN1bkh1WWpDQnExbWRoN2JRd0xTdz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=c3lnRmpvWG4rUDZYRGc1d1NMME95dz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=UFo0Yk9SSmNBc1JLUitJUnZXTVFQUT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=TE02K21iRlFmUVpCcGV6UkpiYWZ5dz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=L2Q5bUJTREtEa3RQVEFZVlhXK0FWZz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=eU5TR2kvdzFMSUVmOHNBOXdXZ3Y2Zz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=ZGRBKzNod1pOQlpUeDdjV1dZL0ZkUT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=WmNONmw3VTNiTEpxMlhDbC9DUkpPQT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=L09KNlJvYWdYQmF4WEdPOU9RS1p2QT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://10.3.100.244/
+Base URL :: http://10.3.100.244/
+Flag  :: 0
+MAIN URL :: http://203.110.240.245/
+Base URL :: http://203.110.240.245/
+Flag  :: 0
+MAIN URL :: http://cse.iitkgp.ac.in/oldlook
+Base URL :: http://cse.iitkgp.ac.in/oldlook
+Flag  :: 0
+MAIN URL :: http://www.crcpress.com/product/isbn/9781439895832
+Base URL :: http://www.crcpress.com/product/isbn/9781439895832
+Flag  :: 0
+MAIN URL :: http://caldam.cse.iitk.ac.in/
+Base URL :: http://caldam.cse.iitk.ac.in/
+Flag  :: 0
+Finding files hellp
+filename is urlnumber2
+Curling http://cse.iitkgp.ac.in/index.php
+Curling
+Finding files
+MAIN URL :: http://cse.iitkgp.ac.in/index.php
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=d2RkOUgybWlNZzJwQXdLc28wNzh6UT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=N2xYSGRub2lDaGdGSjZpVDB4K1U5dz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=WnNYU2lEOW5qZEhQYWZwV0hBNE1yQT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=K3hkZStwcjd0RFFKSEJ4dzlFd2w1Zz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=elJDeHRoRjN1Vkx6WWVaQ3I4TW5Ydz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=eHJXMnFJTzBUeFA4MHNmRHRwbHNmdz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=L3VUeUw0WVNmNkZHZG5BbmNFSVhVUT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=MjRUVWJmNkZHSHpzNDhTWXFhRUNmUT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=RVJFT0VhNlk2S1JLeWUycUZiNSthdz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=bmJJTkZuOHlYN0NPVG00YXFWbHFZQT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=WVRoQXdHQVhtbGRZVGxoZTc0OHdNZz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=TlFKclRJSXJLR2dTcDlWc01WbWRHdz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=WGdzVnBmVmVHR1p4bjJGU2tNSW5lQT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=czFYS0xSN2lreXV5QS8rUWU2VTdsZz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=WWYzY094Yy9oYjFTU2FNNm1Gekx2QT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/~rs/
+Base URL :: http://cse.iitkgp.ac.in/~rs/
+Flag  :: 0
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=NEpBdHBuZGxWS011UXFHTnBhWmFYdz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=cmN1bkh1WWpDQnExbWRoN2JRd0xTdz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=c3lnRmpvWG4rUDZYRGc1d1NMME95dz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=UFo0Yk9SSmNBc1JLUitJUnZXTVFQUT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=TE02K21iRlFmUVpCcGV6UkpiYWZ5dz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=L2Q5bUJTREtEa3RQVEFZVlhXK0FWZz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=eU5TR2kvdzFMSUVmOHNBOXdXZ3Y2Zz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=ZGRBKzNod1pOQlpUeDdjV1dZL0ZkUT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=WmNONmw3VTNiTEpxMlhDbC9DUkpPQT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=L09KNlJvYWdYQmF4WEdPOU9RS1p2QT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://10.3.100.244/
+Base URL :: http://10.3.100.244/
+Flag  :: 0
+MAIN URL :: http://203.110.240.245/
+Base URL :: http://203.110.240.245/
+Flag  :: 0
+MAIN URL :: http://cse.iitkgp.ac.in/oldlook
+Base URL :: http://cse.iitkgp.ac.in/oldlook
+Flag  :: 0
+MAIN URL :: http://www.crcpress.com/product/isbn/9781439895832
+Base URL :: http://www.crcpress.com/product/isbn/9781439895832
+Flag  :: 0
+MAIN URL :: http://caldam.cse.iitk.ac.in/
+Base URL :: http://caldam.cse.iitk.ac.in/
+Flag  :: 0
+Finding files hellp
+filename is urlnumber3
+Curling http://cse.iitkgp.ac.in/index.php?secret=d2RkOUgybWlNZzJwQXdLc28wNzh6UT09
+Curling
+Finding files
+MAIN URL :: http://cse.iitkgp.ac.in/index.php
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=d2RkOUgybWlNZzJwQXdLc28wNzh6UT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=N2xYSGRub2lDaGdGSjZpVDB4K1U5dz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=WnNYU2lEOW5qZEhQYWZwV0hBNE1yQT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=K3hkZStwcjd0RFFKSEJ4dzlFd2w1Zz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=elJDeHRoRjN1Vkx6WWVaQ3I4TW5Ydz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=eHJXMnFJTzBUeFA4MHNmRHRwbHNmdz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=L3VUeUw0WVNmNkZHZG5BbmNFSVhVUT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=MjRUVWJmNkZHSHpzNDhTWXFhRUNmUT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=RVJFT0VhNlk2S1JLeWUycUZiNSthdz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=bmJJTkZuOHlYN0NPVG00YXFWbHFZQT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=WVRoQXdHQVhtbGRZVGxoZTc0OHdNZz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=TlFKclRJSXJLR2dTcDlWc01WbWRHdz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=WGdzVnBmVmVHR1p4bjJGU2tNSW5lQT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=czFYS0xSN2lreXV5QS8rUWU2VTdsZz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=WWYzY094Yy9oYjFTU2FNNm1Gekx2QT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/~rs/
+Base URL :: http://cse.iitkgp.ac.in/~rs/
+Flag  :: 0
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=NEpBdHBuZGxWS011UXFHTnBhWmFYdz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=cmN1bkh1WWpDQnExbWRoN2JRd0xTdz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=c3lnRmpvWG4rUDZYRGc1d1NMME95dz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=UFo0Yk9SSmNBc1JLUitJUnZXTVFQUT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=TE02K21iRlFmUVpCcGV6UkpiYWZ5dz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=L2Q5bUJTREtEa3RQVEFZVlhXK0FWZz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=eU5TR2kvdzFMSUVmOHNBOXdXZ3Y2Zz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=ZGRBKzNod1pOQlpUeDdjV1dZL0ZkUT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=WmNONmw3VTNiTEpxMlhDbC9DUkpPQT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=L09KNlJvYWdYQmF4WEdPOU9RS1p2QT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://10.3.100.244/
+Base URL :: http://10.3.100.244/
+Flag  :: 0
+MAIN URL :: http://203.110.240.245/
+Base URL :: http://203.110.240.245/
+Flag  :: 0
+MAIN URL :: http://cse.iitkgp.ac.in/oldlook
+Base URL :: http://cse.iitkgp.ac.in/oldlook
+Flag  :: 0
+MAIN URL :: http://www.crcpress.com/product/isbn/9781439895832
+Base URL :: http://www.crcpress.com/product/isbn/9781439895832
+Flag  :: 0
+MAIN URL :: http://caldam.cse.iitk.ac.in/
+Base URL :: http://caldam.cse.iitk.ac.in/
+Flag  :: 0
+Finding files hellp
+filename is urlnumber4
+Curling http://cse.iitkgp.ac.in/index.php?secret=N2xYSGRub2lDaGdGSjZpVDB4K1U5dz09
+Curling
+Finding files
+MAIN URL :: http://cse.iitkgp.ac.in/index.php
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=d2RkOUgybWlNZzJwQXdLc28wNzh6UT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=N2xYSGRub2lDaGdGSjZpVDB4K1U5dz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=WnNYU2lEOW5qZEhQYWZwV0hBNE1yQT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=K3hkZStwcjd0RFFKSEJ4dzlFd2w1Zz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=elJDeHRoRjN1Vkx6WWVaQ3I4TW5Ydz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=eHJXMnFJTzBUeFA4MHNmRHRwbHNmdz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=L3VUeUw0WVNmNkZHZG5BbmNFSVhVUT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=MjRUVWJmNkZHSHpzNDhTWXFhRUNmUT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=RVJFT0VhNlk2S1JLeWUycUZiNSthdz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=bmJJTkZuOHlYN0NPVG00YXFWbHFZQT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=WVRoQXdHQVhtbGRZVGxoZTc0OHdNZz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=TlFKclRJSXJLR2dTcDlWc01WbWRHdz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=WGdzVnBmVmVHR1p4bjJGU2tNSW5lQT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=czFYS0xSN2lreXV5QS8rUWU2VTdsZz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=WWYzY094Yy9oYjFTU2FNNm1Gekx2QT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/~rs/
+Base URL :: http://cse.iitkgp.ac.in/~rs/
+Flag  :: 0
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=NEpBdHBuZGxWS011UXFHTnBhWmFYdz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=cmN1bkh1WWpDQnExbWRoN2JRd0xTdz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=c3lnRmpvWG4rUDZYRGc1d1NMME95dz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=UFo0Yk9SSmNBc1JLUitJUnZXTVFQUT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=TE02K21iRlFmUVpCcGV6UkpiYWZ5dz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=L2Q5bUJTREtEa3RQVEFZVlhXK0FWZz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=eU5TR2kvdzFMSUVmOHNBOXdXZ3Y2Zz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=ZGRBKzNod1pOQlpUeDdjV1dZL0ZkUT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=WmNONmw3VTNiTEpxMlhDbC9DUkpPQT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=L09KNlJvYWdYQmF4WEdPOU9RS1p2QT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://10.3.100.244/
+Base URL :: http://10.3.100.244/
+Flag  :: 0
+MAIN URL :: http://203.110.240.245/
+Base URL :: http://203.110.240.245/
+Flag  :: 0
+MAIN URL :: http://cse.iitkgp.ac.in/oldlook
+Base URL :: http://cse.iitkgp.ac.in/oldlook
+Flag  :: 0
+MAIN URL :: http://www.crcpress.com/product/isbn/9781439895832
+Base URL :: http://www.crcpress.com/product/isbn/9781439895832
+Flag  :: 0
+MAIN URL :: http://caldam.cse.iitk.ac.in/
+Base URL :: http://caldam.cse.iitk.ac.in/
+Flag  :: 0
+Finding files hellp
+filename is urlnumber5
+Curling http://cse.iitkgp.ac.in/index.php?secret=WnNYU2lEOW5qZEhQYWZwV0hBNE1yQT09
+Curling
+Finding files
+MAIN URL :: http://cse.iitkgp.ac.in/index.php
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=d2RkOUgybWlNZzJwQXdLc28wNzh6UT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=N2xYSGRub2lDaGdGSjZpVDB4K1U5dz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=WnNYU2lEOW5qZEhQYWZwV0hBNE1yQT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=K3hkZStwcjd0RFFKSEJ4dzlFd2w1Zz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=elJDeHRoRjN1Vkx6WWVaQ3I4TW5Ydz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=eHJXMnFJTzBUeFA4MHNmRHRwbHNmdz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=L3VUeUw0WVNmNkZHZG5BbmNFSVhVUT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=MjRUVWJmNkZHSHpzNDhTWXFhRUNmUT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=RVJFT0VhNlk2S1JLeWUycUZiNSthdz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=bmJJTkZuOHlYN0NPVG00YXFWbHFZQT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=WVRoQXdHQVhtbGRZVGxoZTc0OHdNZz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=TlFKclRJSXJLR2dTcDlWc01WbWRHdz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=WGdzVnBmVmVHR1p4bjJGU2tNSW5lQT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=czFYS0xSN2lreXV5QS8rUWU2VTdsZz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=WWYzY094Yy9oYjFTU2FNNm1Gekx2QT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/~rs/
+Base URL :: http://cse.iitkgp.ac.in/~rs/
+Flag  :: 0
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=NEpBdHBuZGxWS011UXFHTnBhWmFYdz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=cmN1bkh1WWpDQnExbWRoN2JRd0xTdz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=c3lnRmpvWG4rUDZYRGc1d1NMME95dz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=UFo0Yk9SSmNBc1JLUitJUnZXTVFQUT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=TE02K21iRlFmUVpCcGV6UkpiYWZ5dz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=L2Q5bUJTREtEa3RQVEFZVlhXK0FWZz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=eU5TR2kvdzFMSUVmOHNBOXdXZ3Y2Zz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=ZGRBKzNod1pOQlpUeDdjV1dZL0ZkUT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=WmNONmw3VTNiTEpxMlhDbC9DUkpPQT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=L09KNlJvYWdYQmF4WEdPOU9RS1p2QT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://10.3.100.244/
+Base URL :: http://10.3.100.244/
+Flag  :: 0
+MAIN URL :: http://203.110.240.245/
+Base URL :: http://203.110.240.245/
+Flag  :: 0
+MAIN URL :: http://cse.iitkgp.ac.in/oldlook
+Base URL :: http://cse.iitkgp.ac.in/oldlook
+Flag  :: 0
+MAIN URL :: http://www.crcpress.com/product/isbn/9781439895832
+Base URL :: http://www.crcpress.com/product/isbn/9781439895832
+Flag  :: 0
+MAIN URL :: http://caldam.cse.iitk.ac.in/
+Base URL :: http://caldam.cse.iitk.ac.in/
+Flag  :: 0
+Finding files hellp
+filename is urlnumber6
+Curling http://cse.iitkgp.ac.in/index.php?secret=K3hkZStwcjd0RFFKSEJ4dzlFd2w1Zz09
+Curling
+Finding files
+MAIN URL :: http://cse.iitkgp.ac.in/index.php
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=d2RkOUgybWlNZzJwQXdLc28wNzh6UT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=N2xYSGRub2lDaGdGSjZpVDB4K1U5dz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=WnNYU2lEOW5qZEhQYWZwV0hBNE1yQT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=K3hkZStwcjd0RFFKSEJ4dzlFd2w1Zz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=elJDeHRoRjN1Vkx6WWVaQ3I4TW5Ydz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=eHJXMnFJTzBUeFA4MHNmRHRwbHNmdz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=L3VUeUw0WVNmNkZHZG5BbmNFSVhVUT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=MjRUVWJmNkZHSHpzNDhTWXFhRUNmUT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=RVJFT0VhNlk2S1JLeWUycUZiNSthdz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=bmJJTkZuOHlYN0NPVG00YXFWbHFZQT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=WVRoQXdHQVhtbGRZVGxoZTc0OHdNZz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=TlFKclRJSXJLR2dTcDlWc01WbWRHdz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=WGdzVnBmVmVHR1p4bjJGU2tNSW5lQT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=czFYS0xSN2lreXV5QS8rUWU2VTdsZz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=WWYzY094Yy9oYjFTU2FNNm1Gekx2QT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/~rs/
+Base URL :: http://cse.iitkgp.ac.in/~rs/
+Flag  :: 0
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=NEpBdHBuZGxWS011UXFHTnBhWmFYdz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=cmN1bkh1WWpDQnExbWRoN2JRd0xTdz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=c3lnRmpvWG4rUDZYRGc1d1NMME95dz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=UFo0Yk9SSmNBc1JLUitJUnZXTVFQUT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=TE02K21iRlFmUVpCcGV6UkpiYWZ5dz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=L2Q5bUJTREtEa3RQVEFZVlhXK0FWZz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=eU5TR2kvdzFMSUVmOHNBOXdXZ3Y2Zz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=ZGRBKzNod1pOQlpUeDdjV1dZL0ZkUT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=WmNONmw3VTNiTEpxMlhDbC9DUkpPQT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=L09KNlJvYWdYQmF4WEdPOU9RS1p2QT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://10.3.100.244/
+Base URL :: http://10.3.100.244/
+Flag  :: 0
+MAIN URL :: http://203.110.240.245/
+Base URL :: http://203.110.240.245/
+Flag  :: 0
+MAIN URL :: http://cse.iitkgp.ac.in/oldlook
+Base URL :: http://cse.iitkgp.ac.in/oldlook
+Flag  :: 0
+MAIN URL :: http://www.crcpress.com/product/isbn/9781439895832
+Base URL :: http://www.crcpress.com/product/isbn/9781439895832
+Flag  :: 0
+MAIN URL :: http://caldam.cse.iitk.ac.in/
+Base URL :: http://caldam.cse.iitk.ac.in/
+Flag  :: 0
+Finding files hellp
+filename is urlnumber7
+Curling http://cse.iitkgp.ac.in/index.php?secret=elJDeHRoRjN1Vkx6WWVaQ3I4TW5Ydz09
+Curling
+Finding files
+MAIN URL :: http://cse.iitkgp.ac.in/index.php
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=d2RkOUgybWlNZzJwQXdLc28wNzh6UT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=N2xYSGRub2lDaGdGSjZpVDB4K1U5dz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=WnNYU2lEOW5qZEhQYWZwV0hBNE1yQT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=K3hkZStwcjd0RFFKSEJ4dzlFd2w1Zz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=elJDeHRoRjN1Vkx6WWVaQ3I4TW5Ydz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=eHJXMnFJTzBUeFA4MHNmRHRwbHNmdz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=L3VUeUw0WVNmNkZHZG5BbmNFSVhVUT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=MjRUVWJmNkZHSHpzNDhTWXFhRUNmUT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=RVJFT0VhNlk2S1JLeWUycUZiNSthdz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=bmJJTkZuOHlYN0NPVG00YXFWbHFZQT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=WVRoQXdHQVhtbGRZVGxoZTc0OHdNZz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=TlFKclRJSXJLR2dTcDlWc01WbWRHdz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=WGdzVnBmVmVHR1p4bjJGU2tNSW5lQT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=czFYS0xSN2lreXV5QS8rUWU2VTdsZz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=WWYzY094Yy9oYjFTU2FNNm1Gekx2QT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/~rs/
+Base URL :: http://cse.iitkgp.ac.in/~rs/
+Flag  :: 0
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=NEpBdHBuZGxWS011UXFHTnBhWmFYdz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=cmN1bkh1WWpDQnExbWRoN2JRd0xTdz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=c3lnRmpvWG4rUDZYRGc1d1NMME95dz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=UFo0Yk9SSmNBc1JLUitJUnZXTVFQUT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=TE02K21iRlFmUVpCcGV6UkpiYWZ5dz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=L2Q5bUJTREtEa3RQVEFZVlhXK0FWZz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=eU5TR2kvdzFMSUVmOHNBOXdXZ3Y2Zz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=ZGRBKzNod1pOQlpUeDdjV1dZL0ZkUT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=WmNONmw3VTNiTEpxMlhDbC9DUkpPQT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=L09KNlJvYWdYQmF4WEdPOU9RS1p2QT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://10.3.100.244/
+Base URL :: http://10.3.100.244/
+Flag  :: 0
+MAIN URL :: http://203.110.240.245/
+Base URL :: http://203.110.240.245/
+Flag  :: 0
+MAIN URL :: http://cse.iitkgp.ac.in/oldlook
+Base URL :: http://cse.iitkgp.ac.in/oldlook
+Flag  :: 0
+MAIN URL :: http://www.crcpress.com/product/isbn/9781439895832
+Base URL :: http://www.crcpress.com/product/isbn/9781439895832
+Flag  :: 0
+MAIN URL :: http://caldam.cse.iitk.ac.in/
+Base URL :: http://caldam.cse.iitk.ac.in/
+Flag  :: 0
+Finding files hellp
+filename is urlnumber8
+Curling http://cse.iitkgp.ac.in/index.php?secret=eHJXMnFJTzBUeFA4MHNmRHRwbHNmdz09
+Curling
+Finding files
+MAIN URL :: http://cse.iitkgp.ac.in/index.php
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=d2RkOUgybWlNZzJwQXdLc28wNzh6UT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=N2xYSGRub2lDaGdGSjZpVDB4K1U5dz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=WnNYU2lEOW5qZEhQYWZwV0hBNE1yQT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=K3hkZStwcjd0RFFKSEJ4dzlFd2w1Zz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=elJDeHRoRjN1Vkx6WWVaQ3I4TW5Ydz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=eHJXMnFJTzBUeFA4MHNmRHRwbHNmdz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=L3VUeUw0WVNmNkZHZG5BbmNFSVhVUT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=MjRUVWJmNkZHSHpzNDhTWXFhRUNmUT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=RVJFT0VhNlk2S1JLeWUycUZiNSthdz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=bmJJTkZuOHlYN0NPVG00YXFWbHFZQT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=WVRoQXdHQVhtbGRZVGxoZTc0OHdNZz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=TlFKclRJSXJLR2dTcDlWc01WbWRHdz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=WGdzVnBmVmVHR1p4bjJGU2tNSW5lQT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=czFYS0xSN2lreXV5QS8rUWU2VTdsZz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=WWYzY094Yy9oYjFTU2FNNm1Gekx2QT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/~rs/
+Base URL :: http://cse.iitkgp.ac.in/~rs/
+Flag  :: 0
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=NEpBdHBuZGxWS011UXFHTnBhWmFYdz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=cmN1bkh1WWpDQnExbWRoN2JRd0xTdz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=c3lnRmpvWG4rUDZYRGc1d1NMME95dz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=UFo0Yk9SSmNBc1JLUitJUnZXTVFQUT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=TE02K21iRlFmUVpCcGV6UkpiYWZ5dz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=L2Q5bUJTREtEa3RQVEFZVlhXK0FWZz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=eU5TR2kvdzFMSUVmOHNBOXdXZ3Y2Zz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=ZGRBKzNod1pOQlpUeDdjV1dZL0ZkUT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=WmNONmw3VTNiTEpxMlhDbC9DUkpPQT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=L09KNlJvYWdYQmF4WEdPOU9RS1p2QT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://10.3.100.244/
+Base URL :: http://10.3.100.244/
+Flag  :: 0
+MAIN URL :: http://203.110.240.245/
+Base URL :: http://203.110.240.245/
+Flag  :: 0
+MAIN URL :: http://cse.iitkgp.ac.in/oldlook
+Base URL :: http://cse.iitkgp.ac.in/oldlook
+Flag  :: 0
+MAIN URL :: http://www.crcpress.com/product/isbn/9781439895832
+Base URL :: http://www.crcpress.com/product/isbn/9781439895832
+Flag  :: 0
+MAIN URL :: http://caldam.cse.iitk.ac.in/
+Base URL :: http://caldam.cse.iitk.ac.in/
+Flag  :: 0
+Finding files hellp
+filename is urlnumber9
+Curling http://cse.iitkgp.ac.in/index.php?secret=L3VUeUw0WVNmNkZHZG5BbmNFSVhVUT09
+Curling
+Finding files
+MAIN URL :: http://cse.iitkgp.ac.in/index.php
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=d2RkOUgybWlNZzJwQXdLc28wNzh6UT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=N2xYSGRub2lDaGdGSjZpVDB4K1U5dz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=WnNYU2lEOW5qZEhQYWZwV0hBNE1yQT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=K3hkZStwcjd0RFFKSEJ4dzlFd2w1Zz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=elJDeHRoRjN1Vkx6WWVaQ3I4TW5Ydz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=eHJXMnFJTzBUeFA4MHNmRHRwbHNmdz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=L3VUeUw0WVNmNkZHZG5BbmNFSVhVUT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=MjRUVWJmNkZHSHpzNDhTWXFhRUNmUT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=RVJFT0VhNlk2S1JLeWUycUZiNSthdz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=bmJJTkZuOHlYN0NPVG00YXFWbHFZQT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=WVRoQXdHQVhtbGRZVGxoZTc0OHdNZz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=TlFKclRJSXJLR2dTcDlWc01WbWRHdz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=WGdzVnBmVmVHR1p4bjJGU2tNSW5lQT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=czFYS0xSN2lreXV5QS8rUWU2VTdsZz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=WWYzY094Yy9oYjFTU2FNNm1Gekx2QT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/~rs/
+Base URL :: http://cse.iitkgp.ac.in/~rs/
+Flag  :: 0
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=NEpBdHBuZGxWS011UXFHTnBhWmFYdz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=cmN1bkh1WWpDQnExbWRoN2JRd0xTdz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=c3lnRmpvWG4rUDZYRGc1d1NMME95dz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=UFo0Yk9SSmNBc1JLUitJUnZXTVFQUT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=TE02K21iRlFmUVpCcGV6UkpiYWZ5dz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=L2Q5bUJTREtEa3RQVEFZVlhXK0FWZz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=eU5TR2kvdzFMSUVmOHNBOXdXZ3Y2Zz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=ZGRBKzNod1pOQlpUeDdjV1dZL0ZkUT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=WmNONmw3VTNiTEpxMlhDbC9DUkpPQT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=L09KNlJvYWdYQmF4WEdPOU9RS1p2QT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://10.3.100.244/
+Base URL :: http://10.3.100.244/
+Flag  :: 0
+MAIN URL :: http://203.110.240.245/
+Base URL :: http://203.110.240.245/
+Flag  :: 0
+MAIN URL :: http://cse.iitkgp.ac.in/oldlook
+Base URL :: http://cse.iitkgp.ac.in/oldlook
+Flag  :: 0
+MAIN URL :: http://www.crcpress.com/product/isbn/9781439895832
+Base URL :: http://www.crcpress.com/product/isbn/9781439895832
+Flag  :: 0
+MAIN URL :: http://caldam.cse.iitk.ac.in/
+Base URL :: http://caldam.cse.iitk.ac.in/
+Flag  :: 0
+Finding files hellp
+filename is urlnumber10
+Curling http://cse.iitkgp.ac.in/index.php?secret=MjRUVWJmNkZHSHpzNDhTWXFhRUNmUT09
+Curling
+Finding files
+MAIN URL :: http://cse.iitkgp.ac.in/index.php
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=d2RkOUgybWlNZzJwQXdLc28wNzh6UT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=N2xYSGRub2lDaGdGSjZpVDB4K1U5dz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=WnNYU2lEOW5qZEhQYWZwV0hBNE1yQT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=K3hkZStwcjd0RFFKSEJ4dzlFd2w1Zz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=elJDeHRoRjN1Vkx6WWVaQ3I4TW5Ydz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=eHJXMnFJTzBUeFA4MHNmRHRwbHNmdz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=L3VUeUw0WVNmNkZHZG5BbmNFSVhVUT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=MjRUVWJmNkZHSHpzNDhTWXFhRUNmUT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=RVJFT0VhNlk2S1JLeWUycUZiNSthdz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=bmJJTkZuOHlYN0NPVG00YXFWbHFZQT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=WVRoQXdHQVhtbGRZVGxoZTc0OHdNZz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=TlFKclRJSXJLR2dTcDlWc01WbWRHdz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=WGdzVnBmVmVHR1p4bjJGU2tNSW5lQT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=czFYS0xSN2lreXV5QS8rUWU2VTdsZz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=WWYzY094Yy9oYjFTU2FNNm1Gekx2QT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/~rs/
+Base URL :: http://cse.iitkgp.ac.in/~rs/
+Flag  :: 0
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=NEpBdHBuZGxWS011UXFHTnBhWmFYdz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=cmN1bkh1WWpDQnExbWRoN2JRd0xTdz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=c3lnRmpvWG4rUDZYRGc1d1NMME95dz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=UFo0Yk9SSmNBc1JLUitJUnZXTVFQUT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=TE02K21iRlFmUVpCcGV6UkpiYWZ5dz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=L2Q5bUJTREtEa3RQVEFZVlhXK0FWZz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=eU5TR2kvdzFMSUVmOHNBOXdXZ3Y2Zz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=ZGRBKzNod1pOQlpUeDdjV1dZL0ZkUT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=WmNONmw3VTNiTEpxMlhDbC9DUkpPQT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=L09KNlJvYWdYQmF4WEdPOU9RS1p2QT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://10.3.100.244/
+Base URL :: http://10.3.100.244/
+Flag  :: 0
+MAIN URL :: http://203.110.240.245/
+Base URL :: http://203.110.240.245/
+Flag  :: 0
+MAIN URL :: http://cse.iitkgp.ac.in/oldlook
+Base URL :: http://cse.iitkgp.ac.in/oldlook
+Flag  :: 0
+MAIN URL :: http://www.crcpress.com/product/isbn/9781439895832
+Base URL :: http://www.crcpress.com/product/isbn/9781439895832
+Flag  :: 0
+MAIN URL :: http://caldam.cse.iitk.ac.in/
+Base URL :: http://caldam.cse.iitk.ac.in/
+Flag  :: 0
+Finding files hellp
+filename is urlnumber11
+Curling http://cse.iitkgp.ac.in/index.php?secret=RVJFT0VhNlk2S1JLeWUycUZiNSthdz09
+Curling
+Finding files
+MAIN URL :: http://cse.iitkgp.ac.in/index.php
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=d2RkOUgybWlNZzJwQXdLc28wNzh6UT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=N2xYSGRub2lDaGdGSjZpVDB4K1U5dz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=WnNYU2lEOW5qZEhQYWZwV0hBNE1yQT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=K3hkZStwcjd0RFFKSEJ4dzlFd2w1Zz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=elJDeHRoRjN1Vkx6WWVaQ3I4TW5Ydz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=eHJXMnFJTzBUeFA4MHNmRHRwbHNmdz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=L3VUeUw0WVNmNkZHZG5BbmNFSVhVUT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=MjRUVWJmNkZHSHpzNDhTWXFhRUNmUT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=RVJFT0VhNlk2S1JLeWUycUZiNSthdz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=bmJJTkZuOHlYN0NPVG00YXFWbHFZQT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=WVRoQXdHQVhtbGRZVGxoZTc0OHdNZz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=TlFKclRJSXJLR2dTcDlWc01WbWRHdz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=WGdzVnBmVmVHR1p4bjJGU2tNSW5lQT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=czFYS0xSN2lreXV5QS8rUWU2VTdsZz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=WWYzY094Yy9oYjFTU2FNNm1Gekx2QT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/~rs/
+Base URL :: http://cse.iitkgp.ac.in/~rs/
+Flag  :: 0
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=NEpBdHBuZGxWS011UXFHTnBhWmFYdz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=cmN1bkh1WWpDQnExbWRoN2JRd0xTdz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=c3lnRmpvWG4rUDZYRGc1d1NMME95dz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=UFo0Yk9SSmNBc1JLUitJUnZXTVFQUT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=TE02K21iRlFmUVpCcGV6UkpiYWZ5dz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=L2Q5bUJTREtEa3RQVEFZVlhXK0FWZz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=eU5TR2kvdzFMSUVmOHNBOXdXZ3Y2Zz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=ZGRBKzNod1pOQlpUeDdjV1dZL0ZkUT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=WmNONmw3VTNiTEpxMlhDbC9DUkpPQT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=L09KNlJvYWdYQmF4WEdPOU9RS1p2QT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://10.3.100.244/
+Base URL :: http://10.3.100.244/
+Flag  :: 0
+MAIN URL :: http://203.110.240.245/
+Base URL :: http://203.110.240.245/
+Flag  :: 0
+MAIN URL :: http://cse.iitkgp.ac.in/oldlook
+Base URL :: http://cse.iitkgp.ac.in/oldlook
+Flag  :: 0
+MAIN URL :: http://www.crcpress.com/product/isbn/9781439895832
+Base URL :: http://www.crcpress.com/product/isbn/9781439895832
+Flag  :: 0
+MAIN URL :: http://caldam.cse.iitk.ac.in/
+Base URL :: http://caldam.cse.iitk.ac.in/
+Flag  :: 0
+Finding files hellp
+filename is urlnumber12
+Curling http://cse.iitkgp.ac.in/index.php?secret=bmJJTkZuOHlYN0NPVG00YXFWbHFZQT09
+Curling
+Finding files
+MAIN URL :: http://cse.iitkgp.ac.in/index.php
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=d2RkOUgybWlNZzJwQXdLc28wNzh6UT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=N2xYSGRub2lDaGdGSjZpVDB4K1U5dz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=WnNYU2lEOW5qZEhQYWZwV0hBNE1yQT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=K3hkZStwcjd0RFFKSEJ4dzlFd2w1Zz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=elJDeHRoRjN1Vkx6WWVaQ3I4TW5Ydz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=eHJXMnFJTzBUeFA4MHNmRHRwbHNmdz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=L3VUeUw0WVNmNkZHZG5BbmNFSVhVUT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=MjRUVWJmNkZHSHpzNDhTWXFhRUNmUT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=RVJFT0VhNlk2S1JLeWUycUZiNSthdz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=bmJJTkZuOHlYN0NPVG00YXFWbHFZQT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=WVRoQXdHQVhtbGRZVGxoZTc0OHdNZz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=TlFKclRJSXJLR2dTcDlWc01WbWRHdz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=WGdzVnBmVmVHR1p4bjJGU2tNSW5lQT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=czFYS0xSN2lreXV5QS8rUWU2VTdsZz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=WWYzY094Yy9oYjFTU2FNNm1Gekx2QT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/~rs/
+Base URL :: http://cse.iitkgp.ac.in/~rs/
+Flag  :: 0
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=NEpBdHBuZGxWS011UXFHTnBhWmFYdz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=cmN1bkh1WWpDQnExbWRoN2JRd0xTdz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=c3lnRmpvWG4rUDZYRGc1d1NMME95dz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=UFo0Yk9SSmNBc1JLUitJUnZXTVFQUT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=TE02K21iRlFmUVpCcGV6UkpiYWZ5dz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=L2Q5bUJTREtEa3RQVEFZVlhXK0FWZz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=eU5TR2kvdzFMSUVmOHNBOXdXZ3Y2Zz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=ZGRBKzNod1pOQlpUeDdjV1dZL0ZkUT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=WmNONmw3VTNiTEpxMlhDbC9DUkpPQT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=L09KNlJvYWdYQmF4WEdPOU9RS1p2QT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://10.3.100.244/
+Base URL :: http://10.3.100.244/
+Flag  :: 0
+MAIN URL :: http://203.110.240.245/
+Base URL :: http://203.110.240.245/
+Flag  :: 0
+MAIN URL :: http://cse.iitkgp.ac.in/oldlook
+Base URL :: http://cse.iitkgp.ac.in/oldlook
+Flag  :: 0
+MAIN URL :: http://www.crcpress.com/product/isbn/9781439895832
+Base URL :: http://www.crcpress.com/product/isbn/9781439895832
+Flag  :: 0
+MAIN URL :: http://caldam.cse.iitk.ac.in/
+Base URL :: http://caldam.cse.iitk.ac.in/
+Flag  :: 0
+Finding files hellp
+filename is urlnumber13
+Curling http://cse.iitkgp.ac.in/index.php?secret=WVRoQXdHQVhtbGRZVGxoZTc0OHdNZz09
+Curling
+Finding files
+MAIN URL :: http://cse.iitkgp.ac.in/index.php
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=d2RkOUgybWlNZzJwQXdLc28wNzh6UT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=N2xYSGRub2lDaGdGSjZpVDB4K1U5dz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=WnNYU2lEOW5qZEhQYWZwV0hBNE1yQT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=K3hkZStwcjd0RFFKSEJ4dzlFd2w1Zz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=elJDeHRoRjN1Vkx6WWVaQ3I4TW5Ydz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=eHJXMnFJTzBUeFA4MHNmRHRwbHNmdz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=L3VUeUw0WVNmNkZHZG5BbmNFSVhVUT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=MjRUVWJmNkZHSHpzNDhTWXFhRUNmUT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=RVJFT0VhNlk2S1JLeWUycUZiNSthdz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=bmJJTkZuOHlYN0NPVG00YXFWbHFZQT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=WVRoQXdHQVhtbGRZVGxoZTc0OHdNZz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=TlFKclRJSXJLR2dTcDlWc01WbWRHdz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=WGdzVnBmVmVHR1p4bjJGU2tNSW5lQT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=czFYS0xSN2lreXV5QS8rUWU2VTdsZz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=WWYzY094Yy9oYjFTU2FNNm1Gekx2QT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/~rs/
+Base URL :: http://cse.iitkgp.ac.in/~rs/
+Flag  :: 0
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=NEpBdHBuZGxWS011UXFHTnBhWmFYdz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=cmN1bkh1WWpDQnExbWRoN2JRd0xTdz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=c3lnRmpvWG4rUDZYRGc1d1NMME95dz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=UFo0Yk9SSmNBc1JLUitJUnZXTVFQUT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=TE02K21iRlFmUVpCcGV6UkpiYWZ5dz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=L2Q5bUJTREtEa3RQVEFZVlhXK0FWZz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=eU5TR2kvdzFMSUVmOHNBOXdXZ3Y2Zz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=ZGRBKzNod1pOQlpUeDdjV1dZL0ZkUT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=WmNONmw3VTNiTEpxMlhDbC9DUkpPQT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=L09KNlJvYWdYQmF4WEdPOU9RS1p2QT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://10.3.100.244/
+Base URL :: http://10.3.100.244/
+Flag  :: 0
+MAIN URL :: http://203.110.240.245/
+Base URL :: http://203.110.240.245/
+Flag  :: 0
+MAIN URL :: http://cse.iitkgp.ac.in/oldlook
+Base URL :: http://cse.iitkgp.ac.in/oldlook
+Flag  :: 0
+MAIN URL :: http://www.crcpress.com/product/isbn/9781439895832
+Base URL :: http://www.crcpress.com/product/isbn/9781439895832
+Flag  :: 0
+MAIN URL :: http://caldam.cse.iitk.ac.in/
+Base URL :: http://caldam.cse.iitk.ac.in/
+Flag  :: 0
+Finding files hellp
+filename is urlnumber14
+Curling http://cse.iitkgp.ac.in/index.php?secret=TlFKclRJSXJLR2dTcDlWc01WbWRHdz09
+Curling
+Finding files
+MAIN URL :: http://cse.iitkgp.ac.in/index.php
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=d2RkOUgybWlNZzJwQXdLc28wNzh6UT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=N2xYSGRub2lDaGdGSjZpVDB4K1U5dz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=WnNYU2lEOW5qZEhQYWZwV0hBNE1yQT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=K3hkZStwcjd0RFFKSEJ4dzlFd2w1Zz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=elJDeHRoRjN1Vkx6WWVaQ3I4TW5Ydz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=eHJXMnFJTzBUeFA4MHNmRHRwbHNmdz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=L3VUeUw0WVNmNkZHZG5BbmNFSVhVUT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=MjRUVWJmNkZHSHpzNDhTWXFhRUNmUT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=RVJFT0VhNlk2S1JLeWUycUZiNSthdz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=bmJJTkZuOHlYN0NPVG00YXFWbHFZQT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=WVRoQXdHQVhtbGRZVGxoZTc0OHdNZz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=TlFKclRJSXJLR2dTcDlWc01WbWRHdz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=WGdzVnBmVmVHR1p4bjJGU2tNSW5lQT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=czFYS0xSN2lreXV5QS8rUWU2VTdsZz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=WWYzY094Yy9oYjFTU2FNNm1Gekx2QT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/~rs/
+Base URL :: http://cse.iitkgp.ac.in/~rs/
+Flag  :: 0
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=NEpBdHBuZGxWS011UXFHTnBhWmFYdz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=cmN1bkh1WWpDQnExbWRoN2JRd0xTdz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=c3lnRmpvWG4rUDZYRGc1d1NMME95dz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=UFo0Yk9SSmNBc1JLUitJUnZXTVFQUT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=TE02K21iRlFmUVpCcGV6UkpiYWZ5dz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=L2Q5bUJTREtEa3RQVEFZVlhXK0FWZz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=eU5TR2kvdzFMSUVmOHNBOXdXZ3Y2Zz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=ZGRBKzNod1pOQlpUeDdjV1dZL0ZkUT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=WmNONmw3VTNiTEpxMlhDbC9DUkpPQT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=L09KNlJvYWdYQmF4WEdPOU9RS1p2QT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://10.3.100.244/
+Base URL :: http://10.3.100.244/
+Flag  :: 0
+MAIN URL :: http://203.110.240.245/
+Base URL :: http://203.110.240.245/
+Flag  :: 0
+MAIN URL :: http://cse.iitkgp.ac.in/oldlook
+Base URL :: http://cse.iitkgp.ac.in/oldlook
+Flag  :: 0
+MAIN URL :: http://www.crcpress.com/product/isbn/9781439895832
+Base URL :: http://www.crcpress.com/product/isbn/9781439895832
+Flag  :: 0
+MAIN URL :: http://caldam.cse.iitk.ac.in/
+Base URL :: http://caldam.cse.iitk.ac.in/
+Flag  :: 0
+Finding files hellp
+filename is urlnumber15
+Curling http://cse.iitkgp.ac.in/index.php?secret=WGdzVnBmVmVHR1p4bjJGU2tNSW5lQT09
+Curling
+Finding files
+MAIN URL :: http://cse.iitkgp.ac.in/index.php
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=d2RkOUgybWlNZzJwQXdLc28wNzh6UT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=N2xYSGRub2lDaGdGSjZpVDB4K1U5dz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=WnNYU2lEOW5qZEhQYWZwV0hBNE1yQT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=K3hkZStwcjd0RFFKSEJ4dzlFd2w1Zz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=elJDeHRoRjN1Vkx6WWVaQ3I4TW5Ydz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=eHJXMnFJTzBUeFA4MHNmRHRwbHNmdz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=L3VUeUw0WVNmNkZHZG5BbmNFSVhVUT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=MjRUVWJmNkZHSHpzNDhTWXFhRUNmUT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=RVJFT0VhNlk2S1JLeWUycUZiNSthdz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=bmJJTkZuOHlYN0NPVG00YXFWbHFZQT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=WVRoQXdHQVhtbGRZVGxoZTc0OHdNZz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=TlFKclRJSXJLR2dTcDlWc01WbWRHdz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=WGdzVnBmVmVHR1p4bjJGU2tNSW5lQT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=czFYS0xSN2lreXV5QS8rUWU2VTdsZz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=WWYzY094Yy9oYjFTU2FNNm1Gekx2QT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/~rs/
+Base URL :: http://cse.iitkgp.ac.in/~rs/
+Flag  :: 0
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=NEpBdHBuZGxWS011UXFHTnBhWmFYdz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=cmN1bkh1WWpDQnExbWRoN2JRd0xTdz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=c3lnRmpvWG4rUDZYRGc1d1NMME95dz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=UFo0Yk9SSmNBc1JLUitJUnZXTVFQUT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=TE02K21iRlFmUVpCcGV6UkpiYWZ5dz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=L2Q5bUJTREtEa3RQVEFZVlhXK0FWZz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=eU5TR2kvdzFMSUVmOHNBOXdXZ3Y2Zz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=ZGRBKzNod1pOQlpUeDdjV1dZL0ZkUT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=WmNONmw3VTNiTEpxMlhDbC9DUkpPQT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=L09KNlJvYWdYQmF4WEdPOU9RS1p2QT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://10.3.100.244/
+Base URL :: http://10.3.100.244/
+Flag  :: 0
+MAIN URL :: http://203.110.240.245/
+Base URL :: http://203.110.240.245/
+Flag  :: 0
+MAIN URL :: http://cse.iitkgp.ac.in/oldlook
+Base URL :: http://cse.iitkgp.ac.in/oldlook
+Flag  :: 0
+MAIN URL :: http://www.crcpress.com/product/isbn/9781439895832
+Base URL :: http://www.crcpress.com/product/isbn/9781439895832
+Flag  :: 0
+MAIN URL :: http://caldam.cse.iitk.ac.in/
+Base URL :: http://caldam.cse.iitk.ac.in/
+Flag  :: 0
+Finding files hellp
+filename is urlnumber16
+Curling http://cse.iitkgp.ac.in/index.php?secret=czFYS0xSN2lreXV5QS8rUWU2VTdsZz09
+Curling
+Finding files
+MAIN URL :: http://cse.iitkgp.ac.in/index.php
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=d2RkOUgybWlNZzJwQXdLc28wNzh6UT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=N2xYSGRub2lDaGdGSjZpVDB4K1U5dz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=WnNYU2lEOW5qZEhQYWZwV0hBNE1yQT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=K3hkZStwcjd0RFFKSEJ4dzlFd2w1Zz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=elJDeHRoRjN1Vkx6WWVaQ3I4TW5Ydz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=eHJXMnFJTzBUeFA4MHNmRHRwbHNmdz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=L3VUeUw0WVNmNkZHZG5BbmNFSVhVUT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=MjRUVWJmNkZHSHpzNDhTWXFhRUNmUT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=RVJFT0VhNlk2S1JLeWUycUZiNSthdz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=bmJJTkZuOHlYN0NPVG00YXFWbHFZQT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=WVRoQXdHQVhtbGRZVGxoZTc0OHdNZz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=TlFKclRJSXJLR2dTcDlWc01WbWRHdz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=WGdzVnBmVmVHR1p4bjJGU2tNSW5lQT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=czFYS0xSN2lreXV5QS8rUWU2VTdsZz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=WWYzY094Yy9oYjFTU2FNNm1Gekx2QT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/~rs/
+Base URL :: http://cse.iitkgp.ac.in/~rs/
+Flag  :: 0
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=NEpBdHBuZGxWS011UXFHTnBhWmFYdz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=cmN1bkh1WWpDQnExbWRoN2JRd0xTdz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=c3lnRmpvWG4rUDZYRGc1d1NMME95dz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=UFo0Yk9SSmNBc1JLUitJUnZXTVFQUT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=TE02K21iRlFmUVpCcGV6UkpiYWZ5dz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=L2Q5bUJTREtEa3RQVEFZVlhXK0FWZz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=eU5TR2kvdzFMSUVmOHNBOXdXZ3Y2Zz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=ZGRBKzNod1pOQlpUeDdjV1dZL0ZkUT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=WmNONmw3VTNiTEpxMlhDbC9DUkpPQT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=L09KNlJvYWdYQmF4WEdPOU9RS1p2QT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://10.3.100.244/
+Base URL :: http://10.3.100.244/
+Flag  :: 0
+MAIN URL :: http://203.110.240.245/
+Base URL :: http://203.110.240.245/
+Flag  :: 0
+MAIN URL :: http://cse.iitkgp.ac.in/oldlook
+Base URL :: http://cse.iitkgp.ac.in/oldlook
+Flag  :: 0
+MAIN URL :: http://www.crcpress.com/product/isbn/9781439895832
+Base URL :: http://www.crcpress.com/product/isbn/9781439895832
+Flag  :: 0
+MAIN URL :: http://caldam.cse.iitk.ac.in/
+Base URL :: http://caldam.cse.iitk.ac.in/
+Flag  :: 0
+Finding files hellp
+filename is urlnumber17
+Curling http://cse.iitkgp.ac.in/index.php?secret=WWYzY094Yy9oYjFTU2FNNm1Gekx2QT09
+Curling
+Finding files
+MAIN URL :: http://cse.iitkgp.ac.in/index.php
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=d2RkOUgybWlNZzJwQXdLc28wNzh6UT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=N2xYSGRub2lDaGdGSjZpVDB4K1U5dz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=WnNYU2lEOW5qZEhQYWZwV0hBNE1yQT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=K3hkZStwcjd0RFFKSEJ4dzlFd2w1Zz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=elJDeHRoRjN1Vkx6WWVaQ3I4TW5Ydz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=eHJXMnFJTzBUeFA4MHNmRHRwbHNmdz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=L3VUeUw0WVNmNkZHZG5BbmNFSVhVUT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=MjRUVWJmNkZHSHpzNDhTWXFhRUNmUT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=RVJFT0VhNlk2S1JLeWUycUZiNSthdz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=bmJJTkZuOHlYN0NPVG00YXFWbHFZQT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=WVRoQXdHQVhtbGRZVGxoZTc0OHdNZz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=TlFKclRJSXJLR2dTcDlWc01WbWRHdz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=WGdzVnBmVmVHR1p4bjJGU2tNSW5lQT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=czFYS0xSN2lreXV5QS8rUWU2VTdsZz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=WWYzY094Yy9oYjFTU2FNNm1Gekx2QT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/~rs/
+Base URL :: http://cse.iitkgp.ac.in/~rs/
+Flag  :: 0
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=NEpBdHBuZGxWS011UXFHTnBhWmFYdz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=cmN1bkh1WWpDQnExbWRoN2JRd0xTdz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=c3lnRmpvWG4rUDZYRGc1d1NMME95dz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=UFo0Yk9SSmNBc1JLUitJUnZXTVFQUT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=TE02K21iRlFmUVpCcGV6UkpiYWZ5dz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=L2Q5bUJTREtEa3RQVEFZVlhXK0FWZz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=eU5TR2kvdzFMSUVmOHNBOXdXZ3Y2Zz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=ZGRBKzNod1pOQlpUeDdjV1dZL0ZkUT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=WmNONmw3VTNiTEpxMlhDbC9DUkpPQT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=L09KNlJvYWdYQmF4WEdPOU9RS1p2QT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://10.3.100.244/
+Base URL :: http://10.3.100.244/
+Flag  :: 0
+MAIN URL :: http://203.110.240.245/
+Base URL :: http://203.110.240.245/
+Flag  :: 0
+MAIN URL :: http://cse.iitkgp.ac.in/oldlook
+Base URL :: http://cse.iitkgp.ac.in/oldlook
+Flag  :: 0
+MAIN URL :: http://www.crcpress.com/product/isbn/9781439895832
+Base URL :: http://www.crcpress.com/product/isbn/9781439895832
+Flag  :: 0
+MAIN URL :: http://caldam.cse.iitk.ac.in/
+Base URL :: http://caldam.cse.iitk.ac.in/
+Flag  :: 0
+Finding files hellp
+filename is urlnumber18
+Curling http://cse.iitkgp.ac.in/~rs/
+Curling
+Finding files
+MAIN URL :: http://cse.iitkgp.ac.in/~rs//phd.html
+Base URL :: http://cse.iitkgp.ac.in/~rs/
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/~rs//ms.html
+Base URL :: http://cse.iitkgp.ac.in/~rs/
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/~rs//rsday.html
+Base URL :: http://cse.iitkgp.ac.in/~rs/
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/~rs//news.html
+Base URL :: http://cse.iitkgp.ac.in/~rs/
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/~rs//alumni.html
+Base URL :: http://cse.iitkgp.ac.in/~rs/
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/~rs//contact.html
+Base URL :: http://cse.iitkgp.ac.in/~rs/
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=bmJJTkZuOHlYN0NPVG00YXFWbHFZQT09/
+Base URL :: http://cse.iitkgp.ac.in/index.php?secret=bmJJTkZuOHlYN0NPVG00YXFWbHFZQT09/
+Flag  :: 0
+MAIN URL :: http://cse.iitkgp.ac.in/
+Base URL :: http://cse.iitkgp.ac.in/
+Flag  :: 0
+MAIN URL :: http://iitkgp.ac.in/
+Base URL :: http://iitkgp.ac.in/
+Flag  :: 0
+MAIN URL :: http://cse.iitkgp.ac.in/
+Base URL :: http://cse.iitkgp.ac.in/
+Flag  :: 0
+MAIN URL :: http://www.iitkgp.ac.in/
+Base URL :: http://www.iitkgp.ac.in/
+Flag  :: 0
+Finding files hellp
+filename is urlnumber19
+Curling http://cse.iitkgp.ac.in/index.php?secret=NEpBdHBuZGxWS011UXFHTnBhWmFYdz09
+Curling
+Finding files
+MAIN URL :: http://cse.iitkgp.ac.in/index.php
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=d2RkOUgybWlNZzJwQXdLc28wNzh6UT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=N2xYSGRub2lDaGdGSjZpVDB4K1U5dz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=WnNYU2lEOW5qZEhQYWZwV0hBNE1yQT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=K3hkZStwcjd0RFFKSEJ4dzlFd2w1Zz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=elJDeHRoRjN1Vkx6WWVaQ3I4TW5Ydz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=eHJXMnFJTzBUeFA4MHNmRHRwbHNmdz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=L3VUeUw0WVNmNkZHZG5BbmNFSVhVUT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=MjRUVWJmNkZHSHpzNDhTWXFhRUNmUT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=RVJFT0VhNlk2S1JLeWUycUZiNSthdz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=bmJJTkZuOHlYN0NPVG00YXFWbHFZQT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=WVRoQXdHQVhtbGRZVGxoZTc0OHdNZz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=TlFKclRJSXJLR2dTcDlWc01WbWRHdz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=WGdzVnBmVmVHR1p4bjJGU2tNSW5lQT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=czFYS0xSN2lreXV5QS8rUWU2VTdsZz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=WWYzY094Yy9oYjFTU2FNNm1Gekx2QT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/~rs/
+Base URL :: http://cse.iitkgp.ac.in/~rs/
+Flag  :: 0
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=NEpBdHBuZGxWS011UXFHTnBhWmFYdz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=cmN1bkh1WWpDQnExbWRoN2JRd0xTdz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=c3lnRmpvWG4rUDZYRGc1d1NMME95dz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=UFo0Yk9SSmNBc1JLUitJUnZXTVFQUT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=TE02K21iRlFmUVpCcGV6UkpiYWZ5dz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=L2Q5bUJTREtEa3RQVEFZVlhXK0FWZz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=eU5TR2kvdzFMSUVmOHNBOXdXZ3Y2Zz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=ZGRBKzNod1pOQlpUeDdjV1dZL0ZkUT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=WmNONmw3VTNiTEpxMlhDbC9DUkpPQT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=L09KNlJvYWdYQmF4WEdPOU9RS1p2QT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://10.3.100.244/
+Base URL :: http://10.3.100.244/
+Flag  :: 0
+MAIN URL :: http://203.110.240.245/
+Base URL :: http://203.110.240.245/
+Flag  :: 0
+MAIN URL :: http://cse.iitkgp.ac.in/oldlook
+Base URL :: http://cse.iitkgp.ac.in/oldlook
+Flag  :: 0
+MAIN URL :: http://www.crcpress.com/product/isbn/9781439895832
+Base URL :: http://www.crcpress.com/product/isbn/9781439895832
+Flag  :: 0
+MAIN URL :: http://caldam.cse.iitk.ac.in/
+Base URL :: http://caldam.cse.iitk.ac.in/
+Flag  :: 0
+Finding files hellp
+filename is urlnumber20
+Curling http://cse.iitkgp.ac.in/index.php?secret=cmN1bkh1WWpDQnExbWRoN2JRd0xTdz09
+Curling
+Finding files
+MAIN URL :: http://cse.iitkgp.ac.in/index.php
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=d2RkOUgybWlNZzJwQXdLc28wNzh6UT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=N2xYSGRub2lDaGdGSjZpVDB4K1U5dz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=WnNYU2lEOW5qZEhQYWZwV0hBNE1yQT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=K3hkZStwcjd0RFFKSEJ4dzlFd2w1Zz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=elJDeHRoRjN1Vkx6WWVaQ3I4TW5Ydz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=eHJXMnFJTzBUeFA4MHNmRHRwbHNmdz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=L3VUeUw0WVNmNkZHZG5BbmNFSVhVUT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=MjRUVWJmNkZHSHpzNDhTWXFhRUNmUT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=RVJFT0VhNlk2S1JLeWUycUZiNSthdz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=bmJJTkZuOHlYN0NPVG00YXFWbHFZQT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=WVRoQXdHQVhtbGRZVGxoZTc0OHdNZz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=TlFKclRJSXJLR2dTcDlWc01WbWRHdz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=WGdzVnBmVmVHR1p4bjJGU2tNSW5lQT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=czFYS0xSN2lreXV5QS8rUWU2VTdsZz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=WWYzY094Yy9oYjFTU2FNNm1Gekx2QT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/~rs/
+Base URL :: http://cse.iitkgp.ac.in/~rs/
+Flag  :: 0
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=NEpBdHBuZGxWS011UXFHTnBhWmFYdz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=cmN1bkh1WWpDQnExbWRoN2JRd0xTdz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=c3lnRmpvWG4rUDZYRGc1d1NMME95dz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=UFo0Yk9SSmNBc1JLUitJUnZXTVFQUT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=TE02K21iRlFmUVpCcGV6UkpiYWZ5dz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=L2Q5bUJTREtEa3RQVEFZVlhXK0FWZz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=eU5TR2kvdzFMSUVmOHNBOXdXZ3Y2Zz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=ZGRBKzNod1pOQlpUeDdjV1dZL0ZkUT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=WmNONmw3VTNiTEpxMlhDbC9DUkpPQT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=L09KNlJvYWdYQmF4WEdPOU9RS1p2QT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://10.3.100.244/
+Base URL :: http://10.3.100.244/
+Flag  :: 0
+MAIN URL :: http://203.110.240.245/
+Base URL :: http://203.110.240.245/
+Flag  :: 0
+MAIN URL :: http://cse.iitkgp.ac.in/oldlook
+Base URL :: http://cse.iitkgp.ac.in/oldlook
+Flag  :: 0
+MAIN URL :: http://www.crcpress.com/product/isbn/9781439895832
+Base URL :: http://www.crcpress.com/product/isbn/9781439895832
+Flag  :: 0
+MAIN URL :: http://caldam.cse.iitk.ac.in/
+Base URL :: http://caldam.cse.iitk.ac.in/
+Flag  :: 0
+Finding files hellp
+filename is urlnumber21
+Curling http://cse.iitkgp.ac.in/index.php?secret=c3lnRmpvWG4rUDZYRGc1d1NMME95dz09
+Curling
+Finding files
+MAIN URL :: http://cse.iitkgp.ac.in/index.php
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=d2RkOUgybWlNZzJwQXdLc28wNzh6UT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=N2xYSGRub2lDaGdGSjZpVDB4K1U5dz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=WnNYU2lEOW5qZEhQYWZwV0hBNE1yQT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=K3hkZStwcjd0RFFKSEJ4dzlFd2w1Zz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=elJDeHRoRjN1Vkx6WWVaQ3I4TW5Ydz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=eHJXMnFJTzBUeFA4MHNmRHRwbHNmdz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=L3VUeUw0WVNmNkZHZG5BbmNFSVhVUT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=MjRUVWJmNkZHSHpzNDhTWXFhRUNmUT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=RVJFT0VhNlk2S1JLeWUycUZiNSthdz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=bmJJTkZuOHlYN0NPVG00YXFWbHFZQT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=WVRoQXdHQVhtbGRZVGxoZTc0OHdNZz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=TlFKclRJSXJLR2dTcDlWc01WbWRHdz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=WGdzVnBmVmVHR1p4bjJGU2tNSW5lQT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=czFYS0xSN2lreXV5QS8rUWU2VTdsZz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=WWYzY094Yy9oYjFTU2FNNm1Gekx2QT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/~rs/
+Base URL :: http://cse.iitkgp.ac.in/~rs/
+Flag  :: 0
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=NEpBdHBuZGxWS011UXFHTnBhWmFYdz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=cmN1bkh1WWpDQnExbWRoN2JRd0xTdz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=c3lnRmpvWG4rUDZYRGc1d1NMME95dz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=UFo0Yk9SSmNBc1JLUitJUnZXTVFQUT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=TE02K21iRlFmUVpCcGV6UkpiYWZ5dz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=L2Q5bUJTREtEa3RQVEFZVlhXK0FWZz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=eU5TR2kvdzFMSUVmOHNBOXdXZ3Y2Zz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=ZGRBKzNod1pOQlpUeDdjV1dZL0ZkUT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=WmNONmw3VTNiTEpxMlhDbC9DUkpPQT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=L09KNlJvYWdYQmF4WEdPOU9RS1p2QT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://10.3.100.244/
+Base URL :: http://10.3.100.244/
+Flag  :: 0
+MAIN URL :: http://203.110.240.245/
+Base URL :: http://203.110.240.245/
+Flag  :: 0
+MAIN URL :: http://cse.iitkgp.ac.in/oldlook
+Base URL :: http://cse.iitkgp.ac.in/oldlook
+Flag  :: 0
+MAIN URL :: http://www.crcpress.com/product/isbn/9781439895832
+Base URL :: http://www.crcpress.com/product/isbn/9781439895832
+Flag  :: 0
+MAIN URL :: http://caldam.cse.iitk.ac.in/
+Base URL :: http://caldam.cse.iitk.ac.in/
+Flag  :: 0
+Finding files hellp
+filename is urlnumber22
+Curling http://cse.iitkgp.ac.in/index.php?secret=UFo0Yk9SSmNBc1JLUitJUnZXTVFQUT09
+Curling
+Finding files
+MAIN URL :: http://cse.iitkgp.ac.in/index.php
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=d2RkOUgybWlNZzJwQXdLc28wNzh6UT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=N2xYSGRub2lDaGdGSjZpVDB4K1U5dz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=WnNYU2lEOW5qZEhQYWZwV0hBNE1yQT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=K3hkZStwcjd0RFFKSEJ4dzlFd2w1Zz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=elJDeHRoRjN1Vkx6WWVaQ3I4TW5Ydz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=eHJXMnFJTzBUeFA4MHNmRHRwbHNmdz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=L3VUeUw0WVNmNkZHZG5BbmNFSVhVUT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=MjRUVWJmNkZHSHpzNDhTWXFhRUNmUT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=RVJFT0VhNlk2S1JLeWUycUZiNSthdz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=bmJJTkZuOHlYN0NPVG00YXFWbHFZQT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=WVRoQXdHQVhtbGRZVGxoZTc0OHdNZz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=TlFKclRJSXJLR2dTcDlWc01WbWRHdz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=WGdzVnBmVmVHR1p4bjJGU2tNSW5lQT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=czFYS0xSN2lreXV5QS8rUWU2VTdsZz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=WWYzY094Yy9oYjFTU2FNNm1Gekx2QT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/~rs/
+Base URL :: http://cse.iitkgp.ac.in/~rs/
+Flag  :: 0
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=NEpBdHBuZGxWS011UXFHTnBhWmFYdz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=cmN1bkh1WWpDQnExbWRoN2JRd0xTdz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=c3lnRmpvWG4rUDZYRGc1d1NMME95dz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=UFo0Yk9SSmNBc1JLUitJUnZXTVFQUT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=TE02K21iRlFmUVpCcGV6UkpiYWZ5dz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=L2Q5bUJTREtEa3RQVEFZVlhXK0FWZz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=eU5TR2kvdzFMSUVmOHNBOXdXZ3Y2Zz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=ZGRBKzNod1pOQlpUeDdjV1dZL0ZkUT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=WmNONmw3VTNiTEpxMlhDbC9DUkpPQT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=L09KNlJvYWdYQmF4WEdPOU9RS1p2QT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://10.3.100.244/
+Base URL :: http://10.3.100.244/
+Flag  :: 0
+MAIN URL :: http://203.110.240.245/
+Base URL :: http://203.110.240.245/
+Flag  :: 0
+MAIN URL :: http://cse.iitkgp.ac.in/oldlook
+Base URL :: http://cse.iitkgp.ac.in/oldlook
+Flag  :: 0
+MAIN URL :: http://www.crcpress.com/product/isbn/9781439895832
+Base URL :: http://www.crcpress.com/product/isbn/9781439895832
+Flag  :: 0
+MAIN URL :: http://caldam.cse.iitk.ac.in/
+Base URL :: http://caldam.cse.iitk.ac.in/
+Flag  :: 0
+Finding files hellp
+filename is urlnumber23
+Curling http://cse.iitkgp.ac.in/index.php?secret=TE02K21iRlFmUVpCcGV6UkpiYWZ5dz09
+Curling
+Finding files
+MAIN URL :: http://cse.iitkgp.ac.in/index.php
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=d2RkOUgybWlNZzJwQXdLc28wNzh6UT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=N2xYSGRub2lDaGdGSjZpVDB4K1U5dz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=WnNYU2lEOW5qZEhQYWZwV0hBNE1yQT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=K3hkZStwcjd0RFFKSEJ4dzlFd2w1Zz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=elJDeHRoRjN1Vkx6WWVaQ3I4TW5Ydz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=eHJXMnFJTzBUeFA4MHNmRHRwbHNmdz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=L3VUeUw0WVNmNkZHZG5BbmNFSVhVUT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=MjRUVWJmNkZHSHpzNDhTWXFhRUNmUT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=RVJFT0VhNlk2S1JLeWUycUZiNSthdz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=bmJJTkZuOHlYN0NPVG00YXFWbHFZQT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=WVRoQXdHQVhtbGRZVGxoZTc0OHdNZz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=TlFKclRJSXJLR2dTcDlWc01WbWRHdz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=WGdzVnBmVmVHR1p4bjJGU2tNSW5lQT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=czFYS0xSN2lreXV5QS8rUWU2VTdsZz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=WWYzY094Yy9oYjFTU2FNNm1Gekx2QT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/~rs/
+Base URL :: http://cse.iitkgp.ac.in/~rs/
+Flag  :: 0
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=NEpBdHBuZGxWS011UXFHTnBhWmFYdz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=cmN1bkh1WWpDQnExbWRoN2JRd0xTdz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=c3lnRmpvWG4rUDZYRGc1d1NMME95dz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=UFo0Yk9SSmNBc1JLUitJUnZXTVFQUT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=TE02K21iRlFmUVpCcGV6UkpiYWZ5dz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=L2Q5bUJTREtEa3RQVEFZVlhXK0FWZz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=eU5TR2kvdzFMSUVmOHNBOXdXZ3Y2Zz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=ZGRBKzNod1pOQlpUeDdjV1dZL0ZkUT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=WmNONmw3VTNiTEpxMlhDbC9DUkpPQT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=L09KNlJvYWdYQmF4WEdPOU9RS1p2QT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://10.3.100.244/
+Base URL :: http://10.3.100.244/
+Flag  :: 0
+MAIN URL :: http://203.110.240.245/
+Base URL :: http://203.110.240.245/
+Flag  :: 0
+MAIN URL :: http://cse.iitkgp.ac.in/oldlook
+Base URL :: http://cse.iitkgp.ac.in/oldlook
+Flag  :: 0
+MAIN URL :: http://www.crcpress.com/product/isbn/9781439895832
+Base URL :: http://www.crcpress.com/product/isbn/9781439895832
+Flag  :: 0
+MAIN URL :: http://caldam.cse.iitk.ac.in/
+Base URL :: http://caldam.cse.iitk.ac.in/
+Flag  :: 0
+Finding files hellp
+filename is urlnumber24
+Curling http://cse.iitkgp.ac.in/index.php?secret=L2Q5bUJTREtEa3RQVEFZVlhXK0FWZz09
+Curling
+Finding files
+MAIN URL :: http://cse.iitkgp.ac.in/index.php
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=d2RkOUgybWlNZzJwQXdLc28wNzh6UT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=N2xYSGRub2lDaGdGSjZpVDB4K1U5dz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=WnNYU2lEOW5qZEhQYWZwV0hBNE1yQT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=K3hkZStwcjd0RFFKSEJ4dzlFd2w1Zz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=elJDeHRoRjN1Vkx6WWVaQ3I4TW5Ydz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=eHJXMnFJTzBUeFA4MHNmRHRwbHNmdz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=L3VUeUw0WVNmNkZHZG5BbmNFSVhVUT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=MjRUVWJmNkZHSHpzNDhTWXFhRUNmUT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=RVJFT0VhNlk2S1JLeWUycUZiNSthdz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=bmJJTkZuOHlYN0NPVG00YXFWbHFZQT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=WVRoQXdHQVhtbGRZVGxoZTc0OHdNZz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=TlFKclRJSXJLR2dTcDlWc01WbWRHdz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=WGdzVnBmVmVHR1p4bjJGU2tNSW5lQT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=czFYS0xSN2lreXV5QS8rUWU2VTdsZz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=WWYzY094Yy9oYjFTU2FNNm1Gekx2QT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/~rs/
+Base URL :: http://cse.iitkgp.ac.in/~rs/
+Flag  :: 0
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=NEpBdHBuZGxWS011UXFHTnBhWmFYdz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=cmN1bkh1WWpDQnExbWRoN2JRd0xTdz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=c3lnRmpvWG4rUDZYRGc1d1NMME95dz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=UFo0Yk9SSmNBc1JLUitJUnZXTVFQUT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=TE02K21iRlFmUVpCcGV6UkpiYWZ5dz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=L2Q5bUJTREtEa3RQVEFZVlhXK0FWZz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=eU5TR2kvdzFMSUVmOHNBOXdXZ3Y2Zz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=ZGRBKzNod1pOQlpUeDdjV1dZL0ZkUT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=WmNONmw3VTNiTEpxMlhDbC9DUkpPQT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=L09KNlJvYWdYQmF4WEdPOU9RS1p2QT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://10.3.100.244/
+Base URL :: http://10.3.100.244/
+Flag  :: 0
+MAIN URL :: http://203.110.240.245/
+Base URL :: http://203.110.240.245/
+Flag  :: 0
+MAIN URL :: http://cse.iitkgp.ac.in/oldlook
+Base URL :: http://cse.iitkgp.ac.in/oldlook
+Flag  :: 0
+MAIN URL :: http://www.crcpress.com/product/isbn/9781439895832
+Base URL :: http://www.crcpress.com/product/isbn/9781439895832
+Flag  :: 0
+MAIN URL :: http://caldam.cse.iitk.ac.in/
+Base URL :: http://caldam.cse.iitk.ac.in/
+Flag  :: 0
+Finding files hellp
+filename is urlnumber25
+Curling http://cse.iitkgp.ac.in/index.php?secret=eU5TR2kvdzFMSUVmOHNBOXdXZ3Y2Zz09
+Curling
+Finding files
+MAIN URL :: http://cse.iitkgp.ac.in/index.php
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=d2RkOUgybWlNZzJwQXdLc28wNzh6UT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=N2xYSGRub2lDaGdGSjZpVDB4K1U5dz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=WnNYU2lEOW5qZEhQYWZwV0hBNE1yQT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=K3hkZStwcjd0RFFKSEJ4dzlFd2w1Zz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=elJDeHRoRjN1Vkx6WWVaQ3I4TW5Ydz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=eHJXMnFJTzBUeFA4MHNmRHRwbHNmdz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=L3VUeUw0WVNmNkZHZG5BbmNFSVhVUT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=MjRUVWJmNkZHSHpzNDhTWXFhRUNmUT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=RVJFT0VhNlk2S1JLeWUycUZiNSthdz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=bmJJTkZuOHlYN0NPVG00YXFWbHFZQT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=WVRoQXdHQVhtbGRZVGxoZTc0OHdNZz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=TlFKclRJSXJLR2dTcDlWc01WbWRHdz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=WGdzVnBmVmVHR1p4bjJGU2tNSW5lQT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=czFYS0xSN2lreXV5QS8rUWU2VTdsZz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=WWYzY094Yy9oYjFTU2FNNm1Gekx2QT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/~rs/
+Base URL :: http://cse.iitkgp.ac.in/~rs/
+Flag  :: 0
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=NEpBdHBuZGxWS011UXFHTnBhWmFYdz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=cmN1bkh1WWpDQnExbWRoN2JRd0xTdz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=c3lnRmpvWG4rUDZYRGc1d1NMME95dz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=UFo0Yk9SSmNBc1JLUitJUnZXTVFQUT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=TE02K21iRlFmUVpCcGV6UkpiYWZ5dz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=L2Q5bUJTREtEa3RQVEFZVlhXK0FWZz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=eU5TR2kvdzFMSUVmOHNBOXdXZ3Y2Zz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=ZGRBKzNod1pOQlpUeDdjV1dZL0ZkUT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=WmNONmw3VTNiTEpxMlhDbC9DUkpPQT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=L09KNlJvYWdYQmF4WEdPOU9RS1p2QT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://10.3.100.244/
+Base URL :: http://10.3.100.244/
+Flag  :: 0
+MAIN URL :: http://203.110.240.245/
+Base URL :: http://203.110.240.245/
+Flag  :: 0
+MAIN URL :: http://cse.iitkgp.ac.in/oldlook
+Base URL :: http://cse.iitkgp.ac.in/oldlook
+Flag  :: 0
+MAIN URL :: http://www.crcpress.com/product/isbn/9781439895832
+Base URL :: http://www.crcpress.com/product/isbn/9781439895832
+Flag  :: 0
+MAIN URL :: http://caldam.cse.iitk.ac.in/
+Base URL :: http://caldam.cse.iitk.ac.in/
+Flag  :: 0
+Finding files hellp
+filename is urlnumber26
+Curling http://cse.iitkgp.ac.in/index.php?secret=ZGRBKzNod1pOQlpUeDdjV1dZL0ZkUT09
+Curling
+Finding files
+MAIN URL :: http://cse.iitkgp.ac.in/index.php
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=d2RkOUgybWlNZzJwQXdLc28wNzh6UT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=N2xYSGRub2lDaGdGSjZpVDB4K1U5dz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=WnNYU2lEOW5qZEhQYWZwV0hBNE1yQT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=K3hkZStwcjd0RFFKSEJ4dzlFd2w1Zz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=elJDeHRoRjN1Vkx6WWVaQ3I4TW5Ydz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=eHJXMnFJTzBUeFA4MHNmRHRwbHNmdz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=L3VUeUw0WVNmNkZHZG5BbmNFSVhVUT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=MjRUVWJmNkZHSHpzNDhTWXFhRUNmUT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=RVJFT0VhNlk2S1JLeWUycUZiNSthdz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=bmJJTkZuOHlYN0NPVG00YXFWbHFZQT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=WVRoQXdHQVhtbGRZVGxoZTc0OHdNZz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=TlFKclRJSXJLR2dTcDlWc01WbWRHdz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=WGdzVnBmVmVHR1p4bjJGU2tNSW5lQT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=czFYS0xSN2lreXV5QS8rUWU2VTdsZz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=WWYzY094Yy9oYjFTU2FNNm1Gekx2QT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/~rs/
+Base URL :: http://cse.iitkgp.ac.in/~rs/
+Flag  :: 0
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=NEpBdHBuZGxWS011UXFHTnBhWmFYdz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=cmN1bkh1WWpDQnExbWRoN2JRd0xTdz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=c3lnRmpvWG4rUDZYRGc1d1NMME95dz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=UFo0Yk9SSmNBc1JLUitJUnZXTVFQUT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=TE02K21iRlFmUVpCcGV6UkpiYWZ5dz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=L2Q5bUJTREtEa3RQVEFZVlhXK0FWZz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=eU5TR2kvdzFMSUVmOHNBOXdXZ3Y2Zz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=ZGRBKzNod1pOQlpUeDdjV1dZL0ZkUT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=WmNONmw3VTNiTEpxMlhDbC9DUkpPQT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=L09KNlJvYWdYQmF4WEdPOU9RS1p2QT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://10.3.100.244/
+Base URL :: http://10.3.100.244/
+Flag  :: 0
+MAIN URL :: http://203.110.240.245/
+Base URL :: http://203.110.240.245/
+Flag  :: 0
+MAIN URL :: http://cse.iitkgp.ac.in/oldlook
+Base URL :: http://cse.iitkgp.ac.in/oldlook
+Flag  :: 0
+MAIN URL :: http://www.crcpress.com/product/isbn/9781439895832
+Base URL :: http://www.crcpress.com/product/isbn/9781439895832
+Flag  :: 0
+MAIN URL :: http://caldam.cse.iitk.ac.in/
+Base URL :: http://caldam.cse.iitk.ac.in/
+Flag  :: 0
+Finding files hellp
+filename is urlnumber27
+Curling http://cse.iitkgp.ac.in/index.php?secret=WmNONmw3VTNiTEpxMlhDbC9DUkpPQT09
+Curling
+Finding files
+MAIN URL :: http://cse.iitkgp.ac.in/index.php
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=d2RkOUgybWlNZzJwQXdLc28wNzh6UT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=N2xYSGRub2lDaGdGSjZpVDB4K1U5dz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=WnNYU2lEOW5qZEhQYWZwV0hBNE1yQT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=K3hkZStwcjd0RFFKSEJ4dzlFd2w1Zz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=elJDeHRoRjN1Vkx6WWVaQ3I4TW5Ydz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=eHJXMnFJTzBUeFA4MHNmRHRwbHNmdz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=L3VUeUw0WVNmNkZHZG5BbmNFSVhVUT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=MjRUVWJmNkZHSHpzNDhTWXFhRUNmUT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=RVJFT0VhNlk2S1JLeWUycUZiNSthdz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=bmJJTkZuOHlYN0NPVG00YXFWbHFZQT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=WVRoQXdHQVhtbGRZVGxoZTc0OHdNZz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=TlFKclRJSXJLR2dTcDlWc01WbWRHdz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=WGdzVnBmVmVHR1p4bjJGU2tNSW5lQT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=czFYS0xSN2lreXV5QS8rUWU2VTdsZz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=WWYzY094Yy9oYjFTU2FNNm1Gekx2QT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/~rs/
+Base URL :: http://cse.iitkgp.ac.in/~rs/
+Flag  :: 0
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=NEpBdHBuZGxWS011UXFHTnBhWmFYdz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=cmN1bkh1WWpDQnExbWRoN2JRd0xTdz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=c3lnRmpvWG4rUDZYRGc1d1NMME95dz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=UFo0Yk9SSmNBc1JLUitJUnZXTVFQUT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=TE02K21iRlFmUVpCcGV6UkpiYWZ5dz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=L2Q5bUJTREtEa3RQVEFZVlhXK0FWZz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=eU5TR2kvdzFMSUVmOHNBOXdXZ3Y2Zz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=ZGRBKzNod1pOQlpUeDdjV1dZL0ZkUT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=WmNONmw3VTNiTEpxMlhDbC9DUkpPQT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=L09KNlJvYWdYQmF4WEdPOU9RS1p2QT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://10.3.100.244/
+Base URL :: http://10.3.100.244/
+Flag  :: 0
+MAIN URL :: http://203.110.240.245/
+Base URL :: http://203.110.240.245/
+Flag  :: 0
+MAIN URL :: http://cse.iitkgp.ac.in/oldlook
+Base URL :: http://cse.iitkgp.ac.in/oldlook
+Flag  :: 0
+MAIN URL :: http://www.crcpress.com/product/isbn/9781439895832
+Base URL :: http://www.crcpress.com/product/isbn/9781439895832
+Flag  :: 0
+MAIN URL :: http://caldam.cse.iitk.ac.in/
+Base URL :: http://caldam.cse.iitk.ac.in/
+Flag  :: 0
+Finding files hellp
+filename is urlnumber28
+Curling http://cse.iitkgp.ac.in/index.php?secret=L09KNlJvYWdYQmF4WEdPOU9RS1p2QT09
+Curling
+Finding files
+MAIN URL :: http://cse.iitkgp.ac.in/index.php
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=d2RkOUgybWlNZzJwQXdLc28wNzh6UT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=N2xYSGRub2lDaGdGSjZpVDB4K1U5dz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=WnNYU2lEOW5qZEhQYWZwV0hBNE1yQT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=K3hkZStwcjd0RFFKSEJ4dzlFd2w1Zz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=elJDeHRoRjN1Vkx6WWVaQ3I4TW5Ydz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=eHJXMnFJTzBUeFA4MHNmRHRwbHNmdz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=L3VUeUw0WVNmNkZHZG5BbmNFSVhVUT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=MjRUVWJmNkZHSHpzNDhTWXFhRUNmUT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=RVJFT0VhNlk2S1JLeWUycUZiNSthdz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=bmJJTkZuOHlYN0NPVG00YXFWbHFZQT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=WVRoQXdHQVhtbGRZVGxoZTc0OHdNZz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=TlFKclRJSXJLR2dTcDlWc01WbWRHdz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=WGdzVnBmVmVHR1p4bjJGU2tNSW5lQT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=czFYS0xSN2lreXV5QS8rUWU2VTdsZz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=WWYzY094Yy9oYjFTU2FNNm1Gekx2QT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/~rs/
+Base URL :: http://cse.iitkgp.ac.in/~rs/
+Flag  :: 0
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=NEpBdHBuZGxWS011UXFHTnBhWmFYdz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=cmN1bkh1WWpDQnExbWRoN2JRd0xTdz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=c3lnRmpvWG4rUDZYRGc1d1NMME95dz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=UFo0Yk9SSmNBc1JLUitJUnZXTVFQUT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=TE02K21iRlFmUVpCcGV6UkpiYWZ5dz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=L2Q5bUJTREtEa3RQVEFZVlhXK0FWZz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=eU5TR2kvdzFMSUVmOHNBOXdXZ3Y2Zz09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=ZGRBKzNod1pOQlpUeDdjV1dZL0ZkUT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=WmNONmw3VTNiTEpxMlhDbC9DUkpPQT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://cse.iitkgp.ac.in/index.php?secret=L09KNlJvYWdYQmF4WEdPOU9RS1p2QT09
+Base URL :: http://cse.iitkgp.ac.in
+Flag  :: 1
+MAIN URL :: http://10.3.100.244/
+Base URL :: http://10.3.100.244/
+Flag  :: 0
+MAIN URL :: http://203.110.240.245/
+Base URL :: http://203.110.240.245/
+Flag  :: 0
+MAIN URL :: http://cse.iitkgp.ac.in/oldlook
+Base URL :: http://cse.iitkgp.ac.in/oldlook
+Flag  :: 0
+MAIN URL :: http://www.crcpress.com/product/isbn/9781439895832
+Base URL :: http://www.crcpress.com/product/isbn/9781439895832
+Flag  :: 0
+MAIN URL :: http://caldam.cse.iitk.ac.in/
+Base URL :: http://caldam.cse.iitk.ac.in/
+Flag  :: 0
+Finding files hellp
+filename is urlnumber29
+Curling http://10.3.100.244/
+Curling
+Finding files
+Finding files hellp
+filename is urlnumber30
+Curling http://203.110.240.245/
+Curling
+Finding files
+Finding files hellp
+filename is urlnumber31
+Curling http://cse.iitkgp.ac.in/oldlook
+Curling
+Finding files
+MAIN URL :: http://cse.iitkgp.ac.in/oldlook/
+Base URL :: http://cse.iitkgp.ac.in/oldlook/
+Flag  :: 0
+Finding files hellp
+filename is urlnumber32
+Curling http://www.crcpress.com/product/isbn/9781439895832
+Curling
+Finding files
+MAIN URL :: http://www.crcpress.com/product/isbn/9781439895832//
+Base URL :: http://www.crcpress.com/product/isbn/9781439895832
+Flag  :: 1
+MAIN URL :: http://www.crcpress.com/product/isbn/9781439895832//wishlist
+Base URL :: http://www.crcpress.com/product/isbn/9781439895832
+Flag  :: 1
+MAIN URL :: http://www.crcpress.com/product/isbn/9781439895832//account
+Base URL :: http://www.crcpress.com/product/isbn/9781439895832
+Flag  :: 1
+MAIN URL :: http://www.crcpress.com/product/isbn/9781439895832//login
+Base URL :: http://www.crcpress.com/product/isbn/9781439895832
+Flag  :: 1
+MAIN URL :: http://www.crcpress.com/product/isbn/9781439895832//contactus
+Base URL :: http://www.crcpress.com/product/isbn/9781439895832
+Flag  :: 1
+MAIN URL :: http://www.crcpress.com/product/isbn/9781439895832//cart
+Base URL :: http://www.crcpress.com/product/isbn/9781439895832
+Flag  :: 1
+MAIN URL :: http://www.crcpress.com/product/isbn/9781439895832//
+Base URL :: http://www.crcpress.com/product/isbn/9781439895832
+Flag  :: 1
+MAIN URL :: http://www.crcpress.com/product/isbn/9781439895832//aboutus
+Base URL :: http://www.crcpress.com/product/isbn/9781439895832
+Flag  :: 1
+MAIN URL :: http://www.crcpress.com/product/isbn/9781439895832//aboutus/history
+Base URL :: http://www.crcpress.com/product/isbn/9781439895832
+Flag  :: 1
+MAIN URL :: http://www.crcpress.com/product/isbn/9781439895832//aboutus/careers
+Base URL :: http://www.crcpress.com/product/isbn/9781439895832
+Flag  :: 1
+MAIN URL :: http://www.crcpress.com/product/isbn/9781439895832//aboutus/conferences
+Base URL :: http://www.crcpress.com/product/isbn/9781439895832
+Flag  :: 1
+MAIN URL :: http://www.crcpress.com/product/isbn/9781439895832//aboutus/faq
+Base URL :: http://www.crcpress.com/product/isbn/9781439895832
+Flag  :: 1
+MAIN URL :: http://www.crcpress.com/product/isbn/9781439895832//aboutus/press-releases
+Base URL :: http://www.crcpress.com/product/isbn/9781439895832
+Flag  :: 1
+MAIN URL :: http://www.crcpress.com/product/isbn/9781439895832//resources
+Base URL :: http://www.crcpress.com/product/isbn/9781439895832
+Flag  :: 1
+MAIN URL :: http://www.crcpress.com/product/isbn/9781439895832//resources/authors
+Base URL :: http://www.crcpress.com/product/isbn/9781439895832
+Flag  :: 1
+MAIN URL :: http://www.crcpress.com/product/isbn/9781439895832//resources/booksellers
+Base URL :: http://www.crcpress.com/product/isbn/9781439895832
+Flag  :: 1
+MAIN URL :: http://www.crcpress.com/product/isbn/9781439895832//resources/instructors
+Base URL :: http://www.crcpress.com/product/isbn/9781439895832
+Flag  :: 1
+MAIN URL :: http://www.crcpress.com/product/isbn/9781439895832//resources/librarians
+Base URL :: http://www.crcpress.com/product/isbn/9781439895832
+Flag  :: 1
+MAIN URL :: http://www.crcpress.com/product/isbn/9781439895832//resources/press
+Base URL :: http://www.crcpress.com/product/isbn/9781439895832
+Flag  :: 1
+MAIN URL :: http://www.crcpress.com/product/isbn/9781439895832//resources/societies
+Base URL :: http://www.crcpress.com/product/isbn/9781439895832
+Flag  :: 1
+MAIN URL :: http://www.crcpress.com/product/isbn/9781439895832//textbooks
+Base URL :: http://www.crcpress.com/product/isbn/9781439895832
+Flag  :: 1
+MAIN URL :: http://www.crcpress.com/product/isbn/9781439895832//custompub
+Base URL :: http://www.crcpress.com/product/isbn/9781439895832
+Flag  :: 1
+MAIN URL :: http://www.crcnetbase.com
+Base URL :: http://www.crcnetbase.com
+Flag  :: 0
+MAIN URL :: http://www.crcpress.com/product/isbn/9781439895832///www.crcpress.com/authors
+Base URL :: http://www.crcpress.com/product/isbn/9781439895832
+Flag  :: 1
+MAIN URL :: http://www.crcpress.com/product/isbn/9781439895832//search
+Base URL :: http://www.crcpress.com/product/isbn/9781439895832
+Flag  :: 1
+MAIN URL :: http://www.crcpress.com/product/isbn/9781439895832//
+Base URL :: http://www.crcpress.com/product/isbn/9781439895832
+Flag  :: 1
+MAIN URL :: http://www.crcpress.com/product/isbn/9781439895832//computer-science-engineering
+Base URL :: http://www.crcpress.com/product/isbn/9781439895832
+Flag  :: 1
+MAIN URL :: http://www.crcpress.com/product/isbn/9781439895832//computer-science-engineering/cryptography-coding-theory
+Base URL :: http://www.crcpress.com/product/isbn/9781439895832
+Flag  :: 1
+MAIN URL :: http://www.crcpress.com/product/isbn/9781439895832/#googlePreviewContainer
+Base URL :: http://www.crcpress.com/product/isbn/9781439895832
+Flag  :: 1
+MAIN URL :: http://www.crcpress.com/product/isbn/9781439895832/#vsModal
+Base URL :: http://www.crcpress.com/product/isbn/9781439895832
+Flag  :: 1
+MAIN URL :: http://www.crcnetbase.com/isbn/9781439895849
+Base URL :: http://www.crcnetbase.com/isbn/9781439895849
+Flag  :: 0
+MAIN URL :: http://www.crcpress.com/product/isbn/9781439895832/javascript:void(0)
+Base URL :: http://www.crcpress.com/product/isbn/9781439895832
+Flag  :: 1
+MAIN URL :: http://www.crcpress.com/product/isbn/9781439895832/javascript:void(0)
+Base URL :: http://www.crcpress.com/product/isbn/9781439895832
+Flag  :: 1
+MAIN URL :: http://www.crcpress.com/product/isbn/9781439895832/javascript:void(0)
+Base URL :: http://www.crcpress.com/product/isbn/9781439895832
+Flag  :: 1
+MAIN URL :: http://www.crcpress.com/product/isbn/9781439895832//recommend/librarian/9781439895832
+Base URL :: http://www.crcpress.com/product/isbn/9781439895832
+Flag  :: 1
+MAIN URL :: http://www.crcpress.com/product/isbn/9781439895832//product/isbn/9781584885085?source=crcpress.com&utm_source=productpage&utm_medium=website&utm_campaign=RelatedTitles
+Base URL :: http://www.crcpress.com/product/isbn/9781439895832
+Flag  :: 1
+MAIN URL :: http://www.crcpress.com/product/isbn/9781439895832//product/isbn/9781584885436?source=crcpress.com&utm_source=productpage&utm_medium=website&utm_campaign=RelatedTitles
+Base URL :: http://www.crcpress.com/product/isbn/9781439895832
+Flag  :: 1
+MAIN URL :: http://www.crcpress.com/product/isbn/9781439895832//product/isbn/9781420061604?source=crcpress.com&utm_source=productpage&utm_medium=website&utm_campaign=RelatedTitles
+Base URL :: http://www.crcpress.com/product/isbn/9781439895832
+Flag  :: 1
+MAIN URL :: http://www.crcpress.com/product/isbn/9781439895832/#singleItemCarousel
+Base URL :: http://www.crcpress.com/product/isbn/9781439895832
+Flag  :: 1
+MAIN URL :: http://www.crcpress.com/product/isbn/9781439895832/#singleItemCarousel
+Base URL :: http://www.crcpress.com/product/isbn/9781439895832
+Flag  :: 1
+MAIN URL :: http://www.crcpress.com/product/isbn/9781439895832//cart
+Base URL :: http://www.crcpress.com/product/isbn/9781439895832
+Flag  :: 1
+MAIN URL :: http://www.crcpress.com/product/isbn/9781439895832//cart
+Base URL :: http://www.crcpress.com/product/isbn/9781439895832
+Flag  :: 1
+MAIN URL :: http://downloads.vitalbook.com/tutorials/publish/index.html?did=generic
+Base URL :: http://downloads.vitalbook.com/tutorials/publish/index.html?did=generic
+Flag  :: 0
+MAIN URL :: http://www.crcpress.com/product/isbn/9781439895832//aboutus
+Base URL :: http://www.crcpress.com/product/isbn/9781439895832
+Flag  :: 1
+MAIN URL :: http://www.crcpress.com/product/isbn/9781439895832//aboutus/history
+Base URL :: http://www.crcpress.com/product/isbn/9781439895832
+Flag  :: 1
+MAIN URL :: http://www.crcpress.com/product/isbn/9781439895832//aboutus/careers
+Base URL :: http://www.crcpress.com/product/isbn/9781439895832
+Flag  :: 1
+MAIN URL :: http://www.crcpress.com/product/isbn/9781439895832//aboutus/conferences
+Base URL :: http://www.crcpress.com/product/isbn/9781439895832
+Flag  :: 1
+MAIN URL :: http://www.crcpress.com/product/isbn/9781439895832//aboutus/faq
+Base URL :: http://www.crcpress.com/product/isbn/9781439895832
+Flag  :: 1
+MAIN URL :: http://www.crcpress.com/product/isbn/9781439895832//aboutus/press-releases
+Base URL :: http://www.crcpress.com/product/isbn/9781439895832
+Flag  :: 1
+MAIN URL :: http://www.crcpress.com/product/isbn/9781439895832//resources
+Base URL :: http://www.crcpress.com/product/isbn/9781439895832
+Flag  :: 1
+MAIN URL :: http://www.crcpress.com/product/isbn/9781439895832//resources/authors
+Base URL :: http://www.crcpress.com/product/isbn/9781439895832
+Flag  :: 1
+MAIN URL :: http://www.crcpress.com/product/isbn/9781439895832//resources/booksellers
+Base URL :: http://www.crcpress.com/product/isbn/9781439895832
+Flag  :: 1
+MAIN URL :: http://www.crcpress.com/product/isbn/9781439895832//resources/instructors
+Base URL :: http://www.crcpress.com/product/isbn/9781439895832
+Flag  :: 1
+MAIN URL :: http://www.crcpress.com/product/isbn/9781439895832//resources/librarians
+Base URL :: http://www.crcpress.com/product/isbn/9781439895832
+Flag  :: 1
+MAIN URL :: http://www.crcpress.com/product/isbn/9781439895832//resources/press
+Base URL :: http://www.crcpress.com/product/isbn/9781439895832
+Flag  :: 1
+MAIN URL :: http://www.crcpress.com/product/isbn/9781439895832//resources/societies
+Base URL :: http://www.crcpress.com/product/isbn/9781439895832
+Flag  :: 1
+MAIN URL :: http://www.crcpress.com/product/isbn/9781439895832//textbooks
+Base URL :: http://www.crcpress.com/product/isbn/9781439895832
+Flag  :: 1
+MAIN URL :: http://www.crcpress.com/product/isbn/9781439895832//custompub
+Base URL :: http://www.crcpress.com/product/isbn/9781439895832
+Flag  :: 1
+MAIN URL :: http://www.crcnetbase.com
+Base URL :: http://www.crcnetbase.com
+Flag  :: 0
+MAIN URL :: http://www.crcpress.com/product/isbn/9781439895832//authors
+Base URL :: http://www.crcpress.com/product/isbn/9781439895832
+Flag  :: 1
+MAIN URL :: http://www.crcpress.com/product/isbn/9781439895832//authors/news
+Base URL :: http://www.crcpress.com/product/isbn/9781439895832
+Flag  :: 1
+MAIN URL :: http://www.crcpress.com/product/isbn/9781439895832//authors/events
+Base URL :: http://www.crcpress.com/product/isbn/9781439895832
+Flag  :: 1
+MAIN URL :: https://www.youtube.com/user/CRCPressTandF
+Base URL :: https://www.youtube.com/user/CRCPressTandF
+Flag  :: 0
+MAIN URL :: https://twitter.com/crcpress/
+Base URL :: https://twitter.com/crcpress/
+Flag  :: 0
+MAIN URL :: https://www.facebook.com/CRCPresspage
+Base URL :: https://www.facebook.com/CRCPresspage
+Flag  :: 0
+MAIN URL :: http://www.linkedin.com/groups/CRC-Press-Authors-Editors-2234366
+Base URL :: http://www.linkedin.com/groups/CRC-Press-Authors-Editors-2234366
+Flag  :: 0
+MAIN URL :: https://plus.google.com/+crcpress/posts
+Base URL :: https://plus.google.com/+crcpress/posts
+Flag  :: 0
+MAIN URL :: http://www.pinterest.com/CRCPressBooks/
+Base URL :: http://www.pinterest.com/CRCPressBooks/
+Flag  :: 0
+MAIN URL :: http://www.crcpress.com/product/isbn/9781439895832/email
+Base URL :: http://www.crcpress.com/product/isbn/9781439895832
+Flag  :: 1
+MAIN URL :: http://www.crcpress.com/product/isbn/9781439895832//contactus/cookies
+Base URL :: http://www.crcpress.com/product/isbn/9781439895832
+Flag  :: 1
+MAIN URL :: http://www.crcpress.com/product/isbn/9781439895832//contactus/privacypolicy
+Base URL :: http://www.crcpress.com/product/isbn/9781439895832
+Flag  :: 1
+MAIN URL :: http://www.crcpress.com/product/isbn/9781439895832//contactus/shipping
+Base URL :: http://www.crcpress.com/product/isbn/9781439895832
+Flag  :: 1
+MAIN URL :: http://www.crcpress.com/product/isbn/9781439895832//contactus
+Base URL :: http://www.crcpress.com/product/isbn/9781439895832
+Flag  :: 1
+MAIN URL :: http://www.crcpress.com/
+Base URL :: http://www.crcpress.com/
+Flag  :: 0
+MAIN URL :: http://www.taylorandfrancisgroup.com/
+Base URL :: http://www.taylorandfrancisgroup.com/
+Flag  :: 0
+Finding files hellp
+filename is urlnumber33
+Curling http://caldam.cse.iitk.ac.in/
+Curling
+Finding files
+MAIN URL :: http://caldam.cse.iitk.ac.in//index.php
+Base URL :: http://caldam.cse.iitk.ac.in/
+Flag  :: 1
+MAIN URL :: http://caldam.cse.iitk.ac.in//committees.php
+Base URL :: http://caldam.cse.iitk.ac.in/
+Flag  :: 1
+MAIN URL :: http://caldam.cse.iitk.ac.in//invited_speakers.php
+Base URL :: http://caldam.cse.iitk.ac.in/
+Flag  :: 1
+MAIN URL :: http://caldam.cse.iitk.ac.in//call_for_papers.php
+Base URL :: http://caldam.cse.iitk.ac.in/
+Flag  :: 1
+MAIN URL :: http://caldam.cse.iitk.ac.in//spl-cfp.php
+Base URL :: http://caldam.cse.iitk.ac.in/
+Flag  :: 1
+MAIN URL :: http://caldam.cse.iitk.ac.in//important_dates.php
+Base URL :: http://caldam.cse.iitk.ac.in/
+Flag  :: 1
+MAIN URL :: http://caldam.cse.iitk.ac.in//program.php
+Base URL :: http://caldam.cse.iitk.ac.in/
+Flag  :: 1
+MAIN URL :: http://caldam.cse.iitk.ac.in//registration.php
+Base URL :: http://caldam.cse.iitk.ac.in/
+Flag  :: 1
+MAIN URL :: http://caldam.cse.iitk.ac.in//pre_conference_school.php
+Base URL :: http://caldam.cse.iitk.ac.in/
+Flag  :: 1
+MAIN URL :: http://caldam.cse.iitk.ac.in//event_gallery.php
+Base URL :: http://caldam.cse.iitk.ac.in/
+Flag  :: 1
+MAIN URL :: http://cse.iitk.ac.in
+Base URL :: http://cse.iitk.ac.in
+Flag  :: 0
+MAIN URL :: http://www.iitk.ac.in
+Base URL :: http://www.iitk.ac.in
+Flag  :: 0
+MAIN URL :: http://www.tcs.tifr.res.in/~ghosh/workshop.html
+Base URL :: http://www.tcs.tifr.res.in/~ghosh/workshop.html
+Flag  :: 0
+MAIN URL :: http://caldam.cse.iitk.ac.in//registration.php
+Base URL :: http://caldam.cse.iitk.ac.in/
+Flag  :: 1
+MAIN URL :: http://caldam.cse.iitk.ac.in//call_for_papers.php
+Base URL :: http://caldam.cse.iitk.ac.in/
+Flag  :: 1
+MAIN URL :: http://caldam.cse.iitk.ac.in//program.php
+Base URL :: http://caldam.cse.iitk.ac.in/
+Flag  :: 1
+MAIN URL :: http://caldam.cse.iitk.ac.in//invited_speakers.php
+Base URL :: http://caldam.cse.iitk.ac.in/
+Flag  :: 1
+MAIN URL :: http://cse.iitk.ac.in/links/howtoreach.html
+Base URL :: http://cse.iitk.ac.in/links/howtoreach.html
+Flag  :: 0
+MAIN URL :: http://caldam.cse.iitk.ac.in/register/content/travel-accommodation-details
+Base URL :: http://caldam.cse.iitk.ac.in/register/content/travel-accommodation-details
+Flag  :: 0
+MAIN URL :: http://caldam.cse.iitk.ac.in/register/content/travel-accommodation-details
+Base URL :: http://caldam.cse.iitk.ac.in/register/content/travel-accommodation-details
+Flag  :: 0
+MAIN URL :: http://caldam.cse.iitk.ac.in/clearance.pdf
+Base URL :: http://caldam.cse.iitk.ac.in/clearance.pdf
+Flag  :: 0

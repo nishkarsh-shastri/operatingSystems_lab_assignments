@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]><html class="lt-ie9 lt-ie8 lt-ie7" lang="en" dir="ltr"><![endif]-->
+<!--[if IE 7]><html class="lt-ie9 lt-ie8" lang="en" dir="ltr"><![endif]-->
+<!--[if IE 8]><html class="lt-ie9" lang="en" dir="ltr"><![endif]-->
+<!--[if gt IE 8]><!--><html lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ og: http://ogp.me/ns# rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#"><!--<![endif]-->
+<head>
+<meta charset="utf-8" />
+<link rel="shortlink" href="/register/node/293" />
+<link rel="shortcut icon" href="http://caldam.cse.iitk.ac.in/register/misc/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="/register/content/travel-accommodation-details" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<title>Travel / Accommodation details | CALDAM</title>
+<link type="text/css" rel="stylesheet" href="http://caldam.cse.iitk.ac.in/register/sites/default/files/css/css_ClH4ftSsekQkai-XUsCbGn50ARQya4NGXpvKCgmYf2E.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://caldam.cse.iitk.ac.in/register/sites/default/files/css/css_vR9iPvICOv4qTZmTjUYc8korWRrXvNjuFA1bgZkC8iI.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://caldam.cse.iitk.ac.in/register/sites/default/files/css/css_7nUrNcnwFBaPpUx_8OHV9tEBQQRT-gKvDX0EHhmLNpI.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://caldam.cse.iitk.ac.in/register/sites/default/files/css/css_WkIQlS2V8h4Vh16HARhGTGX8u2nA_FzvuTZ5-DXLwaQ.css" media="screen" />
+<link type="text/css" rel="stylesheet" href="http://caldam.cse.iitk.ac.in/register/sites/default/files/css/css_WKr4kRX_c32UbWrSQPkHT0dsxAEnKUJervzDu6CTvYU.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://caldam.cse.iitk.ac.in/register/sites/default/files/css/css_5TxylIDFcnpmO5ucPRfXTdJiyW00MUBYhBuo7SANpds.css" media="print" />
+<link type="text/css" rel="stylesheet" href="http://caldam.cse.iitk.ac.in/register/sites/default/files/css/css_l0PNK7hRoEYP8V-tR4s7p5jh8vdSJSxjd0sIoYTiRQI.css" media="only screen" />
+<link type="text/css" rel="stylesheet" href="http://caldam.cse.iitk.ac.in/register/sites/default/files/css/css_PmgjrEo0-8m3Us-fvJXjsOwkP97OkMRBIYh4MEtHoOE.css" media="screen" />
+<link type="text/css" rel="stylesheet" href="http://caldam.cse.iitk.ac.in/register/sites/default/files/css/css_ZmKvVCqQ-UUpxKQLYZ2bpKaR8Hxx8G01fSCamDABSoU.css" media="only screen" />
+
+<!--[if lt IE 9]>
+<link type="text/css" rel="stylesheet" href="http://caldam.cse.iitk.ac.in/register/sites/default/files/css/css_pxkSjhn_EXKZ7YpeHn_ZZIvUOkw2iH58HI2YNiEUS7k.css" media="screen" />
+<![endif]-->
+
+<!--[if lte IE 9]>
+<link type="text/css" rel="stylesheet" href="http://caldam.cse.iitk.ac.in/register/sites/default/files/css/css_4UL30AxgxPzN9PN_DL1WVyhBKji0rSdCVjw5buAtqXE.css" media="screen" />
+<![endif]-->
+<script src="http://caldam.cse.iitk.ac.in/register/sites/default/files/js/js_oCVMDTeSNt-_QxknevWyf6yO5OzmME3AhRz3ggZgNtg.js"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/register\/","pathPrefix":"","ajaxPageState":{"theme":"corolla","theme_token":"elcOEWDB_yqf7owy-2c-mE1QxC6FM51xEwInsDStZeo","js":{"sites\/all\/modules\/jquery_update\/replace\/jquery\/1.10\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/logintoboggan\/logintoboggan.css":1,"profiles\/acquia\/modules\/mollom\/mollom.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"profiles\/acquia\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/themes\/adaptivetheme\/at_core\/css\/at.settings.style.headings.css":1,"sites\/all\/themes\/adaptivetheme\/at_core\/css\/at.settings.style.image.css":1,"sites\/all\/themes\/adaptivetheme\/at_core\/css\/at.layout.css":1,"sites\/all\/themes\/corolla\/css\/html-elements.css":1,"sites\/all\/themes\/corolla\/css\/forms.css":1,"sites\/all\/themes\/corolla\/css\/tables.css":1,"sites\/all\/themes\/corolla\/css\/page.css":1,"sites\/all\/themes\/corolla\/css\/articles.css":1,"sites\/all\/themes\/corolla\/css\/comments.css":1,"sites\/all\/themes\/corolla\/css\/fields.css":1,"sites\/all\/themes\/corolla\/css\/blocks.css":1,"sites\/all\/themes\/corolla\/css\/navigation.css":1,"sites\/all\/themes\/corolla\/css\/fonts.css":1,"sites\/all\/themes\/corolla\/css\/corolla.settings.style.css":1,"sites\/all\/themes\/corolla\/color\/colors.css":1,"sites\/all\/themes\/corolla\/css\/print.css":1,"public:\/\/adaptivetheme\/corolla_files\/corolla.responsive.layout.css":1,"public:\/\/adaptivetheme\/corolla_files\/corolla.fonts.css":1,"public:\/\/adaptivetheme\/corolla_files\/corolla.responsive.styles.css":1,"public:\/\/adaptivetheme\/corolla_files\/corolla.lt-ie9.layout.css":1,"sites\/all\/themes\/corolla\/css\/ie-lte-9.css":1}},"adaptivetheme":{"corolla":{"layout_settings":{"bigscreen":"three-col-grail","tablet_landscape":"three-col-grail","tablet_portrait":"one-col-vert","smalltouch_landscape":"one-col-vert","smalltouch_portrait":"one-col-stack"},"media_query_settings":{"bigscreen":"only screen and (min-width:1025px)","tablet_landscape":"only screen and (min-width:769px) and (max-width:1024px)","tablet_portrait":"only screen and (min-width:481px) and (max-width:768px)","smalltouch_landscape":"only screen and (min-width:321px) and (max-width:480px)","smalltouch_portrait":"only screen and (max-width:320px)"}}}});</script>
+<!--[if lt IE 9]>
+<script src="http://caldam.cse.iitk.ac.in/register/sites/all/themes/adaptivetheme/at_core/scripts/html5.js?njnng1"></script>
+<![endif]-->
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-293 node-type-page atr-7.x-3.x atv-7.x-3.0 site-name-caldam section-content color-scheme-custom corolla bs-n bb-n mb-dd rc-6 rct-6">
+  <div id="skip-link" class="nocontent">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    <div id="page-wrapper">
+  <div id="page" class="page snc-n snw-n sna-l sns-n ssc-n ssw-n ssa-l sss-n btc-n btw-b bta-l bts-n ntc-n ntw-b nta-l nts-n ctc-n ctw-b cta-l cts-n ptc-n ptw-b pta-l pts-n">
+
+          <div id="menu-bar-wrapper">
+        <div class="container clearfix">
+          <div id="menu-bar" class="nav clearfix"><nav id="block-system-main-menu" class="block block-system block-menu menu-wrapper menu-bar-wrapper clearfix odd first last block-count-1 block-region-menu-bar block-main-menu"  role="navigation">  
+      <h2 class="element-invisible block-title">Main menu</h2>
+  
+  <ul class="menu clearfix"><li class="first leaf menu-depth-1 menu-item-214"><a href="http://caldam.cse.iitk.ac.in" title="">Home</a></li><li class="leaf menu-depth-1 menu-item-564"><a href="/register/user?current=node/293" title="">Profile</a></li><li class="last leaf menu-depth-1 menu-item-576"><a href="/register/content/contact-us">Contact Us</a></li></ul>
+  </nav></div>        </div>
+      </div>
+    
+    <div id="header-wrapper">
+      <div class="container clearfix">
+
+        <header class="clearfix with-logo" role="banner">
+
+                      <div id="branding" class="branding-elements clearfix">
+
+                              <div id="logo">
+                  <a href="/register/"><img class="site-logo" typeof="foaf:Image" src="http://caldam.cse.iitk.ac.in/register/sites/default/files/299px-IIT_Kanpur_Logo.svg_.png" alt="CALDAM" /></a>                </div>
+              
+                              <div class="h-group" id="name-and-slogan">
+
+                                      <h1 id="site-name"><a href="/register/" title="Home page">CALDAM</a></h1>
+                  
+                                      <h2 id="site-slogan">Conference on Algorithms and Discrete Applied Mathematics  (February 8-10, 2015)</h2>
+                  
+                </div>
+              
+            </div>
+          
+          
+        </header>
+
+      </div>
+    </div>
+
+    
+    
+    
+    <div id="content-wrapper">
+      <div class="container">
+
+        <div id="columns">
+          <div class="columns-inner clearfix">
+
+            <div id="content-column">
+              <div class="content-inner">
+
+                
+                <section id="main-content" role="main">
+
+                  
+                  <div class="content-margin">
+                    <div class="content-style">
+
+                      
+                      
+                      
+                                              <header class="clearfix">
+                          <h1 id="page-title">
+                            Travel / Accommodation details                          </h1>
+                        </header>
+                      
+                      
+                      
+                      <div id="content">
+                        <div class="region region-content"><div id="block-system-main" class="block block-system no-title odd first last block-count-2 block-region-content block-main" >  
+  
+  <article id="node-293" class="node node-page article odd node-full ia-n clearfix" about="/register/content/travel-accommodation-details" typeof="foaf:Document" role="article">
+  <div class="node-inner">
+
+    
+              <header class="node-header">
+
+        
+        
+      </header>
+        <span property="dc:title" content="Travel / Accommodation details" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+    <div class="node-content">
+        <div class="field field-name-body field-type-text-with-summary field-label-hidden view-mode-full"><div class="field-items"><div class="field-item odd" property="content:encoded"><p>Limited accommodation can be arranged in the Visitor's Hostel of IIT Kanpur during the conference. Travel pickups and drops from Amausi Airport (Lucknow) and Kanpur Railway Station can also be arranged during the conference. However to avail this facility, you must register and pay the registration fee.</p>
+<p>Please <strong><em><a href="http://caldam.cse.iitk.ac.in/register/node/add/travel-accomodation-details">click here</a></em></strong> to fill in details for travel and accommodation facility.</p>
+<p>In case you change your travel plans, please update the entries here before 1st Feb 2015</p>
+<p><strong>Note</strong>: In case a participant needs accommodation for additonal person (for eg. accompanying spouse) he/she is requested to send a mail to <a href="mailto:caldam@cse.iitk.ac.in">caldam@cse.iitk.ac.in</a> in this regard. We will try to provide accommodation. </p>
+</div></div></div>    </div>
+
+    
+    
+  </div>
+</article>
+
+  </div></div>                      </div>
+
+                      
+                    </div>
+                  </div>
+
+                </section>
+
+                
+              </div>
+            </div>
+
+                        
+          </div>
+        </div>
+
+      </div>
+    </div>
+
+    
+    
+    
+  </div>
+</div>
+  </body>
+</html>

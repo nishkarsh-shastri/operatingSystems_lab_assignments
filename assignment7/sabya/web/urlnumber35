@@ -1,0 +1,713 @@
+<html>
+
+<head>
+<title>MS Students</title>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+<link rel="stylesheet" type="text/css" href="main.css" />
+</head>
+
+
+<body>
+<table class="Global" cellpadding="0" cellspacing="0" border="0">
+
+<tr><td height="10" colspan="2"></td></tr>
+
+<tr><td height="150" colspan="2">
+
+<table class="Header_Image" cellspacing="0" border="0"><tr>
+
+<td width="100%" align="left">&nbsp;</td>
+
+</tr></table>
+
+</td></tr>
+
+
+<tr>
+
+<td class="MenuColTD" align="center">
+
+<div class="Menu">
+
+<a href="index.html">Home</a>
+
+<a href="phd.html">PhD Students</a>
+
+<font>MS Students</font>
+
+<a href="rsday.html">RS Day</a>
+
+<a href="news.html">News</a>
+
+<a href="alumni.html">Alumni</a>
+
+<a href="contact.html">Contact</a><br>
+
+<a href="http://cse.iitkgp.ac.in/index.php?secret=bmJJTkZuOHlYN0NPVG00YXFWbHFZQT09/" target="_blank">Research Info</a>
+
+<a href="http://cse.iitkgp.ac.in/" target="_blank">CSE Dept</a>
+
+<a href="http://iitkgp.ac.in/" target="_blank">IIT Kharagpur</a>
+
+</div>
+
+</td>
+
+
+
+<td class="Content">
+
+<p>
+
+<table>
+<!-- <tr>
+<td width="48" height="64"><A href="http://cse.iitkgp.ac.in/~souvikb/" target="_blank"><img src="images/DEFAULT.JPG" /></A></td>
+<td>
+<b><A href="http://cse.iitkgp.ac.in/~souvikb/" target="_blank">Souvik Bhattacherjee</A></b><br />
+<font size="2"><i>Research</i>: </font><br />
+<font size="2"><i>Supervisor(s)</i>: <A href="http://www.facweb.iitkgp.ernet.in/~adas/" target="_blank">Prof. Abhijit Das</A></font><br />
+</td>
+</tr> -->
+
+<!-- <tr>
+<td width="48" height="64"><A href="http://cse.iitkgp.ac.in/~sourasisd/" target="_blank"><img src="images/DEFAULT.JPG" /></A></td>
+<td>
+<b><A href="http://cse.iitkgp.ac.in/~sourasisd/" target="_blank">Sourasis Das</A></b><br />
+<font size="2"><i>Research</i>: </font><br />
+<font size="2"><i>Supervisor(s)</i>: <A href="http://www.facweb.iitkgp.ernet.in/~pallab/" target="_blank">Prof. Pallab Dasgupta</A></font><br />
+</td>
+</tr> -->
+
+
+<!--tr>
+
+<td width="48" height="64"><A href="http://cse.iitkgp.ac.in/~bbarik/" target="_blank"><img src="images/DEFAULT.JPG" /></A></td>
+
+<td>
+
+<b><A href="http://cse.iitkgp.ac.in/~bbarik/" target="_blank">Biswanath Barik</A></b><br />
+
+<font size="2"><i>Research</i>: </font><br />
+
+<font size="2"><i>Supervisor(s)</i>: <A href="http://www.facweb.iitkgp.ernet.in/~anupam/" target="_blank">Prof. Anupam Basu</A>, <A href="http://www.facweb.iitkgp.ernet.in/~sudeshna/" target="_blank">Prof. Sudeshna Sarkar</A></font><br />
+
+</td>
+
+</tr-->
+
+<!-- <tr>
+<td width="48" height="64"><A href="http://cse.iitkgp.ac.in/~sumitd/" target="_blank"><img width="48" height="64" src="images/08CS7003.JPG" /></A></td>
+<td>
+<b><A href="http://cse.iitkgp.ac.in/~sumitd/" target="_blank">Sumit Das</A></b><br />
+<font size="2"><i>Research</i>: Natural Language Processing, Text Mining, Assistive Technology
+</font><br />
+<font size="2"><i>Supervisor(s)</i>: <A href="http://www.facweb.iitkgp.ernet.in/~anupam/" target="_blank">Prof. Anupam Basu</A></font><br />
+</td>
+</tr> -->
+
+<!-- <tr>
+<td width="48" height="64"><A href="http://cse.iitkgp.ac.in/~swarnendub/" target="_blank"><img width="48" height="64" src="images/09CS7001.JPG" /></A></td>
+<td>
+<b><A href="http://cse.iitkgp.ac.in/~swarnendub/" target="_blank">Swarnendu Biswas</A></b><br />
+<font size="2"><i>Research</i>: Software Engineering, Embedded Systems, Real-Time Systems.
+</font><br />
+<font size="2"><i>Supervisor(s)</i>: <A href="http://www.facweb.iitkgp.ernet.in/~rajib/" target="_blank">Prof. Rajib Mall</A></font><br />
+</td>
+</tr> -->
+
+<!--tr>
+
+<td width="48" height="64"><A href="http://cse.iitkgp.ac.in/~debjitp/" target="_blank"><img width="48" height="64" src="images/09CS7002.JPG" /></A></td>
+
+<td>
+
+<b><A href="http://cse.iitkgp.ac.in/~debjitp/" target="_blank">Debjit Pal</A></b><br />
+
+<font size="2"><i>Research</i>: Verification of Analog-Mixed Signal Designs, Equivalence Checking of Analog-Mixed Signal Designs
+</font><br />
+
+<font size="2"><i>Supervisor(s)</i>: <A href="http://www.facweb.iitkgp.ernet.in/~pallab/" target="_blank">Prof. Pallab Dasgupta</A>, <A href="http://www.facweb.iitkgp.ernet.in/~smukh/" target="_blank">Prof. Siddhartha Mukhopadhyay</A></font><br />
+
+</td>
+
+</tr-->
+
+<!-- <tr>
+<td width="48" height="64"><A href="http://cse.iitkgp.ac.in/~anupb/" target="_blank"><img width="48" height="64" src="images/09CS7003.JPG" /></A></td>
+<td>
+<b><A href="http://cse.iitkgp.ac.in/~anupb/" target="_blank">Anup Kumar Bhattacharya</A></b><br />
+<font size="2"><i>Research</i>: Cryptography
+</font><br />
+<font size="2"><i>Supervisor(s)</i>: <A href="http://www.facweb.iitkgp.ernet.in/~adas/" target="_blank">Prof. Abhijit Das</A>, <A href="http://www.facweb.iitkgp.ernet.in/~drc/" target="_blank">Prof. Dipanwita Roychaudhury</A></font><br />
+</td>
+</tr> -->
+
+<!--tr>
+
+<td width="48" height="64"><A href="http://cse.iitkgp.ac.in/~satrajit/" target="_blank"><img width="48" height="64" src="images/09CS7004.JPG" /></A></td>
+
+<td>
+
+<b><A href="http://cse.iitkgp.ac.in/~satrajit/" target="_blank">Satrajit Ghosh</A></b><br />
+
+<font size="2"><i>Research</i>: Algorithm Design and Analysis, Efficient and Parallel Implementation, Network Security
+</font><br />
+
+<font size="2"><i>Supervisor(s)</i>: <A href="http://www.facweb.iitkgp.ernet.in/~adas/" target="_blank">Prof. Abhijit Das</A></font><br />
+
+</td>
+
+</tr-->
+
+<!--tr>
+
+<td width="48" height="64"><A href="http://cse.iitkgp.ac.in/~biswad/" target="_blank"><img width="48" height="64" src="images/09CS7005.JPG" /></A></td>
+
+<td>
+
+<b><A href="http://cse.iitkgp.ac.in/~biswad/" target="_blank">Biswajit Das</A></b><br />
+
+<font size="2"><i>Research</i>: Speech Recognition and Speech Enhancement
+</font><br />
+
+<font size="2"><i>Supervisor(s)</i>: <A href="http://www.facweb.iitkgp.ernet.in/~pabitra/" target="_blank">Prof. Pabitra Mitra</A></font><br />
+
+</td>
+
+</tr-->
+
+<!--tr>
+
+<td width="48" height="64"><A href="http://cse.iitkgp.ac.in/~sanman/" target="_blank"><img width="48" height="64" src="images/09CS7006.JPG" /></A></td>
+
+<td>
+
+<b><A href="http://cse.iitkgp.ac.in/~sanman/" target="_blank">Sandipan Mandal</A></b><br />
+
+<font size="2"><i>Research</i>: Speech Recognition and Assistive Technology
+</font><br />
+
+<font size="2"><i>Supervisor(s)</i>: <A href="http://www.facweb.iitkgp.ernet.in/~pabitra/" target="_blank">Prof. Pabitra Mitra</A></font><br />
+
+</td>
+
+</tr-->
+
+<!-- <tr>
+<td width="48" height="64"><A href="http://cse.iitkgp.ac.in/~supd/" target="_blank"><img width="48" height="64" src="images/09CS7007.JPG" /></A></td>
+<td>
+<b><A href="http://cse.iitkgp.ac.in/~supd/" target="_blank">Suprabhat Das</A></b><br />
+<font size="2"><i>Research</i>: Information Retrieval, Stylistic Authorship Attribution
+</font><br />
+<font size="2"><i>Supervisor(s)</i>: <A href="http://www.facweb.iitkgp.ernet.in/~pabitra/" target="_blank">Prof. Pabitra Mitra</A></font><br />
+</td>
+</tr> -->
+
+<!-- <tr>
+<td width="48" height="64"><A href="http://cse.iitkgp.ac.in/~punamrk/" target="_blank"><img src="images/DEFAULT.JPG" /></A></td>
+<td>
+<b><A href="http://cse.iitkgp.ac.in/~punamrk/" target="_blank">Punam Roy Karmokar</A></b><br />
+<font size="2"><i>Research</i>: </font><br />
+<font size="2"><i>Supervisor(s)</i>: <A href="http://www.facweb.iitkgp.ernet.in/~sudeshna/" target="_blank">Prof. Sudeshna Sarkar</A></font><br />
+</td>
+</tr> -->
+
+<!--tr>
+
+<td width="48" height="64"><A href="http://cse.iitkgp.ac.in/~praloykb/" target="_blank"><img src="images/DEFAULT.JPG" /></A></td>
+
+<td>
+
+<b><A href="http://cse.iitkgp.ac.in/~praloykb/" target="_blank">Praloy Kumar Biswas</A></b><br />
+
+<font size="2"><i>Research</i>: </font><br />
+
+<font size="2"><i>Supervisor(s)</i>: <A href="http://www.facweb.iitkgp.ernet.in/~drc/" target="_blank">Prof. Dipanwita Roychaudhury</A></font><br />
+
+</td>
+
+</tr-->
+
+<!--tr>
+
+<td width="48" height="64"><A href="http://cse.iitkgp.ac.in/~smohanta/" target="_blank"><img width="48" height="64" src="images/09CS7010.JPG" /></A></td>
+
+<td>
+
+<b><A href="http://cse.iitkgp.ac.in/~smohanta/" target="_blank">Sirsendu Mohanta</A></b><br />
+
+<font size="2"><i>Research</i>: Software Reliability
+</font><br />
+
+<font size="2"><i>Supervisor(s)</i>: <A href="http://www.facweb.iitkgp.ernet.in/~rajib/" target="_blank">Prof. Rajib Mall</A></font><br />
+
+</td>
+
+</tr-->
+
+<!-- <tr>
+<td width="48" height="64"><A href="http://cse.iitkgp.ac.in/~pramitr/" target="_blank"><img width="48" height="64" src="images/09CS7011.JPG" /></A></td>
+<td>
+<b><A href="http://cse.iitkgp.ac.in/~pramitr/" target="_blank">Pramit Roy</A></b><br />
+<font size="2"><i>Research</i>: Misbehavior Detection of vehicles in Vehicular Ad Hoc Network
+</font><br />
+<font size="2"><i>Supervisor(s)</i>: <A href="http://www.facweb.iitkgp.ernet.in/~agupta/" target="_blank">Prof. Arobinda Gupta</A></font><br />
+</td>
+</tr> -->
+
+<!-- <tr>
+<td width="48" height="64"><A href="http://cse.iitkgp.ac.in/~sourab/" target="_blank"><img width="48" height="64" src="images/09CS7012.JPG" /></A></td>
+<td>
+<b><A href="http://cse.iitkgp.ac.in/~sourab/" target="_blank">Sourya Bhattacharyya</A></b><br />
+<font size="2"><i>Research</i>: Neonatal EEG signal processing
+</font><br />
+<font size="2"><i>Supervisor(s)</i>: <A href="http://www.facweb.iitkgp.ernet.in/~akmj/" target="_blank">Prof. Arun Kumar Majumdar</A></font><br />
+</td>
+</tr> -->
+
+<!--tr>
+
+<td width="48" height="64"><A href="http://cse.iitkgp.ac.in/~ritwika/" target="_blank"><img width="48" height="64" src="images/09CS7013.JPG" /></A></td>
+
+<td>
+
+<b><A href="http://cse.iitkgp.ac.in/~ritwika/" target="_blank">Ritwika Ghose</A></b><br />
+
+<font size="2"><i>Research</i>: Natural Interface Design, Assistive Technology, Human Computer Interaction
+</font><br />
+
+<font size="2"><i>Supervisor(s)</i>: <A href="http://www.facweb.iitkgp.ernet.in/~anupam/" target="_blank">Prof. Anupam Basu</A></font><br />
+
+</td>
+
+</tr-->
+
+<!-- <tr>
+<td width="48" height="64"><A href="http://cse.iitkgp.ac.in/~ssroy/" target="_blank"><img width="48" height="64" src="images/10CS7001.JPG" /></A></td>
+<td>
+<b><A href="http://cse.iitkgp.ac.in/~ssroy/" target="_blank">Sujoy Sinha Roy</A></b><br />
+<font size="2"><i>Research</i>: VLSI Implementation of Elliptic Curve Cryptography
+</font><br />
+<font size="2"><i>Supervisor(s)</i>: <A href="http://cse.iitkgp.ac.in/~debdeep/" target="_blank">Prof. Debdeep Mukhopadhyay</A></font><br />
+</td>
+</tr> -->
+
+<!--tr>
+
+<td width="48" height="64"><A href="http://cse.iitkgp.ac.in/~pdhole/" target="_blank"><img width="48" height="64" src="images/10CS7002.JPG" /></A></td>
+
+<td>
+
+<b><A href="http://cse.iitkgp.ac.in/~pdhole/" target="_blank">Prosenjit Dhole</A></b><br />
+
+<font size="2"><i>Research</i>: Delay Tolerant Networks
+</font><br />
+
+<font size="2"><i>Supervisor(s)</i>: <A href="http://www.facweb.iitkgp.ernet.in/~agupta/" target="_blank">Prof. Arobinda Gupta</A></font><br />
+
+</td>
+
+</tr-->
+
+<!-- <tr>
+<td width="48" height="64"><A href="http://cse.iitkgp.ac.in/~animeshs/" target="_blank"><img width="48" height="64" src="images/10CS7003.JPG" /></A></td>
+<td>
+<b><A href="http://cse.iitkgp.ac.in/~animeshs/" target="_blank">Animesh Srivastava</A></b><br />
+<font size="2"><i>Research</i>: Complex Networks, Real-World Networks, Statistical Mechanics
+</font><br />
+<font size="2"><i>Supervisor(s)</i>: <A href="http://www.facweb.iitkgp.ernet.in/~niloy/" target="_blank">Prof. Niloy Ganguly</A></font><br />
+</td>
+</tr> -->
+
+<!--tr>
+
+<td width="48" height="64"><A href="http://cse.iitkgp.ac.in/~debmalya/" target="_blank"><img width="48" height="64" src="images/10CS7004.JPG" /></A></td>
+
+<td>
+
+<b><A href="http://cse.iitkgp.ac.in/~debmalya/" target="_blank">Debmalya Sinha</A></b><br />
+
+<font size="2"><i>Research</i>: Human Computer Interaction, Cognitive Science
+</font><br />
+
+<font size="2"><i>Supervisor(s)</i>: <A href="http://www.facweb.iitkgp.ernet.in/~anupam/" target="_blank">Prof. Anupam Basu</A></font><br />
+
+</td>
+
+</tr-->
+
+<!--tr>
+
+<td width="48" height="64"><A href="http://cse.iitkgp.ac.in/~cmisra/" target="_blank"><img width="48" height="64" src="images/10CS7005.JPG" /></A></td>
+
+<td>
+
+<b><A href="http://cse.iitkgp.ac.in/~cmisra/" target="_blank">Chandan Misra</A></b><br />
+
+<font size="2"><i>Research</i>: Music Computing
+</font><br />
+
+<font size="2"><i>Supervisor(s)</i>: <A href="http://www.facweb.iitkgp.ernet.in/~anupam/" target="_blank">Prof. Anupam Basu</A></font><br />
+
+</td>
+
+</tr-->
+
+<!--tr>
+
+<td width="48" height="64"><A href="http://cse.iitkgp.ac.in/~bsaha/" target="_blank"><img src="images/DEFAULT.JPG" /></A></td>
+
+<td>
+
+<b><A href="http://cse.iitkgp.ac.in/~bsaha/" target="_blank">Biswanath Saha</A></b><br />
+
+<font size="2"><i>Research</i>: </font><br />
+
+<font size="2"><i>Supervisor(s)</i>: <A href="http://www.facweb.iitkgp.ernet.in/~akmj/" target="_blank">Prof. Arun Kumar Majumdar</A>, <A href="http://www.facweb.iitkgp.ernet.in/~jay/" target="_blank">Prof. Jayanta Mukhopadhyay</A></font><br />
+
+</td>
+
+</tr-->
+
+<!--tr>
+
+<td width="48" height="64"><A href="http://cse.iitkgp.ac.in/~binanda/" target="_blank"><img width="48" height="64" src="images/10CS70P01.JPG" /></A></td>
+
+<td>
+
+<b><A href="http://cse.iitkgp.ac.in/~binanda/" target="_blank">Binanda Sengupta</A></b><br />
+
+<font size="2"><i>Research</i>: Cryptography
+</font><br />
+
+<font size="2"><i>Supervisor(s)</i>: <A href="http://www.facweb.iitkgp.ernet.in/~adas/" target="_blank">Prof. Abhijit Das</A></font><br />
+
+</td>
+
+</tr-->
+
+<!--tr>
+
+<td width="48" height="64"><A href="http://cse.iitkgp.ac.in/~ramji/" target="_blank"><img width="48" height="64" src="images/10CS70P02.JPG" /></A></td>
+
+<td>
+
+<b><A href="http://cse.iitkgp.ac.in/~ramji/" target="_blank">Ramji Nagariya</A></b><br />
+
+<font size="2"><i>Research</i>: Complex Networks
+</font><br />
+
+<font size="2"><i>Supervisor(s)</i>: <A href="http://www.facweb.iitkgp.ernet.in/~niloy/" target="_blank">Prof. Niloy Ganguly</A></font><br />
+
+</td>
+
+</tr-->
+
+<!--tr>
+
+<td width="48" height="64"><A href="http://cse.iitkgp.ac.in/~parthade/" target="_blank"><img width="48" height="64" src="images/10CS70P03.JPG" /></A></td>
+
+<td>
+
+<b><A href="http://cse.iitkgp.ac.in/~parthade/" target="_blank">Partha De</A></b><br />
+
+<font size="2"><i>Research</i>: Low power secure VLSI Design, High-level synthesis
+</font><br />
+
+<font size="2"><i>Supervisor(s)</i>: <A href="http://sit.iitkgp.ernet.in/~chitta/" target="_blank">Prof. Chittaranjan Mandal</A></font><br />
+
+</td>
+
+</tr-->
+
+<!--tr>
+
+<td width="48" height="64"><A href="http://cse.iitkgp.ac.in/~rajmukh/" target="_blank"><img width="48" height="64" src="images/10CS70P04.JPG" /></A></td>
+
+<td>
+
+<b><A href="http://cse.iitkgp.ac.in/~rajmukh/" target="_blank">Rajdeep Mukherjee</A></b><br />
+
+<font size="2"><i>Research</i>: Formal Verification , Low-Power Circuits and Systems, Low-Power Aware High-Level Synthesis</font><br />
+
+<font size="2"><i>Supervisor(s)</i>: <A href="http://www.facweb.iitkgp.ernet.in/~pallab/" target="_blank">Prof. Pallab Dasgupta</A>, <A href="http://www.facweb.iitkgp.ernet.in/~apal/" target="_blank">Prof. Ajit Pal</A></font><br />
+
+</td>
+
+</tr-->
+
+<!--tr>
+<td width="48" height="64"><A href="http://cse.iitkgp.ac.in/~tamalsen/" target="_blank"><img width="48" height="64" src="images/DEFAULT.JPG" /></A></td>
+<td>
+<b><A href="http://cse.iitkgp.ac.in/~tamalsen/" target="_blank">Tamal Sen</A></b><br />
+<font size="2"><i>Research</i>: </font><br />
+<font size="2"><i>Supervisor(s)</i>: <A href="http://www.facweb.iitkgp.ernet.in/~rajib/" target="_blank">Prof. Rajib Mall</A></font><br />
+</td>
+</tr-->
+
+<!--tr>
+<td width="48" height="64"><A href="http://cse.iitkgp.ac.in/~indrasish/" target="_blank"><img width="48" height="64" src="images/11CS71P01.JPG" /></A></td>
+<td>
+<b><A href="http://cse.iitkgp.ac.in/~indrasish/" target="_blank">Indrasish Saha</A></b><br />
+<font size="2"><i>Research</i>: Hardware Security</font><br />
+<font size="2"><i>Supervisor(s)</i>: <A href="https://sites.google.com/site/rschakraborty/" target="_blank">Prof. Rajat Subhra Chakraborty</A>, <A href="http://cse.iitkgp.ac.in/~debdeep/" target="_blank">Prof. Debdeep Mukhopadhyay</A></font><br />
+</td>
+</tr-->
+
+<!--tr>
+<td width="48" height="64"><A href="http://cse.iitkgp.ac.in/~skmaity/" target="_blank"><img width="48" height="64" src="images/DEFAULT.JPG" /></A></td>
+<td>
+<b><A href="http://cse.iitkgp.ac.in/~skmaity/" target="_blank">Suman Kalyan Maity</A></b><br />
+<font size="2"><i>Research</i>: Complex Systems, Language Dynamics</font><br />
+<font size="2"><i>Supervisor(s)</i>: <A href="http://cse.iitkgp.ac.in/~animeshm/" target="_blank">Prof. Animesh Mukherjee</A></font><br />
+</td>
+</tr-->
+
+<!--tr>
+<td width="48" height="64"><A href="http://cse.iitkgp.ac.in/~suvadeeph/" target="_blank"><img width="48" height="64" src="images/11CS71P03.JPG" /></A></td>
+<td>
+<b><A href="http://cse.iitkgp.ac.in/~suvadeeph/" target="_blank">Suvadeep Hajra</A></b><br />
+<font size="2"><i>Research</i>: Cryptography</font><br />
+<font size="2"><i>Supervisor(s)</i>: <A href="http://cse.iitkgp.ac.in/~debdeep/" target="_blank">Prof. Debdeep Mukhopadhyay</A></font><br />
+</td>
+</tr-->
+
+<!--tr>
+<td width="48" height="64"><A href="http://cse.iitkgp.ac.in/~arnabd/" target="_blank"><img width="48" height="64" src="images/11CS72P01.JPG" /></A></td>
+<td>
+<b><A href="http://cse.iitkgp.ac.in/~arnabd/" target="_blank">Arnab Dhar</A></b><br />
+<font size="2"><i>Research</i>: Natural Language Processing</font><br />
+<font size="2"><i>Supervisor(s)</i>: <A href="http://www.facweb.iitkgp.ernet.in/~sudeshna/" target="_blank">Prof. Sudeshna Sarkar</A></font><br />
+</td>
+</tr-->
+
+<!--tr>
+<td width="48" height="64"><A href="http://cse.iitkgp.ac.in/~dbr/" target="_blank"><img width="48" height="64" src="images/DEFAULT.JPG" /></A></td>
+<td>
+<b><A href="http://cse.iitkgp.ac.in/~dbr/" target="_blank">Debapriya Basu Roy</A></b><br />
+<font size="2"><i>Research</i>: Cryptography</font><br />
+<font size="2"><i>Supervisor(s)</i>: <A href="http://cse.iitkgp.ac.in/~debdeep/" target="_blank">Prof. Debdeep Mukhopadhyay</A></font><br />
+</td>
+</tr-->
+
+<!--tr>
+<td width="48" height="64"><A href="http://cse.iitkgp.ac.in/~skolay/" target="_blank"><img width="48" height="64" src="images/11CS72P03.JPG" /></A></td>
+<td>
+<b><A href="http://cse.iitkgp.ac.in/~skolay/" target="_blank">Souvik Kolay</A></b><br />
+<font size="2"><i>Research</i>: Lightweight Cryptography</font><br />
+<font size="2"><i>Supervisor(s)</i>: <A href="http://cse.iitkgp.ac.in/~debdeep/" target="_blank">Prof. Debdeep Mukhopadhyay</A></font><br />
+</td>
+</tr-->
+
+<!--tr>
+<td width="48" height="64"><A href="http://cse.iitkgp.ac.in/~pkchanda/" target="_blank"><img width="48" height="64" src="images/DEFAULT.JPG" /></A></td>
+<td>
+<b><A href="http://cse.iitkgp.ac.in/~pkchanda/" target="_blank">Parnab Kumar Chanda</A></b><br />
+<font size="2"><i>Research</i>: </font><br />
+<font size="2"><i>Supervisor(s)</i>: <A href="http://www.facweb.iitkgp.ernet.in/~sudeshna/" target="_blank">Prof. Sudeshna Sarkar</A></font><br />
+</td>
+</tr-->
+
+<!--tr>
+<td width="48" height="64"><A href="http://cse.iitkgp.ac.in/~ayanpc/" target="_blank"><img width="48" height="64" src="images/11CS72P05.JPG" /></A></td>
+<td>
+<b><A href="http://cse.iitkgp.ac.in/~ayanpc/" target="_blank">Ayan Palchaudhuri</A></b><br />
+<font size="2"><i>Research</i>: FPGA based Hardware Design for Real-time Reversible Watermarking of Digital Images</font><br />
+<font size="2"><i>Supervisor(s)</i>: <A href="https://sites.google.com/site/rschakraborty/" target="_blank">Prof. Rajat Subhra Chakraborty</A></font><br />
+</td>
+</tr-->
+
+<tr>
+<td width="48" height="64"><A href="http://cse.iitkgp.ac.in/~shamitg/" target="_blank"><img width="48" height="64" src="images/DEFAULT.JPG" /></A></td>
+<td>
+<b><A href="http://cse.iitkgp.ac.in/~shamitg/" target="_blank">Shamit Ghosh</A></b><br />
+<font size="2"><i>Research</i>: Cryptography, Hardware Security</font><br />
+<font size="2"><i>Supervisor(s)</i>: <A href="http://www.facweb.iitkgp.ernet.in/~drc/" target="_blank">Prof. Dipanwita Roy Chowdhury</A></font><br />
+</td>
+</tr>
+
+<tr>
+<td width="48" height="64"><A href="http://cse.iitkgp.ac.in/~abhrajit/" target="_blank"><img width="48" height="64" src="images/DEFAULT.JPG" /></A></td>
+<td>
+<b><A href="http://cse.iitkgp.ac.in/~abhrajit/" target="_blank">Abhrajit Sengupta</A></b><br />
+<font size="2"><i>Research</i>: Cryptography, Hardware Security </font><br />
+<font size="2"><i>Supervisor(s)</i>: <A href="http://www.facweb.iitkgp.ernet.in/~drc/" target="_blank">Prof. Dipanwita Roy Chowdhury</A></font><br />
+</td>
+</tr>
+
+<!--tr>
+<td width="48" height="64"><A href="http://cse.iitkgp.ac.in/~virinchi/" target="_blank"><img width="48" height="64" src="images/DEFAULT.JPG" /></A></td>
+<td>
+<b><A href="http://cse.iitkgp.ac.in/~virinchi/" target="_blank">Srinivas Virinchi</A></b><br />
+<font size="2"><i>Research</i>: </font><br />
+<font size="2"><i>Supervisor(s)</i>: <A href="http://www.facweb.iitkgp.ernet.in/~pabitra/" target="_blank">Prof. Pabitra Mitra</A></font><br />
+</td>
+</tr-->
+
+<!--tr>
+<td width="48" height="64"><A href="http://cse.iitkgp.ac.in/~swadhinp/" target="_blank"><img width="48" height="64" src="images/12CS71P04.JPG" /></A></td>
+<td>
+<b><A href="http://cse.iitkgp.ac.in/~swadhinp/" target="_blank">Swadhin Pradhan</A></b><br />
+<font size="2"><i>Research</i>: Wireless Networking, Mobile Computing</font><br />
+<font size="2"><i>Supervisor(s)</i>: <A href="http://www.facweb.iitkgp.ernet.in/~niloy/" target="_blank">Prof. Niloy Ganguly</A></font><br />
+</td>
+</tr-->
+
+<tr>
+<td width="48" height="64"><A href="http://cse.iitkgp.ac.in/" target="_blank"><img width="48" height="64" src="images/13CS72P01.JPG" /></A></td>
+<td>
+<b><A href="http://cse.iitkgp.ac.in/~abhishek" target="_blank">Abhishek Chakraborty</A></b><br />
+<font size="2"><i>Research</i>: Cryptography and VLSI </font><br />
+<font size="2"><i>Supervisor(s)</i>: <A href="http://cse.iitkgp.ac.in/~debdeep/" target="_blank">Dr. Debdeep Mukhopadhyay </A></font><br />
+</td>
+</tr>
+
+
+<tr>
+<td width="48" height="64"><A href="http://cse.iitkgp.ac.in/" target="_blank"><img width="48" height="64" src="images/DEFAULT.JPG" /></A></td>
+<td>
+<b><A href="http://cse.iitkgp.ac.in/~debasmita" target="_blank">Debasmita Lohar</A></b><br />
+<font size="2"><i>Research</i>: Embedded System, Formal Methods, Program Analysis, Reliability Analysis</font><br />
+<font size="2"><i>Supervisor(s)</i>: <A href="http://cse.iitkgp.ac.in/~soumya/" target="_blank">Dr. Soumyajit Dey</A></font><br />
+</td>
+</tr>
+
+<tr>
+<td width="48" height="64"><A href="http://cse.iitkgp.ac.in/" target="_blank"><img width="48" height="64" src="images/13CS72P03.JPG" /></A></td>
+<td>
+<b><A href="http://cse.iitkgp.ac.in/" target="_blank">Anirban Ghose</A></b><br />
+<font size="2"><i>Research</i>: High Performance Computer Architecture, Program Analysis, Machine Learning</font><br />
+<font size="2"><i>Supervisor(s)</i>: <A href="http://cse.iitkgp.ac.in/~soumya/" target="_blank">Dr. Soumyajit Dey</A>,
+<A href="http://www.facweb.iitkgp.ernet.in/~pabitra/" target="_blank">Prof. Pabitra Mitra</A>
+</font><br />
+</td>
+</tr>
+
+<tr>
+<td width="48" height="64"><A href="http://cse.iitkgp.ac.in/" target="_blank"><img width="48" height="64" src="images/DEFAULT.JPG" /></A></td>
+<td>
+<b><A href="http://cse.iitkgp.ac.in/" target="_blank">Sayandeep Saha</A></b><br />
+<font size="2"><i>Research</i>: </font><br />
+<font size="2"><i>Supervisor(s)</i>: <A href="http://www.iitkgp.ac.in/fac-profiles/showprofile.php?empcode=STmdT&depts_name=CS" target="_blank">Dr. Rajat Subhra Chakraborty</A>,
+<A href="http://cse.iitkgp.ac.in/~debdeep/" target="_blank">Dr. Debdeep Mukhopadhyay</A>,
+</font><br />
+</td>
+</tr>
+
+<tr>
+<td width="48" height="64"><A href="http://cse.iitkgp.ac.in/" target="_blank"><img width="48" height="64" src="images/DEFAULT.JPG" /></A></td>
+<td>
+<b><A href="http://cse.iitkgp.ac.in/" target="_blank">Shiladitya Ghosh</A></b><br />
+<font size="2"><i>Research</i>: Formal Verification</font><br />
+<font size="2"><i>Supervisor(s)</i>: <A href="http://sit.iitkgp.ernet.in/~chitta/" target="_blank">Prof. Chittaranjan Mandal</A>,
+<A href="http://www.cse.iitkgp.ac.in/~pallab/" target="_blank">Pallab Dasgupta</A>,
+</font><br />
+</td>
+</tr>
+
+<tr>
+<td width="48" height="64"><A href="http://cse.iitkgp.ac.in/" target="_blank"><img width="48" height="64" src="images/14CS71P02.JPG" /></A></td>
+<td>
+<b><A href="http://cse.iitkgp.ac.in/" target="_blank">Poulami Das</A></b><br />
+<font size="2"><i>Research</i>: Elliptic Curve Cryptography, Side channel Attacks</font><br />
+<font size="2"><i>Supervisor(s)</i>: <A href="http://cse.iitkgp.ac.in/~debdeep/" target="_blank">Dr. Debdeep Mukhopadhyay</A></font><br />
+</td>
+</tr>
+
+<tr>
+<td width="48" height="64"><A href="http://cse.iitkgp.ac.in/" target="_blank"><img width="48" height="64" src="images/DEFAULT.JPG" /></A></td>
+<td>
+<b><A href="http://cse.iitkgp.ac.in/" target="_blank">Prabir Mallick</A></b><br />
+<font size="2"><i>Research</i>: Big Data Analytics</font><br />
+<font size="2"><i>Supervisor(s)</i>: <A href="http://www.facweb.iitkgp.ernet.in/~pabitra/" target="_blank">Prof. Pabitra Mitra</A>,
+<A href="http://www.facweb.iitkgp.ernet.in/~sudeshna/" target="_blank">Prof. Sudeshna Sarkar</A>
+</font><br />
+</td>
+</tr>
+
+<tr>
+<td width="48" height="64"><A href="http://cse.iitkgp.ac.in/" target="_blank"><img width="48" height="64" src="images/DEFAULT.JPG" /></A></td>
+<td>
+<b><A href="http://cse.iitkgp.ac.in/" target="_blank">Paheli Bhattacharya</A></b><br />
+<font size="2"><i>Research</i>: Natural Language Processing</font><br />
+<font size="2"><i>Supervisor(s)</i>: <A href="http://cse.iitkgp.ac.in/~pawang/" target="_blank">Dr. Pawan Goyal</A>,
+<A href="http://www.facweb.iitkgp.ernet.in/~sudeshna/" target="_blank">Prof. Sudeshna Sarkar</A>,
+</font><br />
+</td>
+</tr>
+
+<tr>
+<td width="48" height="64"><A href="http://cse.iitkgp.ac.in/" target="_blank"><img width="48" height="64" src="images/DEFAULT.JPG" /></A></td>
+<td>
+<b><A href="http://cse.iitkgp.ac.in/" target="_blank">Sulagna Gope</A></b><br />
+<font size="2"><i>Research</i>: Climate data mining using Machine learning techniques</font><br />
+<font size="2"><i>Supervisor(s)</i>: <A href="http://www.facweb.iitkgp.ernet.in/~sudeshna/" target="_blank">Prof. Sudeshna Sarkar</A>,
+<A href="http://www.facweb.iitkgp.ernet.in/~pabitra/" target="_blank">Prof. Pabitra Mitra</A>
+</font><br />
+</td>
+</tr>
+
+<tr>
+<td width="48" height="64"><A href="http://cse.iitkgp.ac.in/" target="_blank"><img width="48" height="64" src="images/DEFAULT.JPG" /></A></td>
+<td>
+<b><A href="http://cse.iitkgp.ac.in/" target="_blank">Ankan Mullick</A></b><br />
+<font size="2"><i>Research</i>: </font><br />
+<font size="2"><i>Supervisor(s)</i>: <A href="http://cse.iitkgp.ac.in/~pawang/" target="_blank">Dr. Pawan Goyal</A></font><br />
+</td>
+</tr>
+
+
+
+<tr>
+<td width="48" height="64"><A href="http://cse.iitkgp.ac.in/" target="_blank"><img width="48" height="64" src="images/DEFAULT.JPG" /></A></td>
+<td>
+<b><A href="http://cse.iitkgp.ac.in/" target="_blank">Sankarshan Mridha</A></b><br />
+<font size="2"><i>Research</i>: Complex Network and Machine Learning</font><br />
+<font size="2"><i>Supervisor(s)</i>: <A href="http://cse.iitkgp.ac.in/~sourangshu/" target="_blank">Dr. Sourangshu Bhattacharya</A>,
+<A href="http://www.facweb.iitkgp.ernet.in/~niloy/" target="_blank">Prof. Niloy Ganguly</A>,
+</font><br />
+</td>
+</tr>
+
+
+<tr>
+<td width="48" height="64"><A href="http://cse.iitkgp.ac.in/" target="_blank"><img width="48" height="64" src="images/DEFAULT.JPG" /></A></td>
+<td>
+<b><A href="http://cse.iitkgp.ac.in/" target="_blank">K Sai Ram</A></b><br />
+<font size="2"><i>Research</i>: </font><br />
+<font size="2"><i>Supervisor(s)</i>: <A href="http://www.facweb.iitkgp.ernet.in/~jay/" target="_blank">Prof. Jayanta Mukhopadhyay</A>,
+<A href="http://cse.iitkgp.ac.in/~ppd/" target="_blank">Prof. Partha Pratim Das</A>
+</font><br />
+</td>
+</tr>
+
+</table>
+
+</p>
+
+<!-- ============ End Content ============== -->
+
+</td>
+</tr>
+
+<!-- ============ Footer ============== -->
+
+<tr><td colspan="2" class="Footer">
+
+
+
+<div class="FooterWrap">
+
+	<div class="Copyright"><a href="http://cse.iitkgp.ac.in/" target="_blank">Department of Computer Science and Engineering</a>, <a href="http://www.iitkgp.ac.in/" target="_blank">Indian Institute of Technology Kharagpur</a>
+
+	</div>
+
+</div>
+
+</td></tr>
+
+</table>
+
+</body>
+
+</html>

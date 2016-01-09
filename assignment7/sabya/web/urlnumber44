@@ -1,0 +1,33 @@
+<html>
+<head>
+   <title>
+      Department of Computer Science and Engineering
+   </title>
+   <style type="text/css">
+      p {text-align:justify}
+      li {text-align:justify}
+      dd {text-align:justify}
+      a {text-decoration:none}
+      a:hover {text-decoration:underline}
+      table {border:solid thin}
+      td {border:solid thin}
+      th {border:solid thin}
+      #nobd {border:none}
+      html,body {margin:0; padding:0; height:100%; border:none}
+   </style>
+   <frameset rows="55,*" target="_top" frameborder="0">
+         <frame name="head" target="_top" src="head.html" frameborder="0" marginheight="0" marginwidth="0" scrolling="no" noresize>
+         <frameset cols="20%,80%" frameborder="0">
+         <frame name="tocfr" target="dpyfr" src="toc.html" frameborder="0" marginheight="0" marginwidth="0" scrolling="auto" noresize>
+	 <frame name="dpyfr" target="dpyfr" src="start.html" frameborder="0" marginheight="0" marginwidth="0" scrolling="auto" noresize>
+      </frameset>
+   </frameset>
+</head>
+<body>
+<H2 ALIGN="ceneter">
+   Department of Computer Science and Engineering<BR>
+   <A HREF="http://www.iitkgp.ac.in/">Indian Institute of Technology, Kharagpur</A>
+</H2>
+If your browser does not support frames, click <A HREF="index-noframe.html">here</A>.
+</body>
+</html>

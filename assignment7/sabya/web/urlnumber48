@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <!-- Standard Meta -->
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+
+  <!-- Site Properities -->
+  <title>CALDAM 2015 - Call for Papers - CSE IIT Kanpur</title>
+
+  <link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700|Open+Sans:300italic,400,300,700' rel='stylesheet' type='text/css'>
+
+  <link rel="stylesheet" type="text/css" href="css/semantic.min.css">
+  <link rel="stylesheet" type="text/css" href="css/homepage.css">
+  <link rel="stylesheet" type="text/css" href="css/semantic-overrides.css"/>
+
+  <script src="http://cdnjs.cloudflare.com/ajax/libs/jquery/2.0.3/jquery.js"></script>
+  <script src="javascript/semantic.js"></script>
+  <script src="javascript/homepage.js"></script>
+
+</head>
+<body id="home">
+<div class="ui page grid">
+    <div class="column banner-area" >
+        <div class="ui secondary pointing menu">
+	    <a class="item"></a>            
+            <div class="right menu">
+<!--                <div class="ui top right pointing mobile dropdown link item">
+                    Menu
+                    <i class="dropdown icon"></i>
+
+                    <div class="menu">
+						<a class="item" href="index.php">Home</a>
+                        <a class="item" href="committees.php">Committees</a>
+						<a class="item" href="invited_speakers.php">Invited Speakers</a>
+                        <a class="item" href="call_for_papers.php">Call for Papers</a>
+                        <a class="item" href="spl-cfp.php">Special Issue: Call for Papers</a>
+						<a class="item" href="important_dates.php">Important Dates</a>
+                        <a class="item" href="accepted_papers.php">Program</a>
+                        
+                        <a class="item" href="registration.php">Registration</a>
+                        
+                        <a class="item" href="#">Pre-Conference school</a>
+                    </div>
+                </div>
+-->
+                <a style="color:black;" class="item " href="index.php">Home</a>
+                <a style="color:black;" class="item " href="committees.php">Committees</a>
+		<a style="color:black;" class="item " href="invited_speakers.php">Invited Speakers</a>
+                <a style="color:black;" class="item active" href="call_for_papers.php">Call for Papers</a>
+                <a style="color:black;" class="item " href="spl-cfp.php">Special Issue: Call for Papers</a>
+		<a style="color:black;" class="item " href="important_dates.php">Important dates</a>
+                <a style="color:black;" class="item " href="program.php">Program</a>
+                <a style="color:black;" class="item " href="registration.php">Registration</a>
+                <a style="color:black;" class="item " href="pre_conference_school.php">Pre-Conference School</a>
+				<a style="color:black;" class="item " href="event_gallery.php">Event Gallery</a>
+            </div>
+        </div>
+
+
+        <img src="images/logo-red.gif" class="ui header not-so-small image left-logo"
+             alt="IITK Logo"/>
+        <img src="images/caldam.png"
+             class="ui header not-so-small image right-logo"
+             alt="IITK Logo"/>
+		
+        <h1 class="ui center aligned header">
+            Conference on Algorithms and Discrete Applied Mathematics
+        </h1>
+        <h2 class="ui center aligned sub header">
+            Indian Institute of Technology, Kanpur
+        </h2>
+		
+        <div class="ui center aligned one column grid">
+            <div class="row">
+                <div class="column">
+						
+                        <div class="visible content" style="color:black; font-weight:bold;">February 8-10, 2015</div>
+                        <!-- <div class="hidden content">Registrations Open soon</div>-->
+						<img src="images/download.jpg" class="ui header mid-sized image right-bottom-logo"
+             alt="LNCS"/>
+                    
+                </div>
+            </div>
+
+        </div>
+		
+    </div>
+	
+</div>
+  <div class="ui page grid overview segment" style="color:black;">
+    <div class="ui two wide column"></div>
+    <div class="twelve wide column">
+	
+	 <p align="justify">CALDAM 2015 invites papers describing original research in the areas of design, analysis and experimental evaluation of algorithms and in discrete applied mathematics. Papers must be typeset using LaTeX/LaTeX2e and may not exceed 12 pages in LNCS style, including bibliographic references. Further details may be included in a clearly marked appendix that will be read at the discretion of the program committee. Only electronic submission is allowed. Submitted papers must describe previously unpublished work and may not be submitted concurrently to another conference with refereed proceedings or to a refereed journal. </p>
+	
+    <p><div class="ui sub header">SCOPE</div>
+	
+  <div class="ui unordered list">
+  <div class="item">The range of topics within the scope of CALDAM 2015 includes (but is not limited to) the following</div>
+  
+  </div>
+  </p>
+
+
+            
+
+            <div class="ui sub header"> Topics Related to Algorithms </div>
+			
+		    <p> Approximation Algorithms | Combinatorial Algorithms | Combinatorial Optimization | Computational Biology | Computational Complexity | Computational Geometry | Data Structures | Experimental Algorithm Methodologies | Graph Algorithms | Graph Drawing | Parallel and Distributed Algorithms | Parameterized Complexity | Network Optimization | Online Algorithms | Randomized Algorithms </p>
+            
+            
+
+            <div class="ui sub header"> Topics Related to Discrete Applied Mathematics </div>
+				
+				<p>Algebraic Combinatorics | Design Theory | Enumeration | Extremal Combinatorics | Graph Theory | Topological and Analytical Techniques in Combinatorics | Probabilistic Combinatorics | Combinatorial Number Theory | Discrete Geometry | Ramsey Theory</p>
+				
+				
+				
+			<div class="ui sub header"> PROCEEDINGS</div>
+				
+				<p>The proceedings of accepted papers will be published in Lecture Notes in Computer Science by Springer: LNCS. Special issues on CALDAM 2015 are likely to be published in reputed international journals.</p>
+				
+			<div class="ui sub header"> IMPORTANT DATES</div>
+
+			<p>Paper Submission: Authors should submit the first version by September <strike>18 </strike> 20, 2014, AOE. </p>
+			<p>Submission of the first version closes on September 21 23:59:59 (Indian Standard Time).</p>
+			<p>Final Version Submission: September 25, 2014, AOE. </p>
+			<p>Notification of Acceptance: November 4, 2014</p>
+			<p>Camera-ready Version: November 21, 2014,</p>
+			<p>Conference: February 8-10, 2015</p>
+			
+			
+			<div class="ui sub header"> SUBMISSION</div>
+			<p>Submissions may be made using the server at <a href="https://www.easychair.org/conferences/?conf=caldam2015" >https://www.easychair.org/conferences/?conf=caldam2015 </a></p>
+
+
+				
+		</div>
+    </div>
+
+
+  <div class="ui page grid stackable segment">
+    <div class="row">
+        <div class="column">
+            <h1 class="center aligned ui header">
+                Sponsors 
+            </h1>
+
+            <div class="ui divider"></div>
+	    <div class="center aligned ui header">
+		<img src="/images/google_logo_shaded.jpg" width="380" height="158" ></img>
+	    </div>
+            <div class="ui divider"></div>
+        </div>
+    </div>
+</div>
+<div class="ui page grid segment">
+    <div class="ten wide column">
+        <div class="ui three column stackable grid">
+            <div class="column">
+                <div class="ui header">Important Links</div>
+                <div class="ui link list">
+                    <a class="item" href="registration.php">Registration</a>
+                    <!--<a class="item">Schedule</a>-->
+                    <!--<a class="item">Professors</a>-->
+                </div>
+            </div>
+            <div class="column">
+                <div class="ui header">Program</div>
+                <div class="ui link list">
+                    <a class="item" href="call_for_papers.php">Call for Papers</a>
+                    <a class="item" href="program.php">Program Schedule</a>
+                    <a class="item" href="invited_speakers.php">Invited Speakers</a>
+                </div>
+            </div>
+            <div class="column">
+                <div class="ui header">Local Information</div>
+                <div class="ui link list">
+                    <a class="item" href="http://cse.iitk.ac.in/links/howtoreach.html" target="_blank">How to Reach</a>
+                    <a class="item" href="http://caldam.cse.iitk.ac.in/register/content/travel-accommodation-details">Accomodation</a>
+                    <a class="item" href="http://caldam.cse.iitk.ac.in/register/content/travel-accommodation-details">Travel details</a>
+					<a class="item" href="http://caldam.cse.iitk.ac.in/clearance.pdf">Clearance from Ministry of Home Affairs</a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="six wide right floated aligned column">
+        <h3 class="ui header">Contact Us</h3>
+        <addr>
+            Venue: Outreach Auditorium,<br>
+            IIT Kanpur, Kanpur<br>
+        </addr>
+        <p>+91 (512) 259-7638</p>
+</div>
+    </div></body>
+
+</html>

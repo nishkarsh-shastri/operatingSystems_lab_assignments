@@ -1,0 +1,100 @@
+<html>
+
+<head>
+
+<title>Contact</title>
+
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+
+<link rel="stylesheet" type="text/css" href="main.css" />
+
+</head>
+
+<body>
+
+<table class="Global" cellpadding="0" cellspacing="0" border="0">
+
+<tr><td height="10" colspan="2"></td></tr>
+
+<tr><td height="150" colspan="2">
+
+<table class="Header_Image" cellspacing="0" border="0"><tr>
+
+<td width="100%" align="left">&nbsp;</td>
+
+</tr></table>
+
+</td></tr>
+
+<tr>
+
+<td class="MenuColTD" align="center">
+
+<div class="Menu">
+
+<a href="index.html">Home</a>
+
+<a href="phd.html">PhD Students</a>
+
+<a href="ms.html">MS Students</a>
+
+<a href="rsday.html">RS Day</a>
+
+<a href="news.html">News</a>
+
+<a href="alumni.html">Alumni</a>
+
+<font>Contact</font><br>
+
+<a href="http://cse.iitkgp.ac.in/index.php?secret=bmJJTkZuOHlYN0NPVG00YXFWbHFZQT09/" target="_blank">Research Info</a>
+
+<a href="http://cse.iitkgp.ac.in/" target="_blank">CSE Dept</a>
+
+<a href="http://iitkgp.ac.in/" target="_blank">IIT Kharagpur</a>
+
+</div>
+
+</td>
+
+<td class="Content">
+
+<p>
+
+Faculty advisor:
+
+<p><a href="http://cse.iitkgp.ac.in/~abhij/" target="_blank">Prof. Abhijit Das</a>
+
+<p>&nbsp;
+<p>&nbsp;
+<p>
+
+Website administrators:
+<p>
+
+<a href="http://cse.iitkgp.ac.in/~abhrajit/" target="_blank">Abhrajit Sengupta</a> <br />
+
+<a href="http://cse.iitkgp.ac.in/~rajraha" target="_blank">Rajorshee Raha</a> <br />
+
+</p>
+
+</td>
+
+</tr>
+
+<tr><td colspan="2" class="Footer">
+
+<div class="FooterWrap">
+
+	<div class="Copyright"><a href="http://cse.iitkgp.ac.in/" target="_blank">Department of Computer Science and Engineering</a>, <a href="http://www.iitkgp.ac.in/" target="_blank">Indian Institute of Technology Kharagpur</a>
+
+	</div>
+
+</div>
+
+</td></tr>
+
+</table>
+
+</body>
+
+</html>

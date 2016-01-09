@@ -1,0 +1,140 @@
+<!doctype html>
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!-- Consider adding a manifest.appcache: h5bp.com/d/Offline -->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+
+  <!-- Use the .htaccess and remove these lines to avoid edge case issues.
+       More info: h5bp.com/i/378 -->
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+  <title></title>
+  <meta name="description" content="">
+
+  <!-- Mobile viewport optimized: h5bp.com/viewport -->
+  <meta name="viewport" content="width=960, user-scalable=no">
+
+  <!-- Place favicon.ico and apple-touch-icon.png in the root directory: mathiasbynens.be/notes/touch-icons -->
+
+  <link rel="stylesheet" href='css/58d3f2d.css'>
+  
+  <link rel="stylesheet" type="text/css" href="js/libs/fancybox-2.0.5/jquery.fancybox.css" media="screen" />
+
+  <!-- More ideas for your <head> here: h5bp.com/d/head-Tips -->
+
+  <!-- All JavaScript at the bottom, except this Modernizr build.
+       Modernizr enables HTML5 elements & feature detects for optimal performance.
+       Create your own custom Modernizr build: www.modernizr.com/download/ -->
+  <script src="js/libs/modernizr-2.5.3.min.js"></script>
+  
+  <!-- jwplayer seems to behave better when loaded early -->
+  <script type="text/javascript" src="js/libs/jwplayer-5.9/jwplayer.js"></script>
+
+  <!-- Asynchronous Google Analytics snippet, part one. Change UA-XXXXX-X to be your site's ID.
+       mathiasbynens.be/notes/async-analytics-snippet -->
+  <script>
+  	// NOTE: AppRouter logs all routes as pageviews, so no need to include _trackPageview here
+    var _gaq=[['_setAccount','UA-35839448-1']];
+  </script>
+</head>
+<body class="noselect">
+  <!-- Prompt IE 6 users to install Chrome Frame. Remove this if you support IE 6.
+       chromium.org/developers/how-tos/chrome-frame-getting-started -->
+  <!--[if lt IE 7]><p class=chromeframe>Your browser is <em>ancient!</em> <a href="http://browsehappy.com/">Upgrade to a different browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">install Google Chrome Frame</a> to experience this site.</p><![endif]-->
+  <header class="shadow">
+	<div id="headerTitle">&nbsp;</div>
+  </header>
+  
+  <div role="main" id="main">
+  	<div id="mmShowBtn" class="mmHeaderGrad"><img src="img/mm-tab-icon-dark.png"/></div>
+  </div>
+  
+  <footer class="shadow">
+		
+  </footer>
+  
+  <!-- Templates -->
+  
+  <script type="text/template" id="mainmenuTemplate">
+	<div id="mainmenu" class="shadow">
+  		<div id="mmHeader" class="mmHeaderGrad">
+			<div class="mmLabel">
+    			Select a Video
+    		</div>
+			<div id="mmHideBtn"><img src="img/mm-tab-icon-light.png"/></div>
+    	</div>
+		<div id="mmBody"></div>
+	</div>
+  </script>
+  
+  <script type="text/template" id="mmItemTemplate">
+	<div class="mmItem">
+    	<div class="mmLabel"><%= title %></div>
+		<% if (isVideo) { %>
+			<div class="mmVideoDuration"><%= duration %></div>
+		<% } %>
+    	<div class="mmItemTopShadow">&nbsp;</div>
+    	<div class="mmItemBottomShadow">&nbsp;</div>
+    </div>
+  </script>
+  
+  <script type="text/template" id="videoFrameTemplate">
+	<div id="videoFrame">
+		<div id="videoHeader"></div>
+		<div id="jwplayer"></div>
+		<div id="videoOptions">
+			<div id="transcriptBtn" class="videoOptionsBtn"></div>
+			<div id="videoNavigator">
+				<div id="vnPrevBtn" class="videoOptionsBtn"></div>
+				<div id="vnVideoNumber">&nbsp;</div>
+				<div id="vnNextBtn" class="videoOptionsBtn"></div>
+			</div>
+		</div>
+		<div id="transcriptField"></div>
+		<div id="videoFrameMask">&nbsp;</div>
+	</div>
+  </script>
+
+  <script type="text/template" id="creditsTemplate">
+	<div class="creditsDiv">
+		<h3>Credits</h3>
+		<%= credits %>
+	</div>
+  </script>
+
+
+  <!-- JavaScript at the bottom for fast page loading -->
+
+  <!-- Grab Google CDN's jQuery, with a protocol relative URL; fall back to local if offline -->
+  <!-- <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+  <script>window.jQuery || document.write('<script src="js/libs/jquery-1.7.2.min.js"><\/script>')</script> -->
+  <script src="js/libs/jquery-1.7.2.min.js"></script>
+  
+  <!-- ID of the default data file to load -->
+  <script>window.defaultCourseId = "generic"</script>
+
+  <script src='js/8d0993c.js'></script>
+
+  <!-- Asynchronous Google Analytics snippet, part deux.
+       mathiasbynens.be/notes/async-analytics-snippet -->
+  <script>
+    (function(d,t){
+		// avoid conflicts with other GA trackers in the same domain
+		var cookiePath = location.pathname.slice(0, location.pathname.lastIndexOf("/") + 1);
+		window._gaq.push(['_setCookiePath', cookiePath]);
+    	// disable GA outside of valid domains
+    	var hostname = location.hostname;
+    	if (/\.(vitalbook|vpg)\.com$/.test(hostname)) {
+	    	var g=d.createElement(t),
+	    		s=d.getElementsByTagName(t)[0];
+	    	g.src=('https:'==location.protocol?'//ssl':'//www')+'.google-analytics.com/ga.js';
+	    	s.parentNode.insertBefore(g,s);
+    	}
+    }(document,'script'));
+  </script>
+</body>
+</html>

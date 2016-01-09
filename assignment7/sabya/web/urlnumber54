@@ -1,0 +1,1230 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <!-- Standard Meta -->
+    <meta charset="utf-8"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+
+    <!-- Site Properities -->
+    <title>CALDAM 2015 - Program Schedule - CSE IIT Kanpur</title>
+
+    <link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700|Open+Sans:300italic,400,300,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" type="text/css" href="css/semantic.min.css">
+    <link rel="stylesheet" type="text/css" href="css/homepage.css">
+    <link rel="stylesheet" type="text/css" href="css/semantic-overrides.css">
+    <script src="http://cdnjs.cloudflare.com/ajax/libs/jquery/2.0.3/jquery.js"></script>
+    <script src="javascript/semantic.min.js"></script>
+    <script src="javascript/jquery.address.js"></script>
+	<link rel="stylesheet" href="css/photoswipe.css">
+</head>
+<body id="home">
+<div class="ui page grid">
+    <div class="column banner-area" >
+        <div class="ui secondary pointing menu">
+	    <a class="item"></a>            
+            <div class="right menu">
+<!--                <div class="ui top right pointing mobile dropdown link item">
+                    Menu
+                    <i class="dropdown icon"></i>
+
+                    <div class="menu">
+						<a class="item" href="index.php">Home</a>
+                        <a class="item" href="committees.php">Committees</a>
+						<a class="item" href="invited_speakers.php">Invited Speakers</a>
+                        <a class="item" href="call_for_papers.php">Call for Papers</a>
+                        <a class="item" href="spl-cfp.php">Special Issue: Call for Papers</a>
+						<a class="item" href="important_dates.php">Important Dates</a>
+                        <a class="item" href="accepted_papers.php">Program</a>
+                        
+                        <a class="item" href="registration.php">Registration</a>
+                        
+                        <a class="item" href="#">Pre-Conference school</a>
+                    </div>
+                </div>
+-->
+                <a style="color:black;" class="item " href="index.php">Home</a>
+                <a style="color:black;" class="item " href="committees.php">Committees</a>
+		<a style="color:black;" class="item " href="invited_speakers.php">Invited Speakers</a>
+                <a style="color:black;" class="item " href="call_for_papers.php">Call for Papers</a>
+                <a style="color:black;" class="item " href="spl-cfp.php">Special Issue: Call for Papers</a>
+		<a style="color:black;" class="item " href="important_dates.php">Important dates</a>
+                <a style="color:black;" class="item " href="program.php">Program</a>
+                <a style="color:black;" class="item " href="registration.php">Registration</a>
+                <a style="color:black;" class="item " href="pre_conference_school.php">Pre-Conference School</a>
+				<a style="color:black;" class="item active" href="event_gallery.php">Event Gallery</a>
+            </div>
+        </div>
+
+
+        <img src="images/logo-red.gif" class="ui header not-so-small image left-logo"
+             alt="IITK Logo"/>
+        <img src="images/caldam.png"
+             class="ui header not-so-small image right-logo"
+             alt="IITK Logo"/>
+		
+        <h1 class="ui center aligned header">
+            Conference on Algorithms and Discrete Applied Mathematics
+        </h1>
+        <h2 class="ui center aligned sub header">
+            Indian Institute of Technology, Kanpur
+        </h2>
+		
+        <div class="ui center aligned one column grid">
+            <div class="row">
+                <div class="column">
+						
+                        <div class="visible content" style="color:black; font-weight:bold;">February 8-10, 2015</div>
+                        <!-- <div class="hidden content">Registrations Open soon</div>-->
+						<img src="images/download.jpg" class="ui header mid-sized image right-bottom-logo"
+             alt="LNCS"/>
+                    
+                </div>
+            </div>
+
+        </div>
+		
+    </div>
+	
+</div>
+ 
+<div class="ui page grid segment" style="color:black;">
+<div class="sixteen wide column program schedule">
+<div class="ui pointing secondary menu" style="text-align: center;width:1024px;">
+  <a class="active item" data-tab="Presentations">Presentations</a>
+  <a class="item" data-tab="Gallery">Photo Gallery</a>
+  <a class="item" data-tab="Download">Download Event Photograph's</a>
+  
+</div>
+<div class="ui active tab segment day0" data-tab="Presentations">
+<table class="ui celled striped table">
+<thead>
+    <tr>
+      <th nowrap>
+        Time
+      </th>
+      <th>
+        Topic
+      </th>
+	  <th>
+        Slides
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <strong>Session I</strong>   
+      </td>
+      <td>
+        <strong>Invited Talk-I </strong><em>Chair: Sumit Ganguly</em>
+      </td>
+	  <td>
+        
+      </td>
+    </tr>
+    <tr>
+      <td nowrap>
+        9.30 hr. - 10.45 hr.
+      </td>
+      <td>
+        <em><strong>C. R. Subramanian</strong></em>, IMSc. Chennai.<br />
+	<em>Probabilistic Arguments in Graph Coloring</em>
+      </td>
+	  <td>
+		<a href="download.php?file=presentations/day1/session1/caldam15talk-CRS.pdf">Download</a>
+	  </td>
+    </tr>
+    <tr>
+      <td>
+        <strong>Session II</strong>   
+      </td>
+      <td>
+        <strong>Computational Geometry </strong><em>Chair: Partha P. Goswami</em>
+      </td>
+	  <td>
+	  </td>
+    </tr>
+    <tr>
+      <td nowrap>
+        11.15 hr. - 11.40 hr.
+      </td>
+      <td>
+        <em><strong>Md. Shafiul Alam and Asish Mukhopadhyay</strong></em><br />
+	<em>Three paths to point placement</em>
+      </td>
+	  <td>
+		<a href="download.php?file=presentations/day1/session2/1-3PathAlgo.pptx">Download</a>
+	  </td>
+    </tr>
+    <tr>
+      <td nowrap>
+        11.40 hr. - 12.05 hr.
+      </td>
+      <td>
+        <em><strong>Pritam Bhattacharya, Subir Kumar Ghosh and Bodhayan Roy</strong></em><br />
+	<em>Vertex Guarding in Weak Visibility Polygons</em>
+      </td>
+	  <td>
+		<a href="download.php?file=presentations/day1/session2/2-CALDAM_2015.pdf">Download</a>
+	  </td>
+    </tr>
+    <tr>
+      <td nowrap>
+        12.05 hr. - 12.30 hr.
+      </td>
+      <td>
+        <em><strong>Adrian Dumitrescu, Anirban Ghosh and Masud Hasan</strong></em><br />
+	<em>On Collections of Polygons Cuttable with a Segment Saw</em>
+      </td>
+	  <td>
+		<a href="download.php?file=presentations/day1/session2/3-SawPresentation_1.pdf">Download</a>
+	  </td>
+    </tr>
+    <tr>
+      <td nowrap>
+        12.30 hr. - 12.55 hr.
+      </td>
+      <td>
+        <em><strong>Binay Bhattacharya, Minati De, Anil Maheshwari, Subhas Nandy and Sasanka Roy</strong></em><br />
+	<em>Rectilinear path problems in the presences of rectangular obstacles</em>
+      </td>
+	  <td>
+		<a href="download.php?file=presentations/day1/session2/4-rectilinear-path-presentation.pdf">Download</a>
+	  </td>
+    </tr>
+    <tr>
+      <td>
+        <strong>Session III</strong>   
+      </td>
+      <td>
+        <strong>Graph Theory I </strong><em>Chair: Manoj Changat</em>
+      </td>
+	  <td>
+	  </td>
+    </tr>
+    <tr>
+      <td nowrap>
+        14.00 hr. - 14.25 hr.
+      </td>
+      <td>
+        <em><strong>Karthick T.</strong></em><br />
+	<em>New Polynomial Case for Efficient Domination in P<sub>6</sub>-free Graphs</em>
+      </td>
+	  <td>
+		<a href="download.php?file=presentations/day1/session3/1-CALDAM-Conf-Talk-Karthick.pdf">Download</a>
+	  </td>
+    </tr>
+    <tr>
+      <td nowrap>
+        14.25 hr. - 14.50 hr.
+      </td>
+      <td>
+        <em><strong>Ahmad Biniaz, Anil Maheshwari and Michiel Smid</strong></em><br />
+	<em>Higher-Order Triangular-Distance Delaunay Graphs. Graph-Theoretical Properties</em>
+      </td>
+	  <td>
+		<a href="download.php?file=presentations/day1/session3/2-Conference-Presentation.pdf">Download</a>
+	  </td>
+    </tr>
+    <tr>
+      <td nowrap>
+        14.50 hr. - 15.15 hr.
+      </td>
+      <td>
+        <em><strong>B S Panda</strong></em><br />
+	<em>Separator Theorems for Interval Graphs and Proper Interval Graphs</em>
+      </td>
+	  <td>
+		<a href="download.php?file=presentations/day1/session3/3-caldaminterval.pdf">Download</a>
+	  </td>
+    </tr>
+    <tr>
+      <td>
+        <strong>Session IV</strong>   
+      </td>
+      <td>
+        <strong>Algorithms and Complexity </strong><em>Chair: N.S. Narayanaswamy</em>
+      </td>
+	  <td>
+		
+	  </td>
+    </tr>
+    <tr>
+      <td nowrap>
+        15.45 hr. - 16.10 hr.
+      </td>
+      <td>
+        <em><strong>Ankit Chauhan and Raghavendra Rao B V.</strong></em><br />
+	<em>Parameterized Analogues of Probabilistic Computation</em>
+      </td>
+	  <td>
+		<a href="download.php?file=presentations/day1/session4/1-Ankit_Chauhan.pdf">Download</a>
+		
+	  </td>
+    </tr>
+    <tr>
+      <td nowrap>
+        16.10 hr. - 16.35 hr.
+      </td>
+      <td>
+        <em><strong>Mark Korenblit</strong></em><br />
+	<em>Algebraic Expressions of Rhomboidal Graphs</em>
+      </td>
+	  <td>
+		<a href="download.php?file=presentations/day1/session4/2-caldam-49.pptx">Download</a>
+		
+	  </td>
+    </tr>
+    <tr>
+      <td nowrap>
+        16.35 hr. - 17.00 hr.
+      </td>
+      <td>
+        <em><strong>Sigve Hortemo Sther</strong></em><br />
+	<em>Solving Hamiltonian Cycle by an EPT Algorithm for a Non-sparse Parameter</em>
+      </td>
+	  <td>
+		<a href="download.php?file=presentations/day1/session4/3-CALDAM 2015 Sigve H Saether.pdf">Download</a>
+		
+	  </td>
+    </tr>
+    <tr>
+      <td>
+        17.00 hr.
+      </td>
+      <td>
+        <strong>Business Meeting </strong><em> Chair: Subir Ghosh</em>
+      </td>
+	  <td>
+		<a href="download.php?file=presentations/day1/session4/CALDAM 2016_Thpm.pptx">Download</a>
+	  </td>
+    </tr>
+    <tr>
+      <td>
+        <strong>Session V</strong>   
+      </td>
+      <td>
+        <strong>Invited Talk-II </strong><em>Chair: Ramesh Krishnamurti</em>
+      </td>
+	  <td>
+	  </td>
+    </tr>
+    <tr>
+      <td nowrap>
+        9.30 hr. - 10.45 hr.
+      </td>
+      <td>
+        <em><strong>Pavol Hell</strong></em><br />
+	<em>Obstruction Characterizations in Graphs and Digraphs</em>
+      </td>
+	  <td>
+		<a href="download.php?file=presentations/day2/session5/ObstructionsCALDAM.pdf">Download</a>
+	  </td>
+    </tr>
+    <tr>
+      <td>
+        <strong>Session VI</strong>   
+      </td>
+      <td>
+        <strong>Graph Theory II </strong><em>Chair: Bhawani S. Panda</em>
+      </td>
+	  <td>
+	  </td>
+    </tr>
+    <tr>
+      <td nowrap>
+        11.15 hr. - 11.40 hr.
+      </td>
+      <td>
+        <em><strong>Francis P and Francis Raj S.</strong></em><br />
+	<em>Bounds for the b-chromatic number of induced subgraphs and G-e</em>
+      </td>
+	  <td>
+		<a href="download.php?file=presentations/day2/session6/1-IITK Francis.pdf">Download</a>
+	  </td>
+    </tr>
+    <tr>
+      <td nowrap>
+        11.40 hr. - 12.05 hr.
+      </td>
+      <td>
+        <em><strong>Ashok Kumar Das and Ritapa Chakraborty</strong></em><br />
+	<em>New Characterizations Of Proper Interval Bigraphs and Proper Circular Arc Bigraphs</em>
+      </td>
+	  <td>
+		<a href="download.php?file=presentations/day2/session6/2-Proper Circular arc.ppt">Download</a>
+	  </td>
+    </tr>
+    <tr>
+      <td nowrap>
+        12.05 hr. - 12.30 hr.
+      </td>
+      <td>
+        <em><strong>Rohan Sharma, Bibhas Adhikari and Abhishek Mishra</strong></em><br />
+	<em>On Spectra of Corona Graphs</em>
+      </td>
+	  <td>
+		<a href="download.php?file=presentations/day2/session6/3-ppt_CALDAM.pdf">Download</a>
+	  </td>
+    </tr>
+    <tr>
+      <td nowrap>
+        12.30 hr. - 12.55 hr.
+      </td>
+      <td>
+        <em><strong>Manoj Changat, Divya Sindhu Lekha, Henry Martyn Mulder and Ajitha R. Subhamathi</strong></em><br />
+	<em>Axiomatic Characterization of the Median and Antimedian Functions on Cocktail-Party
+Graphs and Complete Graphs</em>
+      </td>
+	  <td>
+		<a href="download.php?file=presentations/day2/session6/4-AxiomaticCocktailComplete_Final.pdf">Download</a>
+	  </td>
+    </tr>
+    <tr>
+      <td>
+        <strong>Session VII</strong>   
+      </td>
+      <td>
+        <strong>Algorithms I </strong><em>Chair: Anil Maheshwari</em>
+      </td>
+	  <td>
+	  </td>
+    </tr>
+    <tr>
+      <td>
+        14.00 hr. - 14.25 hr.
+      </td>
+      <td>
+        <em><strong>Olivier Bodini, Antoine Genitrini, Frederic Peschanski and Nicolas Rolin</strong></em><br />
+	<em>Associativity for Binary Parallel Processes. a Quantitative Study</em>
+      </td>
+	  <td>
+		<a href="download.php?file=presentations/day2/session7/1-bogerope.pdf">Download</a>
+	  </td>
+    </tr>
+    <tr>
+      <td>
+        14.25 hr. - 14.50 hr.
+      </td>
+      <td>
+        <em><strong>Paul Manuel, Indra Rajasingh, Sundara Rajan R, Parthiban N and Rajalaxmi T.M.</strong></em><br />
+	<em>A Tight Bound for Congestion of an Embedding</em>
+      </td>
+	  <td>
+		<a href="download.php?file=presentations/day2/session7/2-CALDAM2015-A Tight Bound for Congestion of an Embeddingv2.pptx">Download</a>
+	  </td>
+    </tr>
+    <tr>
+      <td>
+        14.50 hr. - 15.15 hr.
+      </td>
+      <td>
+        <em><strong>S. Mindi Yuan, Wei Shen, Jun Li, Yannis Pavlidis and Shen Li</strong></em><br />
+	<em>Auction/Belief propagation algorithms for constrained assignment problem</em>
+      </td>
+	  <td>
+		<a href="download.php?file=presentations/day2/session7/3-mindiYuan.pptx">Download</a>
+	  </td>
+    </tr>
+	
+    <tr>
+      <td>
+        <strong>Session VIII</strong>   
+      </td>
+      <td>
+        <strong>Approximation and Randomized Algorithms </strong><em>Chair: Sandip Das</em>
+      </td>
+	  <td>
+		
+	  </td>
+    </tr>
+    <tr>
+      <td>
+        15.45 hr. - 16.10 hr.
+      </td>
+      <td>
+        <em><strong>Santiago Ravelo and Carlos Ferreira</strong></em><br />
+	<em>A PTAS for the Metric Case of the Minimum Sum-Requirement Communication Spanning Tree Problem</em>
+      </td>
+	  <td>
+		<a href="download.php?file=presentations/day2/session8/1- apresentacao.pdf">Download</a>
+	  </td>
+    </tr>
+    <tr>
+      <td>
+        16.10 hr. - 16.35 hr.
+      </td>
+      <td>
+        <em><strong>Puspal Bhabak and Hovhannes Harutyunyan</strong></em><br />
+	<em>Constant Approximation for Broadcasting in k-cycle Graph</em>
+      </td>
+	  <td>
+		
+	  </td>
+    </tr>
+    <tr>
+      <td>
+        16.35 hr. - 17.00 hr.
+      </td>
+      <td>
+        <em><strong>Apurba Sarkar, Arindam Biswas, Mousumi Dutt and Arnab Bhattacharya</strong></em><br />
+	<em>Generation of Random Digital Curves using Combinatorial Techniques</em>
+      </td>
+	  <td>
+		<a href="download.php?file=presentations/day2/session8/3-caldam.pdf">Download</a>
+	  </td>
+    </tr>
+    <tr>
+      <td>
+        <strong>Session IX</strong>   
+      </td>
+      <td>
+        <strong>Graph Theory III </strong><em>Chair: Daya Gaur</em>
+      </td>
+	  <td>
+	  </td>
+    </tr>
+    <tr>
+      <td>
+        9.30 hr. - 9.55 hr.
+      </td>
+      <td>
+        <em><strong>N.S. Narayanaswamy and Anju Srinivasan</strong></em><br />
+	<em>Tree Path Labeling of Hypergraphs A Generalization of the Consecutive Ones Property</em>
+      </td>
+	  <td>
+		<a href="download.php?file=presentations/day3/session9/1-cop-pres.pdf">Download</a>
+	  </td>
+    </tr>
+    <tr>
+      <td>
+        9.55 hr. - 10.20 hr.
+      </td>
+      <td>
+        <em><strong>Sujoy Kumar Bhore, Dibyayan Chakraborty, Sandip Das and Sagnik Sen</strong></em><br />
+	<em>On a special class of boxicity 2 graphs</em>
+      </td>
+	  <td>
+		<a href="download.php?file=presentations/day3/session9/2-presentation.pdf">Download</a>
+	  </td>
+    </tr>
+    <tr>
+      <td>
+        10.20 hr. - 10.45 hr.
+      </td>
+      <td>
+        <em><strong>Arti Pandey and B.S. Panda</strong></em><br />
+	<em>Domination in some subclasses of bipartite graphs</em>
+      </td>
+	  <td>
+		<a href="download.php?file=presentations/day3/session9/3-caldam_arti.pdf">Download</a>
+	  </td>
+    </tr>
+    <tr>
+      <td>
+        <strong>Session X</strong>   
+      </td>
+      <td>
+        <strong>Algorithms II </strong><em>Chair: Surender Baswana</em>
+      </td>
+	  <td>
+	  </td>
+    </tr>
+    <tr>
+      <td>
+        11.15 hr. - 11.40 hr.
+      </td>
+      <td>
+        <em><strong>Arun K Pujari, Venkateswara Rao Kagita, Anubhuthi Garg and Vineet Padmanabhan</strong></em><br />
+	<em>Bi-directional Search for Skyline Probability</em>
+      </td>
+	  <td>
+		<a href="download.php?file=presentations/day3/session10/skyline.pptx">Download</a>
+	  </td>
+    </tr>
+    <tr>
+      <td>
+        11.40 hr. - 12.05 hr.
+      </td>
+      <td>
+        <em><strong>Daya Ram Gaur and Rishi Ranjan Singh</strong></em><br />
+	<em>Cumulative vehicle routing problem. a column generation approach</em>
+      </td>
+	  <td>
+		<a href="download.php?file=presentations/day3/session10/2-col.pdf">Download</a>
+	  </td>
+    </tr>
+    <tr>
+      <td>
+        12.05 hr. - 12.30 hr.
+      </td>
+      <td>
+        <em><strong>Barun Gorain and Partha Sarathi Mandal</strong></em><br />
+	<em>Energy Efficient Sweep Coverage with Mobile and Static Sensors</em>
+      </td>
+	  <td>
+		<a href="download.php?file=presentations/day3/session10/3-Energy Efficient Sweep Coverage  with Mobile and Static.pptx">Download</a>
+	  </td>
+    </tr>
+	</tbody>
+</table>
+</div>
+<div class="ui tab segment day1" data-tab="Gallery">
+<table class="ui celled striped table">
+	<thead>
+    <tr>
+      <th>
+       Photo Gallery <em>(Click on any picture and start slide show)</em>
+      </th>
+	  
+    </tr>
+	</thead>
+	<tbody>
+    <tr>
+      <td>
+		<iframe name="FRAMENAME" src="http://caldam.cse.iitk.ac.in/CaldamAdmin/Caldam2015/index.html" width="100%" height="600px" allowautotransparency=true></iframe>
+	  </td>
+    </tr>
+	</tbody>
+</table>  
+</div>
+<div class="ui tab segment day2" data-tab="Download">
+<table class="ui celled striped table">
+	<thead>
+    <tr>
+      <th >
+       Event Photograph's
+      </th>
+	  <th >
+       
+      </th>
+	  <th >
+       
+      </th>
+	  <th >
+       
+      </th>
+    </tr>
+	</thead>
+	<tbody>
+    <tr>
+      <td>
+		  <a href="images/full/DSC00248.JPG"><img src="images/thumb/tn_DSC00248.JPG" width="200" height="150"></img></a>
+		  <br/>
+		  <a href="download.php?file=images/full/DSC00248.JPG">Download Photo</a>	
+	  </td>
+	  <td>
+		  <a href="images/full/DSC00249.JPG"><img src="images/thumb/tn_DSC00249.JPG" width="200" height="150"></img></a>
+		  <br/>
+		  <a href="download.php?file=images/full/DSC00249.JPG">Download Photo</a>	
+	  </td>
+	  <td>
+		  <a href="images/full/DSC00250.JPG"><img src="images/thumb/tn_DSC00250.JPG" width="200" height="150"></img></a>
+		  <br/>
+		  <a href="download.php?file=images/full/DSC00250.JPG">Download Photo</a>	
+	  </td>
+	  <td>
+		  <a href="images/full/DSC00251.JPG"><img src="images/thumb/tn_DSC00251.JPG" width="200" height="150"></img></a>
+		  <br/>
+		  <a href="download.php?file=images/full/DSC00251.JPG">Download Photo</a>	
+	  </td>
+    </tr>
+	<tr>
+      <td>
+		  <a href="images/full/DSC00252.JPG"><img src="images/thumb/tn_DSC00252.JPG" width="200" height="150"></img></a>
+		  <br/>
+		  <a href="download.php?file=images/full/DSC00252.JPG">Download Photo</a>	
+	  </td>
+	  <td>
+		  <a href="images/full/DSC00253.JPG"><img src="images/thumb/tn_DSC00253.JPG" width="200" height="150"></img></a>
+		  <br/>
+		  <a href="download.php?file=images/full/DSC00253.JPG">Download Photo</a>	
+	  </td>
+	  <td>
+		  <a href="images/full/DSC00254.JPG"><img src="images/thumb/tn_DSC00254.JPG" width="200" height="150"></img></a>
+		  <br/>
+		  <a href="download.php?file=images/full/DSC00254.JPG">Download Photo</a>	
+	  </td>
+	  <td>
+		  <a href="images/full/DSC00255.JPG"><img src="images/thumb/tn_DSC00255.JPG" width="200" height="150"></img></a>
+		  <br/>
+		  <a href="download.php?file=images/full/DSC00255.JPG">Download Photo</a>	
+	  </td>
+    </tr>
+	<tr>
+      <td>
+		  <a href="images/full/DSC00256.JPG"><img src="images/thumb/tn_DSC00256.JPG" width="200" height="150"></img></a>
+		  <br/>
+		  <a href="download.php?file=images/full/DSC00256.JPG">Download Photo</a>	
+	  </td>
+	  <td>
+		  <a href="images/full/DSC00257.JPG"><img src="images/thumb/tn_DSC00257.JPG" width="200" height="150"></img></a>
+		  <br/>
+		  <a href="download.php?file=images/full/DSC00257.JPG">Download Photo</a>	
+	  </td>
+	  <td>
+		  <a href="images/full/DSC00258.JPG"><img src="images/thumb/tn_DSC00258.JPG" width="200" height="150"></img></a>
+		  <br/>
+		  <a href="download.php?file=images/full/DSC00258.JPG">Download Photo</a>	
+	  </td>
+	  <td>
+		  <a href="images/full/DSC00259.JPG"><img src="images/thumb/tn_DSC00259.JPG" width="200" height="150"></img></a>
+		  <br/>
+		  <a href="download.php?file=images/full/DSC00259.JPG">Download Photo</a>	
+	  </td>
+    </tr>
+	<tr>
+      <td>
+		  <a href="images/full/DSC00260.JPG"><img src="images/thumb/tn_DSC00260.JPG" width="200" height="150"></img></a>
+		  <br/>
+		  <a href="download.php?file=images/full/DSC00260.JPG">Download Photo</a>	
+	  </td>
+	  <td>
+		  <a href="images/full/DSC00261.JPG"><img src="images/thumb/tn_DSC00261.JPG" width="200" height="150"></img></a>
+		  <br/>
+		  <a href="download.php?file=images/full/DSC00261.JPG">Download Photo</a>	
+	  </td>
+	  <td>
+		  <a href="images/full/DSC00262.JPG"><img src="images/thumb/tn_DSC00262.JPG" width="200" height="150"></img></a>
+		  <br/>
+		  <a href="download.php?file=images/full/DSC00262.JPG">Download Photo</a>	
+	  </td>
+	  <td>
+		  <a href="images/full/DSC00263.JPG"><img src="images/thumb/tn_DSC00263.JPG" width="200" height="150"></img></a>
+		  <br/>
+		  <a href="download.php?file=images/full/DSC00263.JPG">Download Photo</a>	
+	  </td>
+    </tr>
+	<tr>
+      <td>
+		  <a href="images/full/DSC00264.JPG"><img src="images/thumb/tn_DSC00264.JPG" width="200" height="150"></img></a>
+		  <br/>
+		  <a href="download.php?file=images/full/DSC00264.JPG">Download Photo</a>	
+	  </td>
+	  <td>
+		  <a href="images/full/DSC00265.JPG"><img src="images/thumb/tn_DSC00265.JPG" width="200" height="150"></img></a>
+		  <br/>
+		  <a href="download.php?file=images/full/DSC00265.JPG">Download Photo</a>	
+	  </td>
+	  <td>
+		  <a href="images/full/DSC00266.JPG"><img src="images/thumb/tn_DSC00266.JPG" width="200" height="150"></img></a>
+		  <br/>
+		  <a href="download.php?file=images/full/DSC00266.JPG">Download Photo</a>	
+	  </td>
+	  <td>
+		  <a href="images/full/DSC00267.JPG"><img src="images/thumb/tn_DSC00267.JPG" width="200" height="150"></img></a>
+		  <br/>
+		  <a href="download.php?file=images/full/DSC00267.JPG">Download Photo</a>	
+	  </td>
+    </tr>
+	<tr>
+      <td>
+		  <a href="images/full/DSC00268.JPG"><img src="images/thumb/tn_DSC00268.JPG" width="200" height="150"></img></a>
+		  <br/>
+		  <a href="download.php?file=images/full/DSC00268.JPG">Download Photo</a>	
+	  </td>
+	  <td>
+		  <a href="images/full/DSC00269.JPG"><img src="images/thumb/tn_DSC00269.JPG" width="200" height="150"></img></a>
+		  <br/>
+		  <a href="download.php?file=images/full/DSC00269.JPG">Download Photo</a>	
+	  </td>
+	  <td>
+		  <a href="images/full/DSC00270.JPG"><img src="images/thumb/tn_DSC00270.JPG" width="200" height="150"></img></a>
+		  <br/>
+		  <a href="download.php?file=images/full/DSC00270.JPG">Download Photo</a>	
+	  </td>
+	  <td>
+		  <a href="images/full/DSC00271.JPG"><img src="images/thumb/tn_DSC00271.JPG" width="200" height="150"></img></a>
+		  <br/>
+		  <a href="download.php?file=images/full/DSC00271.JPG">Download Photo</a>	
+	  </td>
+    </tr>
+	<tr>
+      <td>
+		  <a href="images/full/DSC00272.JPG"><img src="images/thumb/tn_DSC00272.JPG" width="200" height="150"></img></a>
+		  <br/>
+		  <a href="download.php?file=images/full/DSC00272.JPG">Download Photo</a>	
+	  </td>
+	  <td>
+		  <a href="images/full/DSC00273.JPG"><img src="images/thumb/tn_DSC00273.JPG" width="200" height="150"></img></a>
+		  <br/>
+		  <a href="download.php?file=images/full/DSC00273.JPG">Download Photo</a>	
+	  </td>
+	  <td>
+		  <a href="images/full/DSC00274.JPG"><img src="images/thumb/tn_DSC00274.JPG" width="200" height="150"></img></a>
+		  <br/>
+		  <a href="download.php?file=images/full/DSC00274.JPG">Download Photo</a>	
+	  </td>
+	  <td>
+		  <a href="images/full/DSC00277.JPG"><img src="images/thumb/tn_DSC00277.JPG" width="200" height="150"></img></a>
+		  <br/>
+		  <a href="download.php?file=images/full/DSC00277.JPG">Download Photo</a>	
+	  </td>
+    </tr>
+	<tr>
+      <td>
+		  <a href="images/full/DSC00278.JPG"><img src="images/thumb/tn_DSC00278.JPG" width="200" height="150"></img></a>
+		  <br/>
+		  <a href="download.php?file=images/full/DSC00278.JPG">Download Photo</a>	
+	  </td>
+	  <td>
+		  <a href="images/full/DSC00284.JPG"><img src="images/thumb/tn_DSC00284.JPG" width="200" height="150"></img></a>
+		  <br/>
+		  <a href="download.php?file=images/full/DSC00284.JPG">Download Photo</a>	
+	  </td>
+	  <td>
+		  <a href="images/full/DSC00285.JPG"><img src="images/thumb/tn_DSC00285.JPG" width="200" height="150"></img></a>
+		  <br/>
+		  <a href="download.php?file=images/full/DSC00285.JPG">Download Photo</a>	
+	  </td>
+	  <td>
+		  <a href="images/full/DSC00286.JPG"><img src="images/thumb/tn_DSC00286.JPG" width="200" height="150"></img></a>
+		  <br/>
+		  <a href="download.php?file=images/full/DSC00286.JPG">Download Photo</a>	
+	  </td>
+    </tr>
+	<tr>
+      <td>
+		  <a href="images/full/DSC00287.JPG"><img src="images/thumb/tn_DSC00287.JPG" width="200" height="150"></img></a>
+		  <br/>
+		  <a href="download.php?file=images/full/DSC00287.JPG">Download Photo</a>	
+	  </td>
+	  <td>
+		  <a href="images/full/DSC00288.JPG"><img src="images/thumb/tn_DSC00288.JPG" width="200" height="150"></img></a>
+		  <br/>
+		  <a href="download.php?file=images/full/DSC00288.JPG">Download Photo</a>	
+	  </td>
+	  <td>
+		  <a href="images/full/DSC00289.JPG"><img src="images/thumb/tn_DSC00289.JPG" width="200" height="150"></img></a>
+		  <br/>
+		  <a href="download.php?file=images/full/DSC00289.JPG">Download Photo</a>	
+	  </td>
+	  <td>
+		  <a href="images/full/DSC00290.JPG"><img src="images/thumb/tn_DSC00290.JPG" width="200" height="150"></img></a>
+		  <br/>
+		  <a href="download.php?file=images/full/DSC00290.JPG">Download Photo</a>	
+	  </td>
+    </tr>
+	<tr>
+      <td>
+		  <a href="images/full/DSC00291.JPG"><img src="images/thumb/tn_DSC00291.JPG" width="200" height="150"></img></a>
+		  <br/>
+		  <a href="download.php?file=images/full/DSC00291.JPG">Download Photo</a>	
+	  </td>
+	  <td>
+		  <a href="images/full/DSC00292.JPG"><img src="images/thumb/tn_DSC00292.JPG" width="200" height="150"></img></a>
+		  <br/>
+		  <a href="download.php?file=images/full/DSC00292.JPG">Download Photo</a>	
+	  </td>
+	  <td>
+		  <a href="images/full/DSC00293.JPG"><img src="images/thumb/tn_DSC00293.JPG" width="200" height="150"></img></a>
+		  <br/>
+		  <a href="download.php?file=images/full/DSC00293.JPG">Download Photo</a>	
+	  </td>
+	  <td>
+		  <a href="images/full/DSC00294.JPG"><img src="images/thumb/tn_DSC00294.JPG" width="200" height="150"></img></a>
+		  <br/>
+		  <a href="download.php?file=images/full/DSC00294.JPG">Download Photo</a>	
+	  </td>
+    </tr>
+	<tr>
+      <td>
+		  <a href="images/full/DSC00296.JPG"><img src="images/thumb/tn_DSC00296.JPG" width="200" height="150"></img></a>
+		  <br/>
+		  <a href="download.php?file=images/full/DSC00296.JPG">Download Photo</a>	
+	  </td>
+	  <td>
+		  <a href="images/full/DSC00297.JPG"><img src="images/thumb/tn_DSC00297.JPG" width="200" height="150"></img></a>
+		  <br/>
+		  <a href="download.php?file=images/full/DSC00297.JPG">Download Photo</a>	
+	  </td>
+	  <td>
+		  <a href="images/full/DSC00298.JPG"><img src="images/thumb/tn_DSC00298.JPG" width="200" height="150"></img></a>
+		  <br/>
+		  <a href="download.php?file=images/full/DSC00298.JPG">Download Photo</a>	
+	  </td>
+	  <td>
+		  <a href="images/full/DSC00299.JPG"><img src="images/thumb/tn_DSC00299.JPG" width="200" height="150"></img></a>
+		  <br/>
+		  <a href="download.php?file=images/full/DSC00299.JPG">Download Photo</a>	
+	  </td>
+    </tr>
+	<tr>
+      <td>
+		  <a href="images/full/DSC00300.JPG"><img src="images/thumb/tn_DSC00300.JPG" width="200" height="150"></img></a>
+		  <br/>
+		  <a href="download.php?file=images/full/DSC00300.JPG">Download Photo</a>	
+	  </td>
+	  <td>
+		  <a href="images/full/DSC00301.JPG"><img src="images/thumb/tn_DSC00301.JPG" width="200" height="150"></img></a>
+		  <br/>
+		  <a href="download.php?file=images/full/DSC00301.JPG">Download Photo</a>	
+	  </td>
+	  <td>
+		  <a href="images/full/DSC00302.JPG"><img src="images/thumb/tn_DSC00302.JPG" width="200" height="150"></img></a>
+		  <br/>
+		  <a href="download.php?file=images/full/DSC00302.JPG">Download Photo</a>	
+	  </td>
+	  <td>
+		  <a href="images/full/DSC00303.JPG"><img src="images/thumb/tn_DSC00303.JPG" width="200" height="150"></img></a>
+		  <br/>
+		  <a href="download.php?file=images/full/DSC00303.JPG">Download Photo</a>	
+	  </td>
+    </tr>
+	<tr>
+      <td>
+		  <a href="images/full/DSC00304.JPG"><img src="images/thumb/tn_DSC00304.JPG" width="200" height="150"></img></a>
+		  <br/>
+		  <a href="download.php?file=images/full/DSC00304.JPG">Download Photo</a>	
+	  </td>
+	  <td>
+		  <a href="images/full/DSC00305.JPG"><img src="images/thumb/tn_DSC00305.JPG" width="200" height="150"></img></a>
+		  <br/>
+		  <a href="download.php?file=images/full/DSC00305.JPG">Download Photo</a>	
+	  </td>
+	  <td>
+		  <a href="images/full/DSC00306.JPG"><img src="images/thumb/tn_DSC00306.JPG" width="200" height="150"></img></a>
+		  <br/>
+		  <a href="download.php?file=images/full/DSC00306.JPG">Download Photo</a>	
+	  </td>
+	  <td>
+		  <a href="images/full/DSC00307.JPG"><img src="images/thumb/tn_DSC00307.JPG" width="200" height="150"></img></a>
+		  <br/>
+		  <a href="download.php?file=images/full/DSC00307.JPG">Download Photo</a>	
+	  </td>
+    </tr>
+	<tr>
+      <td>
+		  <a href="images/full/DSC00308.JPG"><img src="images/thumb/tn_DSC00308.JPG" width="200" height="150"></img></a>
+		  <br/>
+		  <a href="download.php?file=images/full/DSC00308.JPG">Download Photo</a>	
+	  </td>
+	  <td>
+		  <a href="images/full/DSC00309.JPG"><img src="images/thumb/tn_DSC00309.JPG" width="200" height="150"></img></a>
+		  <br/>
+		  <a href="download.php?file=images/full/DSC00309.JPG">Download Photo</a>	
+	  </td>
+	  <td>
+		  <a href="images/full/DSC00310.JPG"><img src="images/thumb/tn_DSC00310.JPG" width="200" height="150"></img></a>
+		  <br/>
+		  <a href="download.php?file=images/full/DSC00310.JPG">Download Photo</a>	
+	  </td>
+	  <td>
+		  <a href="images/full/DSC00311.JPG"><img src="images/thumb/tn_DSC00311.JPG" width="200" height="150"></img></a>
+		  <br/>
+		  <a href="download.php?file=images/full/DSC00311.JPG">Download Photo</a>	
+	  </td>
+    </tr>
+	<tr>
+      <td>
+		  <a href="images/full/DSC00312.JPG"><img src="images/thumb/tn_DSC00312.JPG" width="200" height="150"></img></a>
+		  <br/>
+		  <a href="download.php?file=images/full/DSC00312.JPG">Download Photo</a>	
+	  </td>
+	  <td>
+		  <a href="images/full/DSC00313.JPG"><img src="images/thumb/tn_DSC00313.JPG" width="200" height="150"></img></a>
+		  <br/>
+		  <a href="download.php?file=images/full/DSC00313.JPG">Download Photo</a>	
+	  </td>
+	  <td>
+		  <a href="images/full/DSC00314.JPG"><img src="images/thumb/tn_DSC00314.JPG" width="200" height="150"></img></a>
+		  <br/>
+		  <a href="download.php?file=images/full/DSC00314.JPG">Download Photo</a>	
+	  </td>
+	  <td>
+		  <a href="images/full/DSC00315.JPG"><img src="images/thumb/tn_DSC00315.JPG" width="200" height="150"></img></a>
+		  <br/>
+		  <a href="download.php?file=images/full/DSC00315.JPG">Download Photo</a>	
+	  </td>
+    </tr>
+	<tr>
+      <td>
+		  <a href="images/full/DSC00316.JPG"><img src="images/thumb/tn_DSC00316.JPG" width="200" height="150"></img></a>
+		  <br/>
+		  <a href="download.php?file=images/full/DSC00316.JPG">Download Photo</a>	
+	  </td>
+	  <td>
+		  <a href="images/full/DSC00317.JPG"><img src="images/thumb/tn_DSC00317.JPG" width="200" height="150"></img></a>
+		  <br/>
+		  <a href="download.php?file=images/full/DSC00317.JPG">Download Photo</a>	
+	  </td>
+	  <td>
+		  <a href="images/full/DSC00322.JPG"><img src="images/thumb/tn_DSC00322.JPG" width="200" height="150"></img></a>
+		  <br/>
+		  <a href="download.php?file=images/full/DSC00322.JPG">Download Photo</a>	
+	  </td>
+	  <td>
+		  <a href="images/full/DSC00323.JPG"><img src="images/thumb/tn_DSC00323.JPG" width="200" height="150"></img></a>
+		  <br/>
+		  <a href="download.php?file=images/full/DSC00323.JPG">Download Photo</a>	
+	  </td>
+    </tr>
+	<tr>
+      <td>
+		  <a href="images/full/DSC00324.JPG"><img src="images/thumb/tn_DSC00324.JPG" width="200" height="150"></img></a>
+		  <br/>
+		  <a href="download.php?file=images/full/DSC00324.JPG">Download Photo</a>	
+	  </td>
+	  <td>
+		  <a href="images/full/DSC00325.JPG"><img src="images/thumb/tn_DSC00325.JPG" width="200" height="150"></img></a>
+		  <br/>
+		  <a href="download.php?file=images/full/DSC00325.JPG">Download Photo</a>	
+	  </td>
+	  <td>
+		  <a href="images/full/DSC00326.JPG"><img src="images/thumb/tn_DSC00326.JPG" width="200" height="150"></img></a>
+		  <br/>
+		  <a href="download.php?file=images/full/DSC00326.JPG">Download Photo</a>	
+	  </td>
+	  <td>
+		  <a href="images/full/DSC00327.JPG"><img src="images/thumb/tn_DSC00327.JPG" width="200" height="150"></img></a>
+		  <br/>
+		  <a href="download.php?file=images/full/DSC00327.JPG">Download Photo</a>	
+	  </td>
+    </tr>
+	<tr>
+      <td>
+		  <a href="images/full/DSC00328.JPG"><img src="images/thumb/tn_DSC00328.JPG" width="200" height="150"></img></a>
+		  <br/>
+		  <a href="download.php?file=images/full/DSC00328.JPG">Download Photo</a>	
+	  </td>
+	  <td>
+		  <a href="images/full/DSC00329.JPG"><img src="images/thumb/tn_DSC00329.JPG" width="200" height="150"></img></a>
+		  <br/>
+		  <a href="download.php?file=images/full/DSC00329.JPG">Download Photo</a>	
+	  </td>
+	  <td>
+		  <a href="images/full/DSC00333.JPG"><img src="images/thumb/tn_DSC00333.JPG" width="200" height="150"></img></a>
+		  <br/>
+		  <a href="download.php?file=images/full/DSC00333.JPG">Download Photo</a>	
+	  </td>
+	  <td>
+		  <a href="images/full/DSC00334.JPG"><img src="images/thumb/tn_DSC00334.JPG" width="200" height="150"></img></a>
+		  <br/>
+		  <a href="download.php?file=images/full/DSC00334.JPG">Download Photo</a>	
+	  </td>
+    </tr>
+	<tr>
+      <td>
+		  <a href="images/full/DSC00335.JPG"><img src="images/thumb/tn_DSC00335.JPG" width="200" height="150"></img></a>
+		  <br/>
+		  <a href="download.php?file=images/full/DSC00335.JPG">Download Photo</a>	
+	  </td>
+	  <td>
+		  <a href="images/full/DSC00336.JPG"><img src="images/thumb/tn_DSC00336.JPG" width="200" height="150"></img></a>
+		  <br/>
+		  <a href="download.php?file=images/full/DSC00336.JPG">Download Photo</a>	
+	  </td>
+	  <td>
+		  <a href="images/full/DSC00337.JPG"><img src="images/thumb/tn_DSC00337.JPG" width="200" height="150"></img></a>
+		  <br/>
+		  <a href="download.php?file=images/full/DSC00337.JPG">Download Photo</a>	
+	  </td>
+	  <td>
+		  <a href="images/full/DSC00338.JPG"><img src="images/thumb/tn_DSC00338.JPG" width="200" height="150"></img></a>
+		  <br/>
+		  <a href="download.php?file=images/full/DSC00338.JPG">Download Photo</a>	
+	  </td>
+    </tr>
+	<tr>
+      <td>
+		  <a href="images/full/DSC00339.JPG"><img src="images/thumb/tn_DSC00339.JPG" width="200" height="150"></img></a>
+		  <br/>
+		  <a href="download.php?file=images/full/DSC00339.JPG">Download Photo</a>	
+	  </td>
+	  <td>
+		  <a href="images/full/DSC00340.JPG"><img src="images/thumb/tn_DSC00340.JPG" width="200" height="150"></img></a>
+		  <br/>
+		  <a href="download.php?file=images/full/DSC00340.JPG">Download Photo</a>	
+	  </td>
+	  <td>
+		  <a href="images/full/DSC00344.JPG"><img src="images/thumb/tn_DSC00344.JPG" width="200" height="150"></img></a>
+		  <br/>
+		  <a href="download.php?file=images/full/DSC00344.JPG">Download Photo</a>	
+	  </td>
+	  <td>
+		  <a href="images/full/DSC00345.JPG"><img src="images/thumb/tn_DSC00345.JPG" width="200" height="150"></img></a>
+		  <br/>
+		  <a href="download.php?file=images/full/DSC00345.JPG">Download Photo</a>	
+	  </td>
+    </tr>
+	<tr>
+      <td>
+		  <a href="images/full/DSC00346.JPG"><img src="images/thumb/tn_DSC00346.JPG" width="200" height="150"></img></a>
+		  <br/>
+		  <a href="download.php?file=images/full/DSC00346.JPG">Download Photo</a>	
+	  </td>
+	  <td>
+		  <a href="images/full/DSC00347.JPG"><img src="images/thumb/tn_DSC00347.JPG" width="200" height="150"></img></a>
+		  <br/>
+		  <a href="download.php?file=images/full/DSC00347.JPG">Download Photo</a>	
+	  </td>
+	  <td>
+		  <a href="images/full/DSC00348.JPG"><img src="images/thumb/tn_DSC00348.JPG" width="200" height="150"></img></a>
+		  <br/>
+		  <a href="download.php?file=images/full/DSC00348.JPG">Download Photo</a>	
+	  </td>
+	  <td>
+		  <a href="images/full/DSC00367.JPG"><img src="images/thumb/tn_DSC00367.JPG" width="200" height="120"></img></a>
+		  <br/>
+		  <a href="download.php?file=images/full/DSC00367.JPG">Download Photo</a>	
+	  </td>
+    </tr>
+	<tr>
+      <td>
+		  <a href="images/full/DSC00351.JPG"><img src="images/thumb/tn_DSC00351.JPG" width="200" height="120"></img></a>
+		  <br/>
+		  <a href="download.php?file=images/full/DSC00351.JPG">Download Photo</a>	
+	  </td>
+	  <td>
+		  <a href="images/full/DSC00352.JPG"><img src="images/thumb/tn_DSC00352.JPG" width="200" height="120"></img></a>
+		  <br/>
+		  <a href="download.php?file=images/full/DSC00352.JPG">Download Photo</a>	
+	  </td>
+	  <td>
+		  <a href="images/full/DSC00353.JPG"><img src="images/thumb/tn_DSC00353.JPG" width="200" height="120"></img></a>
+		  <br/>
+		  <a href="download.php?file=images/full/DSC00353.JPG">Download Photo</a>	
+	  </td>
+	  <td>
+		  <a href="images/full/DSC00354.JPG"><img src="images/thumb/tn_DSC00354.JPG" width="200" height="120"></img></a>
+		  <br/>
+		  <a href="download.php?file=images/full/DSC00354.JPG">Download Photo</a>	
+	  </td>
+    </tr>
+	<tr>
+      <td>
+		  <a href="images/full/DSC00355.JPG"><img src="images/thumb/tn_DSC00355.JPG" width="200" height="120"></img></a>
+		  <br/>
+		  <a href="download.php?file=images/full/DSC00355.JPG">Download Photo</a>	
+	  </td>
+	  <td>
+		  <a href="images/full/DSC00356.JPG"><img src="images/thumb/tn_DSC00356.JPG" width="200" height="120"></img></a>
+		  <br/>
+		  <a href="download.php?file=images/full/DSC00356.JPG">Download Photo</a>	
+	  </td>
+	  <td>
+		  <a href="images/full/DSC00357.JPG"><img src="images/thumb/tn_DSC00357.JPG" width="200" height="120"></img></a>
+		  <br/>
+		  <a href="download.php?file=images/full/DSC00357.JPG">Download Photo</a>	
+	  </td>
+	  <td>
+		  <a href="images/full/DSC00358.JPG"><img src="images/thumb/tn_DSC00358.JPG" width="200" height="120"></img></a>
+		  <br/>
+		  <a href="download.php?file=images/full/DSC00358.JPG">Download Photo</a>	
+	  </td>
+    </tr>
+	<tr>
+      <td>
+		  <a href="images/full/DSC00359.JPG"><img src="images/thumb/tn_DSC00359.JPG" width="200" height="120"></img></a>
+		  <br/>
+		  <a href="download.php?file=images/full/DSC00359.JPG">Download Photo</a>	
+	  </td>
+	  <td>
+		  <a href="images/full/DSC00360.JPG"><img src="images/thumb/tn_DSC00360.JPG" width="200" height="120"></img></a>
+		  <br/>
+		  <a href="download.php?file=images/full/DSC00360.JPG">Download Photo</a>	
+	  </td>
+	  <td>
+		  <a href="images/full/DSC00361.JPG"><img src="images/thumb/tn_DSC00361.JPG" width="200" height="120"></img></a>
+		  <br/>
+		  <a href="download.php?file=images/full/DSC00361.JPG">Download Photo</a>	
+	  </td>
+	  <td>
+		  <a href="images/full/DSC00362.JPG"><img src="images/thumb/tn_DSC00362.JPG" width="200" height="120"></img></a>
+		  <br/>
+		  <a href="download.php?file=images/full/DSC00362.JPG">Download Photo</a>	
+	  </td>
+    </tr>
+	<tr>
+      <td>
+		  <a href="images/full/DSC00363.JPG"><img src="images/thumb/tn_DSC00363.JPG" width="200" height="120"></img></a>
+		  <br/>
+		  <a href="download.php?file=images/full/DSC00363.JPG">Download Photo</a>	
+	  </td>
+	  <td>
+		  <a href="images/full/DSC00364.JPG"><img src="images/thumb/tn_DSC00364.JPG" width="200" height="120"></img></a>
+		  <br/>
+		  <a href="download.php?file=images/full/DSC00364.JPG">Download Photo</a>	
+	  </td>
+	  <td>
+		  <a href="images/full/DSC00365.JPG"><img src="images/thumb/tn_DSC00365.JPG" width="200" height="120"></img></a>
+		  <br/>
+		  <a href="download.php?file=images/full/DSC00365.JPG">Download Photo</a>	
+	  </td>
+	  <td>
+		  <a href="images/full/DSC00366.JPG"><img src="images/thumb/tn_DSC00366.JPG" width="200" height="120"></img></a>
+		  <br/>
+		  <a href="download.php?file=images/full/DSC00366.JPG">Download Photo</a>	
+	  </td>
+    </tr>
+	</tbody>
+</table>  
+</div>
+</div>
+</div>
+<script type="text/javascript">
+$(document).ready( function () {
+	$('.program.schedule .menu .item')
+	  .tab({
+		context: '.program.schedule',
+		history: true
+	  });
+});
+</script>
+<div class="ui page grid stackable segment">
+    <div class="row">
+        <div class="column">
+            <h1 class="center aligned ui header">
+                Sponsors 
+            </h1>
+
+            <div class="ui divider"></div>
+	    <div class="center aligned ui header">
+		<img src="/images/google_logo_shaded.jpg" width="380" height="158" ></img>
+	    </div>
+            <div class="ui divider"></div>
+        </div>
+    </div>
+</div>
+<div class="ui page grid segment">
+    <div class="ten wide column">
+        <div class="ui three column stackable grid">
+            <div class="column">
+                <div class="ui header">Important Links</div>
+                <div class="ui link list">
+                    <a class="item" href="registration.php">Registration</a>
+                    <!--<a class="item">Schedule</a>-->
+                    <!--<a class="item">Professors</a>-->
+                </div>
+            </div>
+            <div class="column">
+                <div class="ui header">Program</div>
+                <div class="ui link list">
+                    <a class="item" href="call_for_papers.php">Call for Papers</a>
+                    <a class="item" href="program.php">Program Schedule</a>
+                    <a class="item" href="invited_speakers.php">Invited Speakers</a>
+                </div>
+            </div>
+            <div class="column">
+                <div class="ui header">Local Information</div>
+                <div class="ui link list">
+                    <a class="item" href="http://cse.iitk.ac.in/links/howtoreach.html" target="_blank">How to Reach</a>
+                    <a class="item" href="http://caldam.cse.iitk.ac.in/register/content/travel-accommodation-details">Accomodation</a>
+                    <a class="item" href="http://caldam.cse.iitk.ac.in/register/content/travel-accommodation-details">Travel details</a>
+					<a class="item" href="http://caldam.cse.iitk.ac.in/clearance.pdf">Clearance from Ministry of Home Affairs</a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="six wide right floated aligned column">
+        <h3 class="ui header">Contact Us</h3>
+        <addr>
+            Venue: Outreach Auditorium,<br>
+            IIT Kanpur, Kanpur<br>
+        </addr>
+        <p>+91 (512) 259-7638</p>
+</div>
+    </div></body>
+
+</html>

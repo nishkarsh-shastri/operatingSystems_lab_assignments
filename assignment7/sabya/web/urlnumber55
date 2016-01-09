@@ -1,0 +1,264 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+<head>
+<title>
+Department of Computer Science and Engineering, IIT Kanpur
+</title>
+<link rel="stylesheet" type="text/css" href="/css/menu.css" /> <link rel="stylesheet" type="text/css" href="/css/main.css" /> <link rel="icon" type="image/bmp" href="/images/favicon.ico.bmp"> <!--[if IE]>
+    <link rel="stylesheet" type="text/css" href="/css/ie-only.css" />
+<![endif]--> <!--[if !IE]><!--> <link rel="stylesheet" type="text/css" href="not-ie.css" /> <!--<![endif]-->
+</head>
+<body>
+<div class="page-container">
+<div class="header">
+<div id="banner">   
+<div class="iitklogo">
+<a href="http://www.iitk.ac.in"><img src="/images/iitk-logo.png" alt="IITK Logo" /></a>
+</div>
+<div class="bannertext">
+<h1>
+<a href="http://www.cse.iitk.ac.in">Department of Computer Science and Engineering</a>
+</h1><!--Don't use markdown for headings in banner they cause distortion in layout-->
+<h2>
+<a href="http://www.iitk.ac.in">Indian Institute of Technology Kanpur</a>
+</h2>
+</div>
+<div class="cse">
+<img src="/images/cse-iitk.gif" alt="CSE Department" />
+</div>
+</div>
+<div class="dropnav">
+<ul>
+<li><a href="/">Home</a></li>
+<li><a href="#">People<!--[if IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]-->
+<ul>
+<li><a href="/people/faculty.html">Faculty</a></li>
+<li><a href="/people/engineers.html">Engineers</a></li>
+<li><a href="/people/staff.html">Staff</a></li>
+<li><a href="/people/students.html">Students</a></li>
+</ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]--></li>
+<li><a href="#">Research<!--[if IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]-->
+<ul>
+<li><a href="/research/areas.html">Areas</a></li>
+<li><a href="/research/publications.html">Publication</a></li>
+<li><a href="http://www2.cse.iitk.ac.in/~sigtacs/">SIGTACS</a></li>
+<li><a href="/users/sesres/">SESRes</a></li>
+<li><a href="/users/sigdata/">SIGDATA</a></li>
+<li><a href="http://www.iitk.ac.in/surge/">SURGE</a></li>
+</ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]--></li>
+<li><a href="#">Teaching<!--[if IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]-->
+<ul>
+<li><a href="/teaching/courses.html">Courses</a></li>
+<li><a href="/users/ssax/course_tt.html">Course Timetable</a></li>
+<li><a href="http://172.26.142.68/examscheduler">Mid-Sem Exam Scheduler (Internal)</a></li>
+<li><a href="http://172.26.142.68/examscheduler2">End-Sem Exam Scheduler (Internal)</a></li>
+</ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]--></li>
+<li><a href="#">Programs<!--[if IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]-->
+<ul>
+<li><a href="/acad/phd.html">PhD</a></li>
+<li><a href="/acad/mtech.html">MTech</a></li>
+<li><a href="/acad/dualdegree.html">Dual Degree</a></li>
+<li><a href="/acad/btech.html">BTech</a></li>
+<li><a href="/acad/minor.html">Minor Programs</a></li>
+</ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]--></li>
+<li><a href="#">Admission<!--[if IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]-->
+<ul>
+<li><a href="/users/admissions/">Admissions Website</a></li>
+<li><a href="/acad/joinphd.html">PhD</a></li>
+<li><a href="/acad/adm_mt.html">MTech</a></li>
+<li><a href="/acad/adm_bt.html">BTech</a></li>
+</ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]--></li>
+<li><a href="#">About Us<!--[if IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]-->
+<ul>
+<li><a href="/dept/index.html">Department</a></li>
+<li><a href="/dept/committees.html">Committees</a></li>
+<li><a href="/dept/facilities.html">CSE Lab Facilities</a></li>
+<li><a href="/dept/contact.html">Contact Us</a></li>
+<li><a href="/links/howtoreach.html">Reaching Us</a></li>
+</ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]--></li>
+<li><a href="#">Internal<!--[if IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]-->
+<ul>
+<li><a href="https://gautam5.cse.iitk.ac.in/meeting/">Room Booking</a></li>
+<li><a href="/users/ca/">Our Certificates</a></li>
+</ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]--></li>
+<li><a href="#">Archive<!--[if IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]-->
+<ul>
+<li><a href="/chair/index.html">N Rama Rao Chair</a></li>
+<li><a href="/goelchair/index.html">Prabhu Goel Chair</a></li>
+</ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->    </li>
+<li><a href="https://webmail.cse.iitk.ac.in">WebMail</a></li>
+</ul>
+</div><!--dropnav-->
+</div><!--header-->
+<div class="content">     
+
+
+
+<!--Don't use markdown syntax for headings in table it disturbs the layout-->
+<table class="mainpage">
+
+<tr>
+<td colspan="2">
+
+<div class="test" style="height:220px; overflow:auto;">
+
+<table width="400" border="0" align="right" cellpadding="5" cellspacing="0">
+<tr>
+<td align="center">
+<div style="height:200px; float:right; margin-left: 5px; margin-top: 10px; margin-right: 10px; margin-bottom: 5px; border: 1px solid rgb(0, 0, 0);" id="CSSSBackground">
+  
+<img alt="slide show" src="slideshow/start.jpg" width="400" height="200" id="CSESS">
+</div>
+<script type="text/javascript" src="js/script12_slideshow.js"></script>
+<script type="text/javascript">
+RunSlideShow("CSESS","CSSSBackground","slideshow/awodey_homotopy.jpg;slideshow/awodey_sahastrabuddhe.jpg;slideshow/rajaraman_felicitation.jpg;slideshow/xcoderz_icpckgp.jpg;slideshow/anurag_pranay_samsung_award.jpg;slideshow/cse_canteen.jpg;slideshow/farewell_stairwell.jpg;slideshow/manindra_blurb.jpg;slideshow/arnabb_blurb.jpg;slideshow/pg_blurb.jpg;slideshow/rmb_plan.jpg",15);
+</script>
+</td>
+</tr>
+</table>
+
+<h6>
+CSE@IITK
+</h6>
+
+<div  style="margin-left:15px; margin-top:30px;">
+<p>Applications are now being accepted admission to the MTech and PhD program for the Department of Computer Science and Engineering, IIT Kanpur. Please visit <a href="http://www.cse.iitk.ac.in/users/admissions/announcements/2015-03-19-PG-admissions-May-2015">here </a> to know more. <br></p>
+Shortlisted candidates will be called for test and interview which will be held on May 9 and 10, 2015. The test will be held from 9am to 12am (reporting time 830am) on May 9, in the Lecture Hall Complex, IIT Kanpur
+</div>
+
+</div>
+</td>
+</tr>
+<tr>
+<!-- Column 1 starts -->
+<td>
+
+<div class="test" style="height:200px; overflow:auto;">
+<h6>
+L-A-T-E-S-T
+</h6>
+<ul>
+<li><a href="/users/nitin">Prof. Nitin Saxena</a> has been awarded the <a href="http://www.dst.gov.in/scientific-programme/ser-hr-deve-swarnajayanti.htm">DST Swarnajayanti Fellowship</a> for the year 2013-14.</li>
+<li><a href="/users/sandeeps">Prof. Sandeep Shukla</a> has joined the faculty as a Professor.</li>
+<li><a href="/users/rmittal">Prof. Rajat Mittal</a> and <a href="/users/rtewari">Prof. Raghunath Tewari</a> have been awarded the <a href="http://www.inspire-dst.gov.in/Inspire_faculty_Scheme_Result.html">DST INSPIRE Faculty Fellowship</a> in Mathematics and Engineering respectively (July 2014 Batch).</li>
+<li><a href="/users/moona">Prof. Rajat Moona</a> has been awarded the <a href="http://iesaonline.org/Technovation2014/index.html">IESA 2014 TechnoVisionary Award</a>.</li>
+<li><a href="/users/purushot">Purushottam Kar</a> has been awarded <a href="http://www.isical.ac.in/~iuprai/iuprai-icvgip-phd.html">IUPRAI Doctoral Dissertation Award</a>.</li>
+<li><a href="http://dcs.cse.iitk.ac.in/">Directions in Computer Science</a> - A workshop in memorium of Rajeev Motwani is being organized on December 19, 2014.</li>
+<li>The First International <a href="http://caldam.cse.iitk.ac.in/">Conference on Algorithms and Discrete Applied Mathematics (CALDAM 2015)</a>, IIT Kanpur, February 5-10, 2015.</li>
+<li><a href="/users/se367/workshop/">Neurons and Consciousness</a> a cognitive science mini-workshop is being organized at IIT Kanpur on Friday 29th August, 2014.</li>
+<li>CSE department felicitates former faculty Professor V. Rajaraman, founding faculty member of the department and author of many CS titles, on conferment of Honoris Causa (Doctor of Science) at <a href="http://www.iitk.ac.in/doaa/convocation2014/index.htm">Convocation 2014 of IIT Kanpur</a>. (<a href="/misc/rajaraman.html">Read more</a>)</li>
+<li>CSE Adjunct Professor (and Microsoft Research Staff member) <a href="http://research.microsoft.com/en-us/um/people/sumitg/">Sumit Gulwani</a>, receives the 2014 <a href="http://www.sigplan.org/Awards/Milner/Main">Robin Milner Young Researcher Award</a> for outstanding contributions to the area of programming languages. <a href="http://www.sigplan.org/node/232">Read more</a><br /></li>
+<li><a href="/users/vinaypn/">Dr. Vinay P. Namboodiri</a> has joined department as a faculty member since Nov 2013.</li>
+<li><a href="/users/rmittal/">Dr. Rajat Mittal</a> has joined department as a faculty member since Dec 2013.</li>
+<li><a href="/users/sb">Somenath Biswas</a> has been elected as a Fellow of National Academy of Sciences, India for the year 2013 <a href="http://www.nasi.org.in/Fellows_Elected_2013.pdf">[article]</a>.</li>
+<li>Research project by Umair Ahmed, <a href="http://research.microsoft.com/en-us/um/people/sumitg/">Sumit Gulwani</a> and <a href="/users/karkare">Amey Karkare</a> showcased at <a href="http://research.microsoft.com/en-us/um/redmond/events/techfest2013/projects.aspx#129">Microsoft Techfest 2013</a>.</li>
+<li><a href="/users/manindra">Manindra Agrawal</a> has been awarded the <a href="http://en.wikipedia.org/wiki/Padma_Shri">Padma Shri Award</a> for his contributions to Science and Engineering <a href="http://www.thehindu.com/news/national/list-of-padma-awardees/article4345496.ece">[article]</a>.
+</div>
+</li>
+</ul>
+<div class="test" style="height:200px; overflow:auto;">
+<h6>
+Student/Faculty Publications
+</h6>
+<ul>
+<li><a href="/users/umair">Umair Z. Ahmed</a>, <a href="http://pub.ist.ac.at/~kchatterjee/">Krishnendu Chatterjee</a> and <a href="http://research.microsoft.com/en-us/um/people/sumitg/">Sumit Gulwani</a>, &quot;Automatic Generation of Alternative Starting Positions for Simple Traditional Board Games&quot;, <a href="http://www.aaai.org/Conferences/AAAI/aaai15.php">AAAI 2015</a>, <a href="http://www.cse.iitk.ac.in/users/umair/papers/aaai15.pdf">[PDF]</a></li>
+<li><a href="/users/deepakp">Deepak Pathak</a>, <a href="/users/snitish">Sai Nitish Satyavolu</a>, <a href="/users/vinaypn">Vinay P. Namboodiri</a>, &quot;Where is my Friend? - Person identification in Social Networks&quot;, Automatic Face and Gesture Recognition <a href="http://www.fg2015.org/conference/accepted-papers/">(FG 2015)</a> <a href="http://www.cse.iitk.ac.in/users/vinaypn/papers/FG15_LSVM_webversion.pdf">(Paper)</a>.</li>
+<li><a href="/users/paurora">Pawan Aurora</a>, <a href="/users/ssumit">Sumit Singh</a> and <a href="/users/skmehta">Shashank K Mehta</a>, &quot;Partial Degree Bounded Edge Packing Problem for Graphs and k-Uniform Hypergraphs&quot;, <a href="http://link.springer.com/journal/10878">Journal of Combinatorial Optimization</a></li>
+<li><a href="/users/ktiwari">Kamlesh Tiwari</a> and <a href="/users/pg">Phalguni Gupta</a>, &quot;A Touch-less Fingerphoto Recognition System for Mobile Hand-held Devices&quot; <a href="http://icb2015.org/">ICB 2015</a></li>
+<li><a href="/users/rgurjar">Rohit Gurjar</a>, <a href="/users/arpk">Arpita Korwar</a>, <a href="/users/nitin">Nitin Saxena</a> and <a href="http://image.informatik.htw-aalen.de/Thierauf/">Thomas Thierauf</a>, &quot;Deterministic identity testing for sum of read-once oblivious arithmetic branching programs&quot;, <a href="http://computationalcomplexity.org/Archive/2015/accept.html">CCC 2015</a></li>
+<li><a href="/users/diptarka">Diptarka Chakraborty</a> and <a href="/users/rtewari">Raghunath Tewari</a>, &quot;Simultaneous Time-Space Upper Bounds for Red-Blue Path Problem in Planar DAGs&quot;, <a href="http://www.buet.ac.bd/cse/walcom2015/index.php?pageid=accepted.html">WALCOM 2015</a></li>
+<li><a href="/users/diptarka">Diptarka Chakraborty</a>, A. Pavan, <a href="/users/rtewari">Raghunath Tewari</a>, N. V. Vinodchandran and Lin Yang&quot; ,New Time-Space Upperbounds for Directed Reachability in High-genus and H-minor-free Graphs&quot;, . FSTTCS 2014</li>
+<li><a href="/users/smitr">Shubhadip Mitra</a>, Sayan Ranu, Vinay Kolar, <a href="/users/arnabb">Arnab Bhattacharya</a>, Ravi Kokku, Aditya Telang, Sriram Raghavan, &quot;Trajectory Aware Macro-cell Planning for Mobile Users&quot;, <a href="http://infocom2015.ieee-infocom.org/">INFOCOM 2015</a></li>
+<li><a href="/users/paurora">Pawan Aurora</a>, and <a href="/users/skmehta">Shashank K Mehta</a>'s paper gets accepted to <a href="http://tcs.postech.ac.kr/isaac2014/accepted_papers.html">ISAAC 2014</a>.</li>
+<li><a href="/users/naditya">Aditya Nigam</a>, and <a href="/users/pg">Phalguni Gupta</a>'s paper gets accepted to <a href="http://www.ijcb2014.org/index.html">IJCB 2014</a>.</li>
+<li>Richard Cleve, and <a href="/users/rmittal">Rajat Mittal</a>'s paper gets accepted to <a href="http://icalp2014.itu.dk/en/Conference/Accepted-Papers">ICALP 2014</a>.</li>
+<li><a href="/users/sbaswana">Surender Baswana</a>, and <a href="/users/shahbazk">Shahbaz Khan</a>'s paper gets accepted to <a href="http://icalp2014.itu.dk/en/Conference/Accepted-Papers">ICALP 2014</a>.</li>
+<li><a href="/users/ajith">Ajitha Shenoy</a>, <a href="/users/sb">Somenath Biswas</a>, and <a href="/users/ppk">Piyush Kurur</a>'s paper gets accepted to <a href="http://www.sigevo.org/gecco-2014/">GECCO 2014</a></li>
+<li>Akhil Arora, Mayank Sachan, and <a href="/users/arnabb">Arnab Bhattacharya</a>'s paper gets accepted to <a href="http://www.sigmod2014.org/">SIGMOD 2014</a>.</li>
+<li>Amitabha Sanyal, Alan Mycroft, <a href="/users/karkare">Amey Karkare</a> and Rahul Asati's paper gets accepted to <a href="http://www.etaps.org/index.php/2014/cc/accepted-papers">CC 2014</a>.</li>
+<li><a href="/users/amrita">Amrita Chaturvedi</a> and <a href="/users/tvp">T.V. Prabhakar</a>'s paper gets accepted to <a href="http://www.acm.org/conferences/sac/sac2014/">SAC 2014</a>.
+</div>
+</li>
+</ul>
+</td>
+<!-- Column 2 starts -->
+<td>
+
+<div class="test" style="height:200px; overflow:auto;">
+<h6>
+Announcements
+</h6>
+<ul>
+<li><a href="./misc/cricket">Intra-Department Cricket Tournament</a></li>
+<li>New CSE website under development</li>
+<li>Online Course on ICT Basics <a href="http://agmoocs.in/content/ict-basics">[agmoocs.in]</a></li>
+<li><strong>Upcoming CS Events</strong> in India <a href="/links/conf.html">[List]</a>.</li>
+<li>Important notification regarding online courses offered by the department <a href="/acad/online_notice.html">[link]</a>.</li>
+<li>The CSE Department announces the construction of the new Rajeev Motwani building for CSE. <a href="/building/rajeev_motwani_building.html">[Website]</a></li>
+<li>Save Energy, Save the Earth ! Share a Car - Check out the new IIT Kanpur Carpool Portal <a href="http://web.cse.iitk.ac.in/~carpool/index.php">here</a>(Intranet only).
+</div>
+</li>
+</ul>
+<div class="test" style="height:200px; overflow:auto;">
+<h6>
+Seminar Corner
+</h6>
+<ul>
+<li><a href="http://www.andrew.cmu.edu/user/awodey/">Steve Awodey</a> to deliver a lecture on &quot;Homotopy Type Theory&quot; on January 14th at 3:00 PM in RM101. <a href="research/inflections/lecture6.html">[ABSTRACT]</a> <a href="http://gautam5.cse.iitk.ac.in/slides/SteveAwodey/">[PHOTOS]</a> .</li>
+</ul>
+<a href="/research/seminars/calender.html">[Upcoming Seminar Calender]</a><a href="/research/seminars/">[List of Seminars]</a>
+</div>
+</td>
+</tr>
+
+</table>
+<!-- RIF Seminar
+-   []() to deliver a Research-I seminar on "" on  at  in CS101. [[ABSTRACT]](/research/rifseminars/201y.mm.dd.html).
+-->
+
+<!-- Departmental Colloquia
+-   []() to lead a departmental colloquium on "" on  at  in CS10. [[ABSTRACT]](/research/depcolloquia/201y.mm.dd.html).
+-->
+
+<!-- SEMINAR
+-   []() to speak on "" on  at  in CS10. [[ABSTRACT]](/research/seminars/2012-13/201y.mm.dd.html).
+-->
+<!-- SEMINAR SERIES
+-   Seminar Series by []() on "" from  to  Click [here](/research/seminars/2012-13/201y.mm.dd.html) for details.
+-->
+<!--SIGML
+-   SIGML Seminar on "" by  on  at  in CS10. Click [here](/users/sigml/talks.php) for details.
+-->
+<!--THESIS DEFENCE
+-   to defend his thesis on "" on  at  in CS10.
+-->
+<!-- SIGTACS
+-   SIGTACS Seminar on "" by  on  at  in CS10. Click [here](http://www2.cse.iitk.ac.in/~sigtacs/) for details.
+-->
+<!-- SIGTACS JUNIOR
+-   SIGTACS Junior! Seminar on "" by  on  at  in CS10. Click [here](/users/sigtacs/junior-fall-09.html) for details.
+-->
+<!-- X97
+-   to present his work on "" on  at  in CS10.
+-->
+
+
+</div><!--content End-->
+<div class="footer">
+<div class="footerlinks" style="padding:2px;">
+<a href="/dept/newfac.html">Faculty Positions</a> | <a href="/users/rif">Research-I Foundation</a>
+</div>
+</div>   
+</div><!--Page Container End--> 
+</body>
+</html>
+
+

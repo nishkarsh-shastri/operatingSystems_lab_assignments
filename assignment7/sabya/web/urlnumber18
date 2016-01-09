@@ -1,0 +1,171 @@
+   <html>
+
+<head>
+<title>Research Scholars' Homepage</title>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+<link rel="stylesheet" type="text/css" href="main.css" />
+</head>
+
+
+<body>
+
+<table class="Global" cellpadding="0" cellspacing="0" border="0">
+<tr><td height="10" colspan="2"></td></tr>
+<tr><td height="150" colspan="2">
+<table class="Header_Image" cellspacing="0" border="0"><tr>
+<td width="100%" align="left">&nbsp;</td>
+</tr>
+</table>
+
+</td></tr>
+<tr>
+
+<td class="MenuColTD" align="center">
+<div class="Menu">
+
+<font>Home</font>
+
+<a href="phd.html">PhD Students</a>
+
+<a href="ms.html">MS Students</a>
+
+<a href="rsday.html">RS Day</a>
+
+<a href="news.html">News</a>
+
+<a href="alumni.html">Alumni</a>
+
+<a href="contact.html">Contact</a><br>
+
+<a href="http://cse.iitkgp.ac.in/index.php?secret=bmJJTkZuOHlYN0NPVG00YXFWbHFZQT09/" target="_blank">Research Info</a>
+
+<a href="http://cse.iitkgp.ac.in/" target="_blank">CSE Dept</a>
+
+<a href="http://iitkgp.ac.in/" target="_blank">IIT Kharagpur</a>
+
+</div>
+
+</td>
+
+
+
+<td class="Content">
+
+<h1 class="HeadingStyle">Welcome</h1>
+
+<p>
+
+This is the homepage of research scholars of the <a href="http://cse.iitkgp.ac.in/" target="_blank">Computer Science and Engineering department</a> of <a href="http://www.iitkgp.ac.in/" target="_blank">Indian Institute of Technology Kharagpur</a>.
+
+The department has a large number of students enrolled in the PhD
+and MS research programmes.
+
+<p>Explore the site to know more.
+
+<p />&nbsp;
+<p />&nbsp;
+
+
+<!--
+<br /><font color="#ff0000" face="comic sans ms" style="line-height:1.6;font-size:15pt"><b>Research Scholars' Day, 23rd March, 2013</b></font><span style="line-height:1.6;font-size:10pt"> </span><a href="https://sites.google.com/site/communitydetectionslpa/home/new.gif?attredirects=0" style="line-height:1.6;font-size:30pt"><img border="0" src="https://sites.google.com/site/communitydetectionslpa/_/rsrc/1320097172140/home/new.gif" /></a><span style="line-height:1.6;font-size:10pt"><br>(<a href="./rsday2013"> Program schedule </a>) . 
+</span><br />-->
+
+
+<p />&nbsp;
+<p />&nbsp;
+<p />
+
+<ul><li>
+<font size="3" color="maroon">Recent News</font><P>
+
+
+
+<i>23-March-2015</i>:  <A href="http://cse.iitkgp.ac.in/" target="_blank"> Mr. Aritra Hazra </A> defended his PhD thesis on "Formal Methods for Architectural Power Intent Verification and Functional Reliability Analysis".<p>
+
+<i>17-March-2015</i>:  <A href="http://cse.iitkgp.ac.in/" target="_blank"> Mr. Debapriya Basu Roy </A> defended his MS thesis on "FPGA based accelerators for binary and   Prime field ECC and their side-channel  analysis".<p>
+
+<i>4-March-2015</i>:  <A href="http://cse.iitkgp.ac.in/" target="_blank"> Mr. Partha De </A> defended his MS thesis on "
+Design of Power Attack Resistant Circuits for Cryptography".<p>
+
+<i>27-February-2015</i>:  <A href="http://cse.iitkgp.ac.in/" target="_blank"> Mr. Tapas Samanta </A> defended his PhD thesis on "
+Formal Verification of Liveness  Properties of Distributed System Protocols by Model Checking".<p>
+
+<i>13-February-2015</i>:  <A href="http://cse.iitkgp.ac.in/~skarati" target="_blank"> Mr. Sabyasachi Karati </A> defended his PhD thesis on "
+Batch Verification of Elliptic Curve and Edwards Curve Digital Signatures".<p>
+
+<i>11-February-2015</i>:  <A href="http://cse.iitkgp.ac.in/" target="_blank"> Mr. Souvik Koley </A> defended his MS thesis on "
+Lightweight Crypto-Primitives on Fpgas".<p>
+
+<i>10-February-2015</i>:  <A href="http://cse.iitkgp.ac.in/" target="_blank"> Mr. Bodhisatwa Mazumder </A> defended his PhD thesis on "Design and Analysis of Cryptographic Boolean Functions with Improved Side-Channel Resistance".<p>
+
+<i>21-July-2014</i>:  <A href="http://cse.iitkgp.ac.in/~skundu/" target="_blank"> Mr. Subhadip Kundu </A> defended his PhD thesis on "
+Diagnosis Techniques for Identifying Faults in Digital VLSI Circuits".<p>
+
+<i>11-July-2014</i>:  <A href="http://cse.iitkgp.ac.in/~satyagv/" target="_blank"> Mr. Satya Gautam Vadlamudi </A> defended his PhD thesis on "
+New Algorithms and Applications of Searching State-Space Graphs and Monotone Multi-Dimensional Arrays".<p>
+
+
+<i>11-July-2014</i>:  <A href="http://cse.iitkgp.ac.in/~kallolm/" target="_blank"> Mr. Kallol Mallick </A> defended his PhD thesis on "
+Distributed Video Coding Using Local Rank Transform".<p>
+
+<i>04-July-2014</i>:  <A href="http://cse.iitkgp.ac.in/~sudipr/" target="_blank"> Mr. Sudip Roy </A> defended his PhD thesis on "
+Design Automation Algorithms for Sample Preparation on a Digital Microfluid LAB-ON-A-CHIP".<p>
+
+<i>10-April-2014</i>:  <A href="http://cse.iitkgp.ac.in/~binanda/" target="_blank"> Mr. Binanda Sengupta</A> defended his MS thesis on "
+SIMD-based implementations of the sieving inter-factoring algorithms".<p>
+
+<i>06-Mar-2014</i>:  <A href="http://cse.iitkgp.ac.in/~mnndrd/" target="_blank"> Mr. Maunendra Sankar Desarkar</A> defended his PhD thesis on "Algorithm for Recommendation Systems and Aggregation".<p>
+
+<i>17-Jan-2014</i>:  <A href="http://cse.iitkgp.ac.in/~ritwika/" target="_blank"> Ms. Ritwika Ghose</A> defended her MS thesis on "An Enhanced Web Browser and Content Presentation Approach for the Blind People: Designand Implementation".<p>
+
+<i>30-Dec-2013</i>:  <A href="http://cse.iitkgp.ac.in/~crpani/" target="_blank"> Ms.  Chhabi Rani Panigrahi</A> defended her PhD thesis on "Regression Test Selection and Prioritization for Object-oriented Programs".<p>
+
+<i>06-Dec-2013</i>:  <A href="http://cse.iitkgp.ac.in/~prynkrg/" target="_blank"> Mr. Priyankar Ghosh</A> defended his PhD thesis on "Search Techniques for alternative solutions for and/or graphs and biobjective optimization problems".<p>
+
+<i> 19-Oct-2013</i>: Kunal Banerjee received <b>Best Paper Award</b> in the conference <b>I-CARE 2013</b>. Congrats !!!<p>
+
+<i>14-Aug-2013</i>:  <A href="http://cse.iitkgp.ac.in/~debmalya/" target="_blank"> Mr. Debmalya Sinha</A> defended his MS thesis on "Design and Evaluation of a new interface for file browsing under Linux environment".<p>
+
+<i>22-July-2013</i>:  <A href="http://cse.iitkgp.ac.in/~sanman/" target="_blank"> Mr. Sandip Mandal</A> defended his MS thesis on "Automatic Speech Recognition in Bengali: Development, Application and optimizations for computer resource constrained devices".<p>
+
+<i>19-July-2013</i>:  <A href="http://cse.iitkgp.ac.in/~rajmukh/" target="_blank"> Mr. Rajdeep Mukherjee</A> defended his MS thesis on "Novel Approaches for Synthesis and Formal Verification of Low Power Circuits".<p>
+
+<i>28-June-2013</i>:  <A href="http://cse.iitkgp.ac.in/~srobonamt/" target="_blank"> Ms. Srobona Mitra</A> defended his PhD thesis on  "Formal Methods for Aiding Verification of Local Design Changes in Digital Integrated Circuits".<p>
+
+<i>17-June-2013</i>:  <A href="http://cse.iitkgp.ac.in/~sghosh/" target="_blank"> Mr. Saptarshi Ghosh</A> defended his PhD thesis on  "Online Social Networks: Evaluation and Search".<p>
+
+<i>15-June-2013</i>:  <A href="http://cse.iitkgp.ac.in/~ska/" target="_blank">Mr. Sk. Subidh Ali</A> defended his PhD thesis on  "Differential fault Analysis of Block Ciphers".<p>
+
+<i>04-June-2013</i>: Abir De got the Google India PhD fellowship 2013 in Social Networking. Congrats !!! <p>
+
+<i>02-May-2013</i>: <A href="http://cse.iitkgp.ac.in/~smohanta/" target="_blank"> Sirsendu Mohanta</A>  defended his MS thesis <p>
+
+<i>19-April-2013</i>: <A href="http://cse.iitkgp.ac.in/~bbarik/" target="_blank"> Biswanath Barik</A>  defended his MS thesis on  "Performance Enhancement of Bengali-Hindi Machine Translation Through Syntactic Analysis Refinement".<p>
+
+<i>23-Mar-2011</i>: Research Scholars' Day 2013 is on March 23. All are invited. Click <A href="http://cse.iitkgp.ac.in/~rs/rsday2013.pdf"> here </A> for the brochure.<p>
+
+<i>28-Feb-2013</i>:  Chandan Misra defended his MS thesis on  "A software system for transcribing and rendering indic music system".<p>
+
+<i>26-Feb-2013</i>:  <A href="http://cse.iitkgp.ac.in/~dineshd/" target="_blank">Dinesh Dash</A> defended his PhD thesis on  "Geometric algorithms for coverage in wireless sensor networks".<p>
+
+
+
+
+
+
+
+<A href="news.html">+ More News</A>
+
+</td>
+</tr>
+
+<tr><td colspan="2" class="FooterHome">
+<div class="FooterWrap">
+	<div class="Copyright"><i>Last Updated:</i> March 2015</div>
+</div>
+</td></tr>
+
+</table>
+</body>
+
+</html> 
